@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Marcel Ciolacu",
+    "role": "Deputat",
+    "party": "PSD",
+    "county": "București",
+    "email": "contact@psd.ro",
+    "phone": "0210000000",
+    "address": "București",
+    "presence": 85,
+    "initiatives": 40,
+    "score": 82,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Marcel_Ciolacu_2024.jpg"
+  },
+  {
+    "name": "Nicolae Ciucă",
+    "role": "Senator",
+    "party": "PNL",
+    "county": "București",
+    "email": "contact@pnl.ro",
+    "phone": "0211111111",
+    "address": "București",
+    "presence": 78,
+    "initiatives": 22,
+    "score": 70,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nicolae_Ciuca.jpg"
+  }
+]
