@@ -9,7 +9,9 @@
     "address": "București",
     "presence": 85,
     "initiatives": 40,
+    "votes": 50,
     "score": 82,
+    "media":50,
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Marcel_Ciolacu_2024.jpg"
   },
   {
@@ -22,7 +24,9 @@
     "address": "București",
     "presence": 78,
     "initiatives": 22,
+    "votes": 50,
     "score": 70,
+    "media":50,
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nicolae_Ciuca.jpg"
   }
 ]
