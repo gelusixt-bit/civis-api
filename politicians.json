@@ -20,12 +20,11 @@
     "votes": 70,
     "media": 60
   },
-
+  "score": 0
   "imageUrl": "https://...",
 
   "meta": {
     "createdAt": 1234567890,
     "updatedAt": 1234567890
   }
-  "score": 0
 }
