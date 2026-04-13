@@ -1,1 +1,30 @@
+{
+  "id": "grindeanu_sorin",
+  "name": "Grindeanu Sorin-Mihai",
+  "role": "Deputat",
+  "party": "PSD",
 
+  "contact": {
+    "email": "grindeanu@email.com",
+    "phone": "0712345678"
+  },
+
+  "location": {
+    "county": "Timiș",
+    "address": "Parlamentul României"
+  },
+
+  "activity": {
+    "presence": 85,
+    "initiatives": 12,
+    "votes": 70,
+    "media": 60
+  },
+
+  "imageUrl": "https://...",
+
+  "meta": {
+    "createdAt": 1234567890,
+    "updatedAt": 1234567890
+  }
+}
