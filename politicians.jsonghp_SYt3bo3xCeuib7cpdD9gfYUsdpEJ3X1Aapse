@@ -1,10 +1,10 @@
 {
   "politicians": [
     {
-      "id": "sunte�i_aici:",
-      "name": "Sunte�i aici:",
+      "id": "prima_pagina_>_legislatura_2024-prezent_/_camera_deputatilor",
+      "name": "Prima pagina > Legislatura 2024-prezent / Camera Deputatilor",
       "role": "Deputat",
-      "party": "Prima pagina > Legislatura 2024-prezent / Camera Deputatilor",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -21,14 +21,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149417
+        "updatedAt": 1776113443658
       }
     },
     {
-      "id": "10.",
-      "name": "10.",
+      "id": "adomnic�i_mirela_elena",
+      "name": "Adomnic�i Mirela Elena",
       "role": "Deputat",
-      "party": "Artimon Dan-C�t�lin",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -45,14 +45,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149420
+        "updatedAt": 1776113443659
       }
     },
     {
-      "id": "11.",
-      "name": "11.",
+      "id": "albu_dumitri�a",
+      "name": "Albu Dumitri�a",
       "role": "Deputat",
-      "party": "Atanasiu Corina",
+      "party": "43 / DIASPORA",
       "contact": {
         "email": "",
         "phone": ""
@@ -69,14 +69,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149420
+        "updatedAt": 1776113443660
       }
     },
     {
-      "id": "12.",
-      "name": "12.",
+      "id": "alecsandru_marius-nicolae",
+      "name": "Alecsandru Marius-Nicolae",
       "role": "Deputat",
-      "party": "Avr�mescu �tef�ni��-Alin",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -93,14 +93,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443660
       }
     },
     {
-      "id": "13.",
-      "name": "13.",
+      "id": "alecu_robert",
+      "name": "Alecu Robert",
       "role": "Deputat",
-      "party": "Baciu Romic�-Andrei",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -117,14 +117,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443660
       }
     },
     {
-      "id": "14.",
-      "name": "14.",
+      "id": "amet_varol",
+      "name": "Amet Varol",
       "role": "Deputat",
-      "party": "Badea Nelu-Valentin",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -141,14 +141,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443660
       }
     },
     {
-      "id": "15.",
-      "name": "15.",
+      "id": "andrei_alexandru-ioan",
+      "name": "Andrei Alexandru-Ioan",
       "role": "Deputat",
-      "party": "Badiu Georgel",
+      "party": "19 / GIURGIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -165,14 +165,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443661
       }
     },
     {
-      "id": "16.",
-      "name": "16.",
+      "id": "andrei_cosmin",
+      "name": "Andrei Cosmin",
       "role": "Deputat",
-      "party": "Balan Ioan",
+      "party": "38 / TULCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -189,14 +189,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443661
       }
     },
     {
-      "id": "17.",
-      "name": "17.",
+      "id": "andronache_gabriel",
+      "name": "Andronache Gabriel",
       "role": "Deputat",
-      "party": "Bara Nicolae-Adrian",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -213,14 +213,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443661
       }
     },
     {
-      "id": "18.",
-      "name": "18.",
+      "id": "andru�c�_lucian-nicolae",
+      "name": "Andru�c� Lucian-Nicolae",
       "role": "Deputat",
-      "party": "Barbu Florin-Ionu�",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -237,14 +237,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149421
+        "updatedAt": 1776113443661
       }
     },
     {
-      "id": "19.",
-      "name": "19.",
+      "id": "artimon_dan-c�t�lin",
+      "name": "Artimon Dan-C�t�lin",
       "role": "Deputat",
-      "party": "Barstan Tiberiu-Claudiu",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -261,14 +261,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149422
+        "updatedAt": 1776113443661
       }
     },
     {
-      "id": "20.",
-      "name": "20.",
+      "id": "atanasiu_corina",
+      "name": "Atanasiu Corina",
       "role": "Deputat",
-      "party": "Ba� Ana-Marcela",
+      "party": "41 / VRANCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -285,14 +285,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149422
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "21.",
-      "name": "21.",
+      "id": "avr�mescu_�tef�ni��-alin",
+      "name": "Avr�mescu �tef�ni��-Alin",
       "role": "Deputat",
-      "party": "B�i�anu �tefan-Alexandru",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -309,14 +309,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149422
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "22.",
-      "name": "22.",
+      "id": "baciu_romic�-andrei",
+      "name": "Baciu Romic�-Andrei",
       "role": "Deputat",
-      "party": "Becali George",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -333,14 +333,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149422
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "23.",
-      "name": "23.",
+      "id": "badea_nelu-valentin",
+      "name": "Badea Nelu-Valentin",
       "role": "Deputat",
-      "party": "Bejinariu Eugen",
+      "party": "36 / TELEORMAN",
       "contact": {
         "email": "",
         "phone": ""
@@ -357,14 +357,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149422
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "24.",
-      "name": "24.",
+      "id": "badiu_georgel",
+      "name": "Badiu Georgel",
       "role": "Deputat",
-      "party": "Bende S�ndor",
+      "party": "41 / VRANCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -381,14 +381,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "25.",
-      "name": "25.",
+      "id": "balan_ioan",
+      "name": "Balan Ioan",
       "role": "Deputat",
-      "party": "Berescu Monica-Elena",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -405,14 +405,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "26.",
-      "name": "26.",
+      "id": "bara_nicolae-adrian",
+      "name": "Bara Nicolae-Adrian",
       "role": "Deputat",
-      "party": "Biro Daniel-R�zvan",
+      "party": "1 / ALBA",
       "contact": {
         "email": "",
         "phone": ""
@@ -429,14 +429,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443662
       }
     },
     {
-      "id": "27.",
-      "name": "27.",
+      "id": "barbu_florin-ionu�",
+      "name": "Barbu Florin-Ionu�",
       "role": "Deputat",
-      "party": "Bir� Roz�lia-Ibolya",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -453,14 +453,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "28.",
-      "name": "28.",
+      "id": "barstan_tiberiu-claudiu",
+      "name": "Barstan Tiberiu-Claudiu",
       "role": "Deputat",
-      "party": "Blaga Daniel-Codru�",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -477,14 +477,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "29.",
-      "name": "29.",
+      "id": "ba�_ana-marcela",
+      "name": "Ba� Ana-Marcela",
       "role": "Deputat",
-      "party": "Bode Lucian Nicolae",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -501,14 +501,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "30.",
-      "name": "30.",
+      "id": "b�i�anu_�tefan-alexandru",
+      "name": "B�i�anu �tefan-Alexandru",
       "role": "Deputat",
-      "party": "Bogdan Ionel-Ovidiu",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -525,14 +525,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149423
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "31.",
-      "name": "31.",
+      "id": "becali_george",
+      "name": "Becali George",
       "role": "Deputat",
-      "party": "Bogd�nel Lucian-Gabriel",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -549,14 +549,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "32.",
-      "name": "32.",
+      "id": "bejinariu_eugen",
+      "name": "Bejinariu Eugen",
       "role": "Deputat",
-      "party": "Bordian Alexandru",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -573,14 +573,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443663
       }
     },
     {
-      "id": "33.",
-      "name": "33.",
+      "id": "bende_s�ndor",
+      "name": "Bende S�ndor",
       "role": "Deputat",
-      "party": "Bor� George-M�d�lin",
+      "party": "21 / HARGHITA",
       "contact": {
         "email": "",
         "phone": ""
@@ -597,14 +597,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443664
       }
     },
     {
-      "id": "34.",
-      "name": "34.",
+      "id": "berescu_monica-elena",
+      "name": "Berescu Monica-Elena",
       "role": "Deputat",
-      "party": "Bo�utar Tiberiu-Nicolae",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -621,14 +621,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443664
       }
     },
     {
-      "id": "35.",
-      "name": "35.",
+      "id": "biro_daniel-r�zvan",
+      "name": "Biro Daniel-R�zvan",
       "role": "Deputat",
-      "party": "Botez Mihai-C�t�lin",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -645,14 +645,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443664
       }
     },
     {
-      "id": "36.",
-      "name": "36.",
+      "id": "bir�_roz�lia-ibolya",
+      "name": "Bir� Roz�lia-Ibolya",
       "role": "Deputat",
-      "party": "Bouda �tefan",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -669,14 +669,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443664
       }
     },
     {
-      "id": "37.",
-      "name": "37.",
+      "id": "blaga_daniel-codru�",
+      "name": "Blaga Daniel-Codru�",
       "role": "Deputat",
-      "party": "Bruynseels Ramona-Ioana",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -693,14 +693,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443664
       }
     },
     {
-      "id": "38.",
-      "name": "38.",
+      "id": "bode_lucian_nicolae",
+      "name": "Bode Lucian Nicolae",
       "role": "Deputat",
-      "party": "Bucur Ariana-Oana",
+      "party": "33 / S�LAJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -717,14 +717,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149424
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "39.",
-      "name": "39.",
+      "id": "bogdan_ionel-ovidiu",
+      "name": "Bogdan Ionel-Ovidiu",
       "role": "Deputat",
-      "party": "Bucura-Oprescu Simona",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -741,14 +741,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "40.",
-      "name": "40.",
+      "id": "bogd�nel_lucian-gabriel",
+      "name": "Bogd�nel Lucian-Gabriel",
       "role": "Deputat",
-      "party": "Budac� Vasile",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -765,14 +765,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "41.",
-      "name": "41.",
+      "id": "bordian_alexandru",
+      "name": "Bordian Alexandru",
       "role": "Deputat",
-      "party": "Bud�i Marius-Constantin",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -789,14 +789,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "42.",
-      "name": "42.",
+      "id": "bor�_george-m�d�lin",
+      "name": "Bor� George-M�d�lin",
       "role": "Deputat",
-      "party": "Buican Cristian",
+      "party": "36 / TELEORMAN",
       "contact": {
         "email": "",
         "phone": ""
@@ -813,14 +813,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "43.",
-      "name": "43.",
+      "id": "bo�utar_tiberiu-nicolae",
+      "name": "Bo�utar Tiberiu-Nicolae",
       "role": "Deputat",
-      "party": "Bulai Iulian",
+      "party": "6 / BISTRI�A-N�S�UD",
       "contact": {
         "email": "",
         "phone": ""
@@ -837,14 +837,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "44.",
-      "name": "44.",
+      "id": "botez_mihai-c�t�lin",
+      "name": "Botez Mihai-C�t�lin",
       "role": "Deputat",
-      "party": "Bulearc� Marius-Felix",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -861,14 +861,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443665
       }
     },
     {
-      "id": "45.",
-      "name": "45.",
+      "id": "bouda_�tefan",
+      "name": "Bouda �tefan",
       "role": "Deputat",
-      "party": "Burduja Sebastian-Ioan",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -885,14 +885,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "46.",
-      "name": "46.",
+      "id": "bruynseels_ramona-ioana",
+      "name": "Bruynseels Ramona-Ioana",
       "role": "Deputat",
-      "party": "Butur� Cristina-Irina",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -909,14 +909,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149425
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "47.",
-      "name": "47.",
+      "id": "bucur_ariana-oana",
+      "name": "Bucur Ariana-Oana",
       "role": "Deputat",
-      "party": "Buzoianu Diana-Anda",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -933,14 +933,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "48.",
-      "name": "48.",
+      "id": "bucura-oprescu_simona",
+      "name": "Bucura-Oprescu Simona",
       "role": "Deputat",
-      "party": "Cadar R�zvan-Olimpiu",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -957,14 +957,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "49.",
-      "name": "49.",
+      "id": "budac�_vasile",
+      "name": "Budac� Vasile",
       "role": "Deputat",
-      "party": "Caraga�� Florin",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -981,14 +981,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "50.",
-      "name": "50.",
+      "id": "bud�i_marius-constantin",
+      "name": "Bud�i Marius-Constantin",
       "role": "Deputat",
-      "party": "C�ciu Adrian",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1005,14 +1005,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "51.",
-      "name": "51.",
+      "id": "buican_cristian",
+      "name": "Buican Cristian",
       "role": "Deputat",
-      "party": "Cernit Maria",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1029,14 +1029,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443666
       }
     },
     {
-      "id": "52.",
-      "name": "52.",
+      "id": "bulai_iulian",
+      "name": "Bulai Iulian",
       "role": "Deputat",
-      "party": "Chilat Crina-Fiorela",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1053,14 +1053,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "53.",
-      "name": "53.",
+      "id": "bulearc�_marius-felix",
+      "name": "Bulearc� Marius-Felix",
       "role": "Deputat",
-      "party": "Chiril� Virgil Alin",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1077,14 +1077,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "54.",
-      "name": "54.",
+      "id": "burduja_sebastian-ioan",
+      "name": "Burduja Sebastian-Ioan",
       "role": "Deputat",
-      "party": "Chiri�� R�zvan-Mirel",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1101,14 +1101,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "55.",
-      "name": "55.",
+      "id": "butur�_cristina-irina",
+      "name": "Butur� Cristina-Irina",
       "role": "Deputat",
-      "party": "Ciobanu Adrian-Virgil",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1125,14 +1125,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149426
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "56.",
-      "name": "56.",
+      "id": "buzoianu_diana-anda",
+      "name": "Buzoianu Diana-Anda",
       "role": "Deputat",
-      "party": "Ciobotaru Drago�-F�nic�",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1149,14 +1149,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "57.",
-      "name": "57.",
+      "id": "cadar_r�zvan-olimpiu",
+      "name": "Cadar R�zvan-Olimpiu",
       "role": "Deputat",
-      "party": "Ciocan Doini�a",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -1173,14 +1173,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "58.",
-      "name": "58.",
+      "id": "caraga��_florin",
+      "name": "Caraga�� Florin",
       "role": "Deputat",
-      "party": "Ciornei Daniel-C�t�lin",
+      "party": "23 / IALOMI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -1197,14 +1197,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "59.",
-      "name": "59.",
+      "id": "c�ciu_adrian",
+      "name": "C�ciu Adrian",
       "role": "Deputat",
-      "party": "Ciortea R�zvan-Iulian",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -1221,14 +1221,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443667
       }
     },
     {
-      "id": "60.",
-      "name": "60.",
+      "id": "cernit_maria",
+      "name": "Cernit Maria",
       "role": "Deputat",
-      "party": "Ciubuc Ciprian",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -1245,14 +1245,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "61.",
-      "name": "61.",
+      "id": "chilat_crina-fiorela",
+      "name": "Chilat Crina-Fiorela",
       "role": "Deputat",
-      "party": "Ciuc� Liviu-Bogdan",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1269,14 +1269,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "62.",
-      "name": "62.",
+      "id": "chiril�_virgil_alin",
+      "name": "Chiril� Virgil Alin",
       "role": "Deputat",
-      "party": "Ciunt Ionel",
+      "party": "27 / MEHEDIN�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -1293,14 +1293,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "63.",
-      "name": "63.",
+      "id": "chiri��_r�zvan-mirel",
+      "name": "Chiri�� R�zvan-Mirel",
       "role": "Deputat",
-      "party": "C�mpan Cristian-Emanuel",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1317,14 +1317,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149427
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "64.",
-      "name": "64.",
+      "id": "ciobanu_adrian-virgil",
+      "name": "Ciobanu Adrian-Virgil",
       "role": "Deputat",
-      "party": "C�mpean Ovidiu-Vasile",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1341,14 +1341,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "65.",
-      "name": "65.",
+      "id": "ciobotaru_drago�-f�nic�",
+      "name": "Ciobotaru Drago�-F�nic�",
       "role": "Deputat",
-      "party": "C�mpianu Andreea-Petronela",
+      "party": "41 / VRANCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1365,14 +1365,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "66.",
-      "name": "66.",
+      "id": "ciocan_doini�a",
+      "name": "Ciocan Doini�a",
       "role": "Deputat",
-      "party": "C�rligea Florin-Eugen",
+      "party": "9 / BR�ILA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1389,14 +1389,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "67.",
-      "name": "67.",
+      "id": "ciornei_daniel-c�t�lin",
+      "name": "Ciornei Daniel-C�t�lin",
       "role": "Deputat",
-      "party": "C�rligeanu Ariadna-Elena",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1413,14 +1413,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443668
       }
     },
     {
-      "id": "68.",
-      "name": "68.",
+      "id": "ciortea_r�zvan-iulian",
+      "name": "Ciortea R�zvan-Iulian",
       "role": "Deputat",
-      "party": "Coarn� Dumitru",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -1437,14 +1437,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "69.",
-      "name": "69.",
+      "id": "ciubuc_ciprian",
+      "name": "Ciubuc Ciprian",
       "role": "Deputat",
-      "party": "Cojocaru Petru-Bogdan",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1461,14 +1461,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "70.",
-      "name": "70.",
+      "id": "ciuc�_liviu-bogdan",
+      "name": "Ciuc� Liviu-Bogdan",
       "role": "Deputat",
-      "party": "Cole�a Ilie-Alin",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -1485,14 +1485,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "71.",
-      "name": "71.",
+      "id": "ciunt_ionel",
+      "name": "Ciunt Ionel",
       "role": "Deputat",
-      "party": "Coliban Allen",
+      "party": "33 / S�LAJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -1509,14 +1509,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "72.",
-      "name": "72.",
+      "id": "c�mpan_cristian-emanuel",
+      "name": "C�mpan Cristian-Emanuel",
       "role": "Deputat",
-      "party": "Coman Drago�-Florin",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -1533,14 +1533,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149428
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "73.",
-      "name": "73.",
+      "id": "c�mpean_ovidiu-vasile",
+      "name": "C�mpean Ovidiu-Vasile",
       "role": "Deputat",
-      "party": "Constantinescu Andra-Claudia",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -1557,14 +1557,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "74.",
-      "name": "74.",
+      "id": "c�mpianu_andreea-petronela",
+      "name": "C�mpianu Andreea-Petronela",
       "role": "Deputat",
-      "party": "Constantinescu Sergiu-Mircea",
+      "party": "43 / DIASPORA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1581,14 +1581,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "75.",
-      "name": "75.",
+      "id": "c�rligea_florin-eugen",
+      "name": "C�rligea Florin-Eugen",
       "role": "Deputat",
-      "party": "Corche� Codru�a-Maria",
+      "party": "9 / BR�ILA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1605,14 +1605,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443669
       }
     },
     {
-      "id": "76.",
-      "name": "76.",
+      "id": "c�rligeanu_ariadna-elena",
+      "name": "C�rligeanu Ariadna-Elena",
       "role": "Deputat",
-      "party": "Corendea Cosmin-Ioan",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1629,14 +1629,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "77.",
-      "name": "77.",
+      "id": "coarn�_dumitru",
+      "name": "Coarn� Dumitru",
       "role": "Deputat",
-      "party": "Cotinescu Ilie-Aurelian",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -1653,14 +1653,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "78.",
-      "name": "78.",
+      "id": "cojocaru_petru-bogdan",
+      "name": "Cojocaru Petru-Bogdan",
       "role": "Deputat",
-      "party": "Cot�rle� Paul-Claudiu",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -1677,14 +1677,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "79.",
-      "name": "79.",
+      "id": "cole�a_ilie-alin",
+      "name": "Cole�a Ilie-Alin",
       "role": "Deputat",
-      "party": "Cozma Adrian-Felician",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -1701,14 +1701,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "80.",
-      "name": "80.",
+      "id": "coliban_allen",
+      "name": "Coliban Allen",
       "role": "Deputat",
-      "party": "Cristian Brian",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -1725,14 +1725,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149429
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "81.",
-      "name": "81.",
+      "id": "coman_drago�-florin",
+      "name": "Coman Drago�-Florin",
       "role": "Deputat",
-      "party": "Cr�stici Ognean",
+      "party": "12 / C�L�RA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -1749,14 +1749,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "82.",
-      "name": "82.",
+      "id": "constantinescu_andra-claudia",
+      "name": "Constantinescu Andra-Claudia",
       "role": "Deputat",
-      "party": "Cru�oveanu Marian",
+      "party": "9 / BR�ILA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1773,14 +1773,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "83.",
-      "name": "83.",
+      "id": "constantinescu_sergiu-mircea",
+      "name": "Constantinescu Sergiu-Mircea",
       "role": "Deputat",
-      "party": "Cs�p �va-Andrea",
+      "party": "38 / TULCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -1797,14 +1797,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "84.",
-      "name": "84.",
+      "id": "corche�_codru�a-maria",
+      "name": "Corche� Codru�a-Maria",
       "role": "Deputat",
-      "party": "Csillag Andrei",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1821,14 +1821,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443670
       }
     },
     {
-      "id": "85.",
-      "name": "85.",
+      "id": "corendea_cosmin-ioan",
+      "name": "Corendea Cosmin-Ioan",
       "role": "Deputat",
-      "party": "Csoma Botond",
+      "party": "19 / GIURGIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -1845,14 +1845,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "86.",
-      "name": "86.",
+      "id": "cotinescu_ilie-aurelian",
+      "name": "Cotinescu Ilie-Aurelian",
       "role": "Deputat",
-      "party": "Culeaf� Mihai",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -1869,14 +1869,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "87.",
-      "name": "87.",
+      "id": "cot�rle�_paul-claudiu",
+      "name": "Cot�rle� Paul-Claudiu",
       "role": "Deputat",
-      "party": "Dasc�lu Cristina-Emanuela",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1893,14 +1893,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "88.",
-      "name": "88.",
+      "id": "cozma_adrian-felician",
+      "name": "Cozma Adrian-Felician",
       "role": "Deputat",
-      "party": "Dimitriu Alexandru-Paul",
+      "party": "32 / SATU-MARE",
       "contact": {
         "email": "",
         "phone": ""
@@ -1917,14 +1917,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "89.",
-      "name": "89.",
+      "id": "cristian_brian",
+      "name": "Cristian Brian",
       "role": "Deputat",
-      "party": "Dobo� Elena",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -1941,14 +1941,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149430
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "90.",
-      "name": "90.",
+      "id": "cr�stici_ognean",
+      "name": "Cr�stici Ognean",
       "role": "Deputat",
-      "party": "Dobre Ciprian-Minodor",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -1965,14 +1965,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "91.",
-      "name": "91.",
+      "id": "cru�oveanu_marian",
+      "name": "Cru�oveanu Marian",
       "role": "Deputat",
-      "party": "Dolineaschi Andrei",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -1989,14 +1989,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "92.",
-      "name": "92.",
+      "id": "cs�p_�va-andrea",
+      "name": "Cs�p �va-Andrea",
       "role": "Deputat",
-      "party": "Dr�goescu Cezar-Mihail",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -2013,14 +2013,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443671
       }
     },
     {
-      "id": "93.",
-      "name": "93.",
+      "id": "csillag_andrei",
+      "name": "Csillag Andrei",
       "role": "Deputat",
-      "party": "Drinceanu Vlad-Florentin",
+      "party": "6 / BISTRI�A-N�S�UD",
       "contact": {
         "email": "",
         "phone": ""
@@ -2037,14 +2037,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "94.",
-      "name": "94.",
+      "id": "csoma_botond",
+      "name": "Csoma Botond",
       "role": "Deputat",
-      "party": "Drul� C�t�lin",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -2061,14 +2061,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "95.",
-      "name": "95.",
+      "id": "culeaf�_mihai",
+      "name": "Culeaf� Mihai",
       "role": "Deputat",
-      "party": "Dunava Costel Neculai",
+      "party": "27 / MEHEDIN�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -2085,14 +2085,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "96.",
-      "name": "96.",
+      "id": "dasc�lu_cristina-emanuela",
+      "name": "Dasc�lu Cristina-Emanuela",
       "role": "Deputat",
-      "party": "Echert Adrian",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -2109,14 +2109,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "97.",
-      "name": "97.",
+      "id": "dimitriu_alexandru-paul",
+      "name": "Dimitriu Alexandru-Paul",
       "role": "Deputat",
-      "party": "Enache Diana",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2133,14 +2133,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "98.",
-      "name": "98.",
+      "id": "dobo�_elena",
+      "name": "Dobo� Elena",
       "role": "Deputat",
-      "party": "Enache Mihai-Adrian",
+      "party": "38 / TULCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2157,14 +2157,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149431
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "99.",
-      "name": "99.",
+      "id": "dobre_ciprian-minodor",
+      "name": "Dobre Ciprian-Minodor",
       "role": "Deputat",
-      "party": "Enachi Raisa",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -2181,14 +2181,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "100.",
-      "name": "100.",
+      "id": "dolineaschi_andrei",
+      "name": "Dolineaschi Andrei",
       "role": "Deputat",
-      "party": "Ene Gabriela-Corina",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2205,14 +2205,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "101.",
-      "name": "101.",
+      "id": "dr�goescu_cezar-mihail",
+      "name": "Dr�goescu Cezar-Mihail",
       "role": "Deputat",
-      "party": "F�get M�d�lin-Lauren�iu",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -2229,14 +2229,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443672
       }
     },
     {
-      "id": "102.",
-      "name": "102.",
+      "id": "drinceanu_vlad-florentin",
+      "name": "Drinceanu Vlad-Florentin",
       "role": "Deputat",
-      "party": "Fechet Mircea",
+      "party": "36 / TELEORMAN",
       "contact": {
         "email": "",
         "phone": ""
@@ -2253,14 +2253,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "103.",
-      "name": "103.",
+      "id": "drul�_c�t�lin",
+      "name": "Drul� C�t�lin",
       "role": "Deputat",
-      "party": "Feodor Silviu",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -2277,14 +2277,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "104.",
-      "name": "104.",
+      "id": "dunava_costel_neculai",
+      "name": "Dunava Costel Neculai",
       "role": "Deputat",
-      "party": "Fifor Mihai-Viorel",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -2301,14 +2301,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "105.",
-      "name": "105.",
+      "id": "echert_adrian",
+      "name": "Echert Adrian",
       "role": "Deputat",
-      "party": "Firczak Iulius Marian",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -2325,14 +2325,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "106.",
-      "name": "106.",
+      "id": "enache_diana",
+      "name": "Enache Diana",
       "role": "Deputat",
-      "party": "Florea Gabriel-Florinel",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -2349,14 +2349,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149432
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "107.",
-      "name": "107.",
+      "id": "enache_mihai-adrian",
+      "name": "Enache Mihai-Adrian",
       "role": "Deputat",
-      "party": "Furtun� Mirela",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2373,14 +2373,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "108.",
-      "name": "108.",
+      "id": "enachi_raisa",
+      "name": "Enachi Raisa",
       "role": "Deputat",
-      "party": "Gal C�lin-Gra�ian",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2397,14 +2397,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "109.",
-      "name": "109.",
+      "id": "ene_gabriela-corina",
+      "name": "Ene Gabriela-Corina",
       "role": "Deputat",
-      "party": "G�l K�roly",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -2421,14 +2421,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "110.",
-      "name": "110.",
+      "id": "f�get_m�d�lin-lauren�iu",
+      "name": "F�get M�d�lin-Lauren�iu",
       "role": "Deputat",
-      "party": "Gan� Ovidiu Victor",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -2445,14 +2445,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443673
       }
     },
     {
-      "id": "111.",
-      "name": "111.",
+      "id": "fechet_mircea",
+      "name": "Fechet Mircea",
       "role": "Deputat",
-      "party": "Gavril� Anamaria",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -2469,14 +2469,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "112.",
-      "name": "112.",
+      "id": "feodor_silviu",
+      "name": "Feodor Silviu",
       "role": "Deputat",
-      "party": "Gavril� Bianca-Eugenia",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -2493,14 +2493,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "113.",
-      "name": "113.",
+      "id": "fifor_mihai-viorel",
+      "name": "Fifor Mihai-Viorel",
       "role": "Deputat",
-      "party": "Gavrilescu Gra�iela Leocadia",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -2517,14 +2517,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "114.",
-      "name": "114.",
+      "id": "firczak_iulius_marian",
+      "name": "Firczak Iulius Marian",
       "role": "Deputat",
-      "party": "Geam�nu Aurora-Adela",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -2541,14 +2541,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "115.",
-      "name": "115.",
+      "id": "florea_gabriel-florinel",
+      "name": "Florea Gabriel-Florinel",
       "role": "Deputat",
-      "party": "Georgescu Gheorghe-Daniel",
+      "party": "36 / TELEORMAN",
       "contact": {
         "email": "",
         "phone": ""
@@ -2565,14 +2565,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "116.",
-      "name": "116.",
+      "id": "furtun�_mirela",
+      "name": "Furtun� Mirela",
       "role": "Deputat",
-      "party": "Gheorghe Andrei Daniel",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2589,14 +2589,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149433
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "117.",
-      "name": "117.",
+      "id": "gal_c�lin-gra�ian",
+      "name": "Gal C�lin-Gra�ian",
       "role": "Deputat",
-      "party": "Gheorghe Ionel",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -2613,14 +2613,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "118.",
-      "name": "118.",
+      "id": "g�l_k�roly",
+      "name": "G�l K�roly",
       "role": "Deputat",
-      "party": "Gheorghe Mihai-Claudiu",
+      "party": "15 / COVASNA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2637,14 +2637,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443674
       }
     },
     {
-      "id": "119.",
-      "name": "119.",
+      "id": "gan�_ovidiu_victor",
+      "name": "Gan� Ovidiu Victor",
       "role": "Deputat",
-      "party": "Gheorghiu Andrei-Florin",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -2661,14 +2661,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "120.",
-      "name": "120.",
+      "id": "gavril�_anamaria",
+      "name": "Gavril� Anamaria",
       "role": "Deputat",
-      "party": "Ghera Giureci-Slobodan",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2685,14 +2685,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "121.",
-      "name": "121.",
+      "id": "gavril�_bianca-eugenia",
+      "name": "Gavril� Bianca-Eugenia",
       "role": "Deputat",
-      "party": "Gherasim Laura",
+      "party": "1 / ALBA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2709,14 +2709,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "122.",
-      "name": "122.",
+      "id": "gavrilescu_gra�iela_leocadia",
+      "name": "Gavrilescu Gra�iela Leocadia",
       "role": "Deputat",
-      "party": "Ghigiu Alexandru-Mihai",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2733,14 +2733,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "123.",
-      "name": "123.",
+      "id": "geam�nu_aurora-adela",
+      "name": "Geam�nu Aurora-Adela",
       "role": "Deputat",
-      "party": "Gima George",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -2757,14 +2757,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149434
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "124.",
-      "name": "124.",
+      "id": "georgescu_gheorghe-daniel",
+      "name": "Georgescu Gheorghe-Daniel",
       "role": "Deputat",
-      "party": "Giurgiu Adrian",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -2781,14 +2781,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "125.",
-      "name": "125.",
+      "id": "gheorghe_andrei_daniel",
+      "name": "Gheorghe Andrei Daniel",
       "role": "Deputat",
-      "party": "Gliga Dumitri�a",
+      "party": "25 / ILFOV",
       "contact": {
         "email": "",
         "phone": ""
@@ -2805,14 +2805,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "126.",
-      "name": "126.",
+      "id": "gheorghe_ionel",
+      "name": "Gheorghe Ionel",
       "role": "Deputat",
-      "party": "Goidescu Ionel",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -2829,14 +2829,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "127.",
-      "name": "127.",
+      "id": "gheorghe_mihai-claudiu",
+      "name": "Gheorghe Mihai-Claudiu",
       "role": "Deputat",
-      "party": "Gorghiu Alina-�tefania",
+      "party": "12 / C�L�RA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -2853,14 +2853,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "128.",
-      "name": "128.",
+      "id": "gheorghiu_andrei-florin",
+      "name": "Gheorghiu Andrei-Florin",
       "role": "Deputat",
-      "party": "Govor Mircea-Vasile",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -2877,14 +2877,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443675
       }
     },
     {
-      "id": "129.",
-      "name": "129.",
+      "id": "ghera_giureci-slobodan",
+      "name": "Ghera Giureci-Slobodan",
       "role": "Deputat",
-      "party": "Grindeanu Sorin-Mihai",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -2901,14 +2901,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "130.",
-      "name": "130.",
+      "id": "gherasim_laura",
+      "name": "Gherasim Laura",
       "role": "Deputat",
-      "party": "Grofu Daniel",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2925,14 +2925,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "131.",
-      "name": "131.",
+      "id": "ghigiu_alexandru-mihai",
+      "name": "Ghigiu Alexandru-Mihai",
       "role": "Deputat",
-      "party": "Grosaru Ioana",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -2949,14 +2949,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "132.",
-      "name": "132.",
+      "id": "gima_george",
+      "name": "Gima George",
       "role": "Deputat",
-      "party": "Grosu Veronica",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -2973,14 +2973,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149435
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "133.",
-      "name": "133.",
+      "id": "giurgiu_adrian",
+      "name": "Giurgiu Adrian",
       "role": "Deputat",
-      "party": "Groza C�lin-Florin",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -2997,14 +2997,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "134.",
-      "name": "134.",
+      "id": "gliga_dumitri�a",
+      "name": "Gliga Dumitri�a",
       "role": "Deputat",
-      "party": "Gurlui Silviu-Octavian",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3021,14 +3021,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "135.",
-      "name": "135.",
+      "id": "goidescu_ionel",
+      "name": "Goidescu Ionel",
       "role": "Deputat",
-      "party": "Gu�� Andrei-Cosmin",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -3045,14 +3045,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443676
       }
     },
     {
-      "id": "136.",
-      "name": "136.",
+      "id": "gorghiu_alina-�tefania",
+      "name": "Gorghiu Alina-�tefania",
       "role": "Deputat",
-      "party": "Hagiu Augustin-Florin",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3069,14 +3069,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443680
       }
     },
     {
-      "id": "137.",
-      "name": "137.",
+      "id": "govor_mircea-vasile",
+      "name": "Govor Mircea-Vasile",
       "role": "Deputat",
-      "party": "Hajdu G�bor",
+      "party": "32 / SATU-MARE",
       "contact": {
         "email": "",
         "phone": ""
@@ -3093,14 +3093,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443680
       }
     },
     {
-      "id": "138.",
-      "name": "138.",
+      "id": "grindeanu_sorin-mihai",
+      "name": "Grindeanu Sorin-Mihai",
       "role": "Deputat",
-      "party": "Hangan Pollyanna-Hanellore",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3117,14 +3117,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443680
       }
     },
     {
-      "id": "139.",
-      "name": "139.",
+      "id": "grofu_daniel",
+      "name": "Grofu Daniel",
       "role": "Deputat",
-      "party": "Holban Georgeta-Carmen",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -3141,14 +3141,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "140.",
-      "name": "140.",
+      "id": "grosaru_ioana",
+      "name": "Grosaru Ioana",
       "role": "Deputat",
-      "party": "Hristu Cosmin",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -3165,14 +3165,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149440
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "141.",
-      "name": "141.",
+      "id": "grosu_veronica",
+      "name": "Grosu Veronica",
       "role": "Deputat",
-      "party": "Hu�uc� Bogdan-Iulian",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3189,14 +3189,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "142.",
-      "name": "142.",
+      "id": "groza_c�lin-florin",
+      "name": "Groza C�lin-Florin",
       "role": "Deputat",
-      "party": "Iag�r Monica",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3213,14 +3213,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "143.",
-      "name": "143.",
+      "id": "gurlui_silviu-octavian",
+      "name": "Gurlui Silviu-Octavian",
       "role": "Deputat",
-      "party": "Iancu Marius-Ionel",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -3237,14 +3237,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "144.",
-      "name": "144.",
+      "id": "gu��_andrei-cosmin",
+      "name": "Gu�� Andrei-Cosmin",
       "role": "Deputat",
-      "party": "Intotero Natalia-Elena",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3261,14 +3261,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "145.",
-      "name": "145.",
+      "id": "hagiu_augustin-florin",
+      "name": "Hagiu Augustin-Florin",
       "role": "Deputat",
-      "party": "Ion Nicolae-Mirel",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -3285,14 +3285,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "146.",
-      "name": "146.",
+      "id": "hajdu_g�bor",
+      "name": "Hajdu G�bor",
       "role": "Deputat",
-      "party": "Ion Stelian-Cristian",
+      "party": "21 / HARGHITA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3309,14 +3309,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "147.",
-      "name": "147.",
+      "id": "hangan_pollyanna-hanellore",
+      "name": "Hangan Pollyanna-Hanellore",
       "role": "Deputat",
-      "party": "Ionescu Monica",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3333,14 +3333,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443681
       }
     },
     {
-      "id": "148.",
-      "name": "148.",
+      "id": "holban_georgeta-carmen",
+      "name": "Holban Georgeta-Carmen",
       "role": "Deputat",
-      "party": "Ionescu Radu-Mihail",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -3357,14 +3357,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "149.",
-      "name": "149.",
+      "id": "hristu_cosmin",
+      "name": "Hristu Cosmin",
       "role": "Deputat",
-      "party": "Ionescu Tudor",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -3381,14 +3381,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "150.",
-      "name": "150.",
+      "id": "hu�uc�_bogdan-iulian",
+      "name": "Hu�uc� Bogdan-Iulian",
       "role": "Deputat",
-      "party": "Iordache Ion",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -3405,14 +3405,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149441
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "151.",
-      "name": "151.",
+      "id": "iag�r_monica",
+      "name": "Iag�r Monica",
       "role": "Deputat",
-      "party": "Iosub Cosmin-Teodor",
+      "party": "32 / SATU-MARE",
       "contact": {
         "email": "",
         "phone": ""
@@ -3429,14 +3429,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "152.",
-      "name": "152.",
+      "id": "iancu_marius-ionel",
+      "name": "Iancu Marius-Ionel",
       "role": "Deputat",
-      "party": "Irimia Ancu�a-Florina",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -3453,14 +3453,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "153.",
-      "name": "153.",
+      "id": "intotero_natalia-elena",
+      "name": "Intotero Natalia-Elena",
       "role": "Deputat",
-      "party": "Isac Marius-Adrian",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3477,14 +3477,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "154.",
-      "name": "154.",
+      "id": "ion_nicolae-mirel",
+      "name": "Ion Nicolae-Mirel",
       "role": "Deputat",
-      "party": "Ivan Bogdan-Gruia",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -3501,14 +3501,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "155.",
-      "name": "155.",
+      "id": "ion_stelian-cristian",
+      "name": "Ion Stelian-Cristian",
       "role": "Deputat",
-      "party": "Jianu Iosif-Florin",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -3525,14 +3525,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443682
       }
     },
     {
-      "id": "156.",
-      "name": "156.",
+      "id": "ionescu_monica",
+      "name": "Ionescu Monica",
       "role": "Deputat",
-      "party": "K�ntor Bogl�rka",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3549,14 +3549,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "157.",
-      "name": "157.",
+      "id": "ionescu_radu-mihail",
+      "name": "Ionescu Radu-Mihail",
       "role": "Deputat",
-      "party": "Kelemen Hunor",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -3573,14 +3573,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "158.",
-      "name": "158.",
+      "id": "ionescu_tudor",
+      "name": "Ionescu Tudor",
       "role": "Deputat",
-      "party": "Kolcs�r Anquetil-K�roly",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3597,14 +3597,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "159.",
-      "name": "159.",
+      "id": "iordache_ion",
+      "name": "Iordache Ion",
       "role": "Deputat",
-      "party": "Koler Eduard-Virgil",
+      "party": "20 / GORJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -3621,14 +3621,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "160.",
-      "name": "160.",
+      "id": "iosub_cosmin-teodor",
+      "name": "Iosub Cosmin-Teodor",
       "role": "Deputat",
-      "party": "K�nczei Csaba",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -3645,14 +3645,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149442
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "161.",
-      "name": "161.",
+      "id": "irimia_ancu�a-florina",
+      "name": "Irimia Ancu�a-Florina",
       "role": "Deputat",
-      "party": "Kroncsi� Sebastian-Andrei",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -3669,14 +3669,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "162.",
-      "name": "162.",
+      "id": "isac_marius-adrian",
+      "name": "Isac Marius-Adrian",
       "role": "Deputat",
-      "party": "Kulcs�r-Terza J�zsef-Gy�rgy",
+      "party": "11 / CARA�-SEVERIN",
       "contact": {
         "email": "",
         "phone": ""
@@ -3693,14 +3693,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "163.",
-      "name": "163.",
+      "id": "ivan_bogdan-gruia",
+      "name": "Ivan Bogdan-Gruia",
       "role": "Deputat",
-      "party": "Lad�nyi L�szl�-Zsolt",
+      "party": "6 / BISTRI�A-N�S�UD",
       "contact": {
         "email": "",
         "phone": ""
@@ -3717,14 +3717,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "164.",
-      "name": "164.",
+      "id": "jianu_iosif-florin",
+      "name": "Jianu Iosif-Florin",
       "role": "Deputat",
-      "party": "Laz�r Teodor",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -3741,14 +3741,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "165.",
-      "name": "165.",
+      "id": "k�ntor_bogl�rka",
+      "name": "K�ntor Bogl�rka",
       "role": "Deputat",
-      "party": "L�pu�an Remus-Gabriel",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -3765,14 +3765,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443683
       }
     },
     {
-      "id": "166.",
-      "name": "166.",
+      "id": "kelemen_hunor",
+      "name": "Kelemen Hunor",
       "role": "Deputat",
-      "party": "L�z�roi Ioan",
+      "party": "21 / HARGHITA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3789,14 +3789,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "167.",
-      "name": "167.",
+      "id": "kolcs�r_anquetil-k�roly",
+      "name": "Kolcs�r Anquetil-K�roly",
       "role": "Deputat",
-      "party": "Lip� Elisabeta",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -3813,14 +3813,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "168.",
-      "name": "168.",
+      "id": "koler_eduard-virgil",
+      "name": "Koler Eduard-Virgil",
       "role": "Deputat",
-      "party": "Longher Ghervazen",
+      "party": "27 / MEHEDIN�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -3837,14 +3837,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "169.",
-      "name": "169.",
+      "id": "k�nczei_csaba",
+      "name": "K�nczei Csaba",
       "role": "Deputat",
-      "party": "L�rincz �tefan-Iulian",
+      "party": "15 / COVASNA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3861,14 +3861,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "170.",
-      "name": "170.",
+      "id": "kroncsi�_sebastian-andrei",
+      "name": "Kroncsi� Sebastian-Andrei",
       "role": "Deputat",
-      "party": "Lovin Ramona",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -3885,14 +3885,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "171.",
-      "name": "171.",
+      "id": "kulcs�r-terza_j�zsef-gy�rgy",
+      "name": "Kulcs�r-Terza J�zsef-Gy�rgy",
       "role": "Deputat",
-      "party": "Lungu Romeo-Daniel",
+      "party": "15 / COVASNA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3909,14 +3909,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149443
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "172.",
-      "name": "172.",
+      "id": "lad�nyi_l�szl�-zsolt",
+      "name": "Lad�nyi L�szl�-Zsolt",
       "role": "Deputat",
-      "party": "Macovei Ilie Simona-Elena",
+      "party": "21 / HARGHITA",
       "contact": {
         "email": "",
         "phone": ""
@@ -3933,14 +3933,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "173.",
-      "name": "173.",
+      "id": "laz�r_teodor",
+      "name": "Laz�r Teodor",
       "role": "Deputat",
-      "party": "Magyar Lor�nd-B�lint",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -3957,14 +3957,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "174.",
-      "name": "174.",
+      "id": "l�pu�an_remus-gabriel",
+      "name": "L�pu�an Remus-Gabriel",
       "role": "Deputat",
-      "party": "Manole Petre-Florin",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -3981,14 +3981,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443684
       }
     },
     {
-      "id": "175.",
-      "name": "175.",
+      "id": "l�z�roi_ioan",
+      "name": "L�z�roi Ioan",
       "role": "Deputat",
-      "party": "Manta Claudiu",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4005,14 +4005,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "176.",
-      "name": "176.",
+      "id": "lip�_elisabeta",
+      "name": "Lip� Elisabeta",
       "role": "Deputat",
-      "party": "Marinescu Radu",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4029,14 +4029,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "177.",
-      "name": "177.",
+      "id": "longher_ghervazen",
+      "name": "Longher Ghervazen",
       "role": "Deputat",
-      "party": "Mark� Attila-G�bor",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -4053,14 +4053,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "178.",
-      "name": "178.",
+      "id": "l�rincz_�tefan-iulian",
+      "name": "L�rincz �tefan-Iulian",
       "role": "Deputat",
-      "party": "Marussi George-Nicolae",
+      "party": "43 / DIASPORA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4077,14 +4077,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "179.",
-      "name": "179.",
+      "id": "lovin_ramona",
+      "name": "Lovin Ramona",
       "role": "Deputat",
-      "party": "Matache Oana",
+      "party": "43 / DIASPORA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4101,14 +4101,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "180.",
-      "name": "180.",
+      "id": "lungu_romeo-daniel",
+      "name": "Lungu Romeo-Daniel",
       "role": "Deputat",
-      "party": "Matei Aneta",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -4125,14 +4125,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "181.",
-      "name": "181.",
+      "id": "macovei_ilie_simona-elena",
+      "name": "Macovei Ilie Simona-Elena",
       "role": "Deputat",
-      "party": "Matei Sergiu-Lucian",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -4149,14 +4149,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149444
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "182.",
-      "name": "182.",
+      "id": "magyar_lor�nd-b�lint",
+      "name": "Magyar Lor�nd-B�lint",
       "role": "Deputat",
-      "party": "Matichescu Mirela-Floren�a",
+      "party": "32 / SATU-MARE",
       "contact": {
         "email": "",
         "phone": ""
@@ -4173,14 +4173,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "183.",
-      "name": "183.",
+      "id": "manole_petre-florin",
+      "name": "Manole Petre-Florin",
       "role": "Deputat",
-      "party": "Matie� C�lin-Gheorghe",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4197,14 +4197,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "184.",
-      "name": "184.",
+      "id": "manta_claudiu",
+      "name": "Manta Claudiu",
       "role": "Deputat",
-      "party": "M�rg�rit Mitic�-Marius",
+      "party": "20 / GORJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -4221,14 +4221,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443685
       }
     },
     {
-      "id": "185.",
-      "name": "185.",
+      "id": "marinescu_radu",
+      "name": "Marinescu Radu",
       "role": "Deputat",
-      "party": "Merka Adrian-Miroslav",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -4245,14 +4245,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "186.",
-      "name": "186.",
+      "id": "mark�_attila-g�bor",
+      "name": "Mark� Attila-G�bor",
       "role": "Deputat",
-      "party": "Micl�u Samuel-Virgil",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4269,14 +4269,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "187.",
-      "name": "187.",
+      "id": "marussi_george-nicolae",
+      "name": "Marussi George-Nicolae",
       "role": "Deputat",
-      "party": "Mihaiu Radu-Nicolae",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4293,14 +4293,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "188.",
-      "name": "188.",
+      "id": "matache_oana",
+      "name": "Matache Oana",
       "role": "Deputat",
-      "party": "Mihalcea Ioan",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -4317,14 +4317,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "189.",
-      "name": "189.",
+      "id": "matei_aneta",
+      "name": "Matei Aneta",
       "role": "Deputat",
-      "party": "Mihalcea Remus-Gabriel",
+      "party": "19 / GIURGIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -4341,14 +4341,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "190.",
-      "name": "190.",
+      "id": "matei_sergiu-lucian",
+      "name": "Matei Sergiu-Lucian",
       "role": "Deputat",
-      "party": "Mihalcea Silvia-Claudia",
+      "party": "25 / ILFOV",
       "contact": {
         "email": "",
         "phone": ""
@@ -4365,14 +4365,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "191.",
-      "name": "191.",
+      "id": "matichescu_mirela-floren�a",
+      "name": "Matichescu Mirela-Floren�a",
       "role": "Deputat",
-      "party": "Mih�escu Mugur",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -4389,14 +4389,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "192.",
-      "name": "192.",
+      "id": "matie�_c�lin-gheorghe",
+      "name": "Matie� C�lin-Gheorghe",
       "role": "Deputat",
-      "party": "Mihu�i Bogdan-Florian",
+      "party": "1 / ALBA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4413,14 +4413,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149445
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "193.",
-      "name": "193.",
+      "id": "m�rg�rit_mitic�-marius",
+      "name": "M�rg�rit Mitic�-Marius",
       "role": "Deputat",
-      "party": "Mikl�s Zolt�n",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -4437,14 +4437,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "194.",
-      "name": "194.",
+      "id": "merka_adrian-miroslav",
+      "name": "Merka Adrian-Miroslav",
       "role": "Deputat",
-      "party": "Mina Marian",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -4461,14 +4461,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "195.",
-      "name": "195.",
+      "id": "micl�u_samuel-virgil",
+      "name": "Micl�u Samuel-Virgil",
       "role": "Deputat",
-      "party": "Miru�� Radu-Dinel",
+      "party": "11 / CARA�-SEVERIN",
       "contact": {
         "email": "",
         "phone": ""
@@ -4485,14 +4485,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443686
       }
     },
     {
-      "id": "196.",
-      "name": "196.",
+      "id": "mihaiu_radu-nicolae",
+      "name": "Mihaiu Radu-Nicolae",
       "role": "Deputat",
-      "party": "Mititelu Eduard-Tatian",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4509,14 +4509,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "197.",
-      "name": "197.",
+      "id": "mihalcea_ioan",
+      "name": "Mihalcea Ioan",
       "role": "Deputat",
-      "party": "Mitrea Dumitrina",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4533,14 +4533,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "198.",
-      "name": "198.",
+      "id": "mihalcea_remus-gabriel",
+      "name": "Mihalcea Remus-Gabriel",
       "role": "Deputat",
-      "party": "M�ndrescu Nicolae",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4557,14 +4557,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "199.",
-      "name": "199.",
+      "id": "mihalcea_silvia-claudia",
+      "name": "Mihalcea Silvia-Claudia",
       "role": "Deputat",
-      "party": "M�ndroc C�t�lin-Viorel",
+      "party": "11 / CARA�-SEVERIN",
       "contact": {
         "email": "",
         "phone": ""
@@ -4581,14 +4581,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "200.",
-      "name": "200.",
+      "id": "mih�escu_mugur",
+      "name": "Mih�escu Mugur",
       "role": "Deputat",
-      "party": "Mocanu Adrian",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -4605,14 +4605,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "201.",
-      "name": "201.",
+      "id": "mihu�i_bogdan-florian",
+      "name": "Mihu�i Bogdan-Florian",
       "role": "Deputat",
-      "party": "Moiseev Alexandrin",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -4629,14 +4629,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "202.",
-      "name": "202.",
+      "id": "mikl�s_zolt�n",
+      "name": "Mikl�s Zolt�n",
       "role": "Deputat",
-      "party": "Moisin Radu-Marin",
+      "party": "15 / COVASNA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4653,14 +4653,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149446
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "203.",
-      "name": "203.",
+      "id": "mina_marian",
+      "name": "Mina Marian",
       "role": "Deputat",
-      "party": "Molnar Andrei",
+      "party": "19 / GIURGIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -4677,14 +4677,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "204.",
-      "name": "204.",
+      "id": "miru��_radu-dinel",
+      "name": "Miru�� Radu-Dinel",
       "role": "Deputat",
-      "party": "Morar Lucian-Ioan-Titus",
+      "party": "20 / GORJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -4701,14 +4701,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "205.",
-      "name": "205.",
+      "id": "mititelu_eduard-tatian",
+      "name": "Mititelu Eduard-Tatian",
       "role": "Deputat",
-      "party": "Mo� Patricia-Simina-Arina",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4725,14 +4725,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "206.",
-      "name": "206.",
+      "id": "mitrea_dumitrina",
+      "name": "Mitrea Dumitrina",
       "role": "Deputat",
-      "party": "Mo�teanu Liviu-Ionu�",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4749,14 +4749,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443687
       }
     },
     {
-      "id": "207.",
-      "name": "207.",
+      "id": "m�ndrescu_nicolae",
+      "name": "M�ndrescu Nicolae",
       "role": "Deputat",
-      "party": "Muncaciu Sorin-Titus",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -4773,14 +4773,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "208.",
-      "name": "208.",
+      "id": "m�ndroc_c�t�lin-viorel",
+      "name": "M�ndroc C�t�lin-Viorel",
       "role": "Deputat",
-      "party": "Munteanu Valeriu",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4797,14 +4797,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "209.",
-      "name": "209.",
+      "id": "mocanu_adrian",
+      "name": "Mocanu Adrian",
       "role": "Deputat",
-      "party": "Murad Mohammad",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -4821,14 +4821,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "210.",
-      "name": "210.",
+      "id": "moiseev_alexandrin",
+      "name": "Moiseev Alexandrin",
       "role": "Deputat",
-      "party": "Murariu Oana",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -4845,14 +4845,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "211.",
-      "name": "211.",
+      "id": "moisin_radu-marin",
+      "name": "Moisin Radu-Marin",
       "role": "Deputat",
-      "party": "Muraru Iulian-Alexandru",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -4869,14 +4869,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "212.",
-      "name": "212.",
+      "id": "molnar_andrei",
+      "name": "Molnar Andrei",
       "role": "Deputat",
-      "party": "Mu�at Doru-Lucian",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4893,14 +4893,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "213.",
-      "name": "213.",
+      "id": "morar_lucian-ioan-titus",
+      "name": "Morar Lucian-Ioan-Titus",
       "role": "Deputat",
-      "party": "Nacov Gheorghe",
+      "party": "26 / MARAMURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4917,14 +4917,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149447
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "214.",
-      "name": "214.",
+      "id": "mo�_patricia-simina-arina",
+      "name": "Mo� Patricia-Simina-Arina",
       "role": "Deputat",
-      "party": "Nagy Szabolcs",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -4941,14 +4941,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "215.",
-      "name": "215.",
+      "id": "mo�teanu_liviu-ionu�",
+      "name": "Mo�teanu Liviu-Ionu�",
       "role": "Deputat",
-      "party": "Nagy Vasile",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -4965,14 +4965,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "216.",
-      "name": "216.",
+      "id": "muncaciu_sorin-titus",
+      "name": "Muncaciu Sorin-Titus",
       "role": "Deputat",
-      "party": "Nassar Rodica",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -4989,14 +4989,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443688
       }
     },
     {
-      "id": "217.",
-      "name": "217.",
+      "id": "munteanu_valeriu",
+      "name": "Munteanu Valeriu",
       "role": "Deputat",
-      "party": "N�cu�� Sorin",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5013,14 +5013,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "218.",
-      "name": "218.",
+      "id": "murad_mohammad",
+      "name": "Murad Mohammad",
       "role": "Deputat",
-      "party": "N�sui Claudiu-Iulius-Gavril",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5037,14 +5037,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "219.",
-      "name": "219.",
+      "id": "murariu_oana",
+      "name": "Murariu Oana",
       "role": "Deputat",
-      "party": "Neac�u Andreea-Firu�a",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -5061,14 +5061,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "220.",
-      "name": "220.",
+      "id": "muraru_iulian-alexandru",
+      "name": "Muraru Iulian-Alexandru",
       "role": "Deputat",
-      "party": "Neac�u Marian",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -5085,14 +5085,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "221.",
-      "name": "221.",
+      "id": "mu�at_doru-lucian",
+      "name": "Mu�at Doru-Lucian",
       "role": "Deputat",
-      "party": "Neagu Petre-Emanoil",
+      "party": "33 / S�LAJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -5109,14 +5109,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "222.",
-      "name": "222.",
+      "id": "nacov_gheorghe",
+      "name": "Nacov Gheorghe",
       "role": "Deputat",
-      "party": "Neam�u George-Mihail",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -5133,14 +5133,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "223.",
-      "name": "223.",
+      "id": "nagy_szabolcs",
+      "name": "Nagy Szabolcs",
       "role": "Deputat",
-      "party": "Nea�� Eugen",
+      "party": "32 / SATU-MARE",
       "contact": {
         "email": "",
         "phone": ""
@@ -5157,14 +5157,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "224.",
-      "name": "224.",
+      "id": "nagy_vasile",
+      "name": "Nagy Vasile",
       "role": "Deputat",
-      "party": "Neculaescu Lauren�iu Adrian",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -5181,14 +5181,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "225.",
-      "name": "225.",
+      "id": "nassar_rodica",
+      "name": "Nassar Rodica",
       "role": "Deputat",
-      "party": "Negoescu Mihai-Bogdan",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -5205,14 +5205,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149448
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "226.",
-      "name": "226.",
+      "id": "n�cu��_sorin",
+      "name": "N�cu�� Sorin",
       "role": "Deputat",
-      "party": "Negrea Petru-Gabriel",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -5229,14 +5229,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443689
       }
     },
     {
-      "id": "227.",
-      "name": "227.",
+      "id": "n�sui_claudiu-iulius-gavril",
+      "name": "N�sui Claudiu-Iulius-Gavril",
       "role": "Deputat",
-      "party": "Nicolae Dan-Mihai",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -5253,14 +5253,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "228.",
-      "name": "228.",
+      "id": "neac�u_andreea-firu�a",
+      "name": "Neac�u Andreea-Firu�a",
       "role": "Deputat",
-      "party": "Oancea Silviu-Florin",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -5277,14 +5277,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "229.",
-      "name": "229.",
+      "id": "neac�u_marian",
+      "name": "Neac�u Marian",
       "role": "Deputat",
-      "party": "Oltena�u Sorin-George",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -5301,14 +5301,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "230.",
-      "name": "230.",
+      "id": "neagu_petre-emanoil",
+      "name": "Neagu Petre-Emanoil",
       "role": "Deputat",
-      "party": "Oprea Octavian",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -5325,14 +5325,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "231.",
-      "name": "231.",
+      "id": "neam�u_george-mihail",
+      "name": "Neam�u George-Mihail",
       "role": "Deputat",
-      "party": "Pambuccian Varujan",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -5349,14 +5349,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "232.",
-      "name": "232.",
+      "id": "nea��_eugen",
+      "name": "Nea�� Eugen",
       "role": "Deputat",
-      "party": "Pandea Ciprian",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -5373,14 +5373,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "233.",
-      "name": "233.",
+      "id": "neculaescu_lauren�iu_adrian",
+      "name": "Neculaescu Lauren�iu Adrian",
       "role": "Deputat",
-      "party": "Paraschiv Ciprian-Constantin",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5397,14 +5397,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "234.",
-      "name": "234.",
+      "id": "negoescu_mihai-bogdan",
+      "name": "Negoescu Mihai-Bogdan",
       "role": "Deputat",
-      "party": "Paraschivescu Ovidiu-Romulus",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -5421,14 +5421,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "235.",
-      "name": "235.",
+      "id": "negrea_petru-gabriel",
+      "name": "Negrea Petru-Gabriel",
       "role": "Deputat",
-      "party": "Pascalini Nini-Alexandru",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -5445,14 +5445,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "236.",
-      "name": "236.",
+      "id": "nicolae_dan-mihai",
+      "name": "Nicolae Dan-Mihai",
       "role": "Deputat",
-      "party": "Pascariu Mihai-Cosmin",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -5469,14 +5469,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149449
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "237.",
-      "name": "237.",
+      "id": "oancea_silviu-florin",
+      "name": "Oancea Silviu-Florin",
       "role": "Deputat",
-      "party": "P�un Nicolae",
+      "party": "23 / IALOMI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5493,14 +5493,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443690
       }
     },
     {
-      "id": "238.",
-      "name": "238.",
+      "id": "oltena�u_sorin-george",
+      "name": "Oltena�u Sorin-George",
       "role": "Deputat",
-      "party": "P�unescu Silviu-Titus",
+      "party": "23 / IALOMI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5517,14 +5517,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "239.",
-      "name": "239.",
+      "id": "oprea_octavian",
+      "name": "Oprea Octavian",
       "role": "Deputat",
-      "party": "Petre�chi Nicolae-Miroslav",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -5541,14 +5541,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "240.",
-      "name": "240.",
+      "id": "pambuccian_varujan",
+      "name": "Pambuccian Varujan",
       "role": "Deputat",
-      "party": "Pe�a-�tef�nescu Eliza-M�d�lina",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -5565,14 +5565,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "241.",
-      "name": "241.",
+      "id": "pandea_ciprian",
+      "name": "Pandea Ciprian",
       "role": "Deputat",
-      "party": "Pirtea Marilen - Gabriel",
+      "party": "12 / C�L�RA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -5589,14 +5589,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "242.",
-      "name": "242.",
+      "id": "paraschiv_ciprian-constantin",
+      "name": "Paraschiv Ciprian-Constantin",
       "role": "Deputat",
-      "party": "Pistru-Popa Simona-Geanina",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -5613,14 +5613,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "243.",
-      "name": "243.",
+      "id": "paraschivescu_ovidiu-romulus",
+      "name": "Paraschivescu Ovidiu-Romulus",
       "role": "Deputat",
-      "party": "P�cli�an Gheorghe-Petru",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -5637,14 +5637,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "244.",
-      "name": "244.",
+      "id": "pascalini_nini-alexandru",
+      "name": "Pascalini Nini-Alexandru",
       "role": "Deputat",
-      "party": "Plopeanu Rodica",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -5661,14 +5661,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "245.",
-      "name": "245.",
+      "id": "pascariu_mihai-cosmin",
+      "name": "Pascariu Mihai-Cosmin",
       "role": "Deputat",
-      "party": "Plujar Andrei George",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -5685,14 +5685,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "246.",
-      "name": "246.",
+      "id": "p�un_nicolae",
+      "name": "P�un Nicolae",
       "role": "Deputat",
-      "party": "Ponta Victor-Viorel",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -5709,14 +5709,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149450
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "247.",
-      "name": "247.",
+      "id": "p�unescu_silviu-titus",
+      "name": "P�unescu Silviu-Titus",
       "role": "Deputat",
-      "party": "Popa Alexandru",
+      "party": "14 / CONSTAN�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5733,14 +5733,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149451
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "248.",
-      "name": "248.",
+      "id": "petre�chi_nicolae-miroslav",
+      "name": "Petre�chi Nicolae-Miroslav",
       "role": "Deputat",
-      "party": "Popa Cristian-Alexandru",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -5757,14 +5757,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149451
+        "updatedAt": 1776113443691
       }
     },
     {
-      "id": "249.",
-      "name": "249.",
+      "id": "pe�a-�tef�nescu_eliza-m�d�lina",
+      "name": "Pe�a-�tef�nescu Eliza-M�d�lina",
       "role": "Deputat",
-      "party": "Popa Dorin",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -5781,14 +5781,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149451
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "250.",
-      "name": "250.",
+      "id": "pirtea_marilen_-_gabriel",
+      "name": "Pirtea Marilen - Gabriel",
       "role": "Deputat",
-      "party": "Popa George-Adrian",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -5805,14 +5805,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149451
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "251.",
-      "name": "251.",
+      "id": "pistru-popa_simona-geanina",
+      "name": "Pistru-Popa Simona-Geanina",
       "role": "Deputat",
-      "party": "Popa Maricel",
+      "party": "2 / ARAD",
       "contact": {
         "email": "",
         "phone": ""
@@ -5829,14 +5829,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149451
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "252.",
-      "name": "252.",
+      "id": "p�cli�an_gheorghe-petru",
+      "name": "P�cli�an Gheorghe-Petru",
       "role": "Deputat",
-      "party": "Popa �tefan-Ovidiu",
+      "party": "7 / BOTO�ANI",
       "contact": {
         "email": "",
         "phone": ""
@@ -5853,14 +5853,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "253.",
-      "name": "253.",
+      "id": "plopeanu_rodica",
+      "name": "Plopeanu Rodica",
       "role": "Deputat",
-      "party": "Popescu Antonio-Gabi",
+      "party": "10 / BUZ�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -5877,14 +5877,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "254.",
-      "name": "254.",
+      "id": "plujar_andrei_george",
+      "name": "Plujar Andrei George",
       "role": "Deputat",
-      "party": "Popovici Florin-Cornel",
+      "party": "11 / CARA�-SEVERIN",
       "contact": {
         "email": "",
         "phone": ""
@@ -5901,14 +5901,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "255.",
-      "name": "255.",
+      "id": "ponta_victor-viorel",
+      "name": "Ponta Victor-Viorel",
       "role": "Deputat",
-      "party": "Porumboiu Gabriela",
+      "party": "16 / D�MBOVI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -5925,14 +5925,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "256.",
-      "name": "256.",
+      "id": "popa_alexandru",
+      "name": "Popa Alexandru",
       "role": "Deputat",
-      "party": "Priceputu Vasilic�",
+      "party": "9 / BR�ILA",
       "contact": {
         "email": "",
         "phone": ""
@@ -5949,14 +5949,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "257.",
-      "name": "257.",
+      "id": "popa_cristian-alexandru",
+      "name": "Popa Cristian-Alexandru",
       "role": "Deputat",
-      "party": "Priescu Ionelia-Floren�a",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -5973,14 +5973,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "258.",
-      "name": "258.",
+      "id": "popa_dorin",
+      "name": "Popa Dorin",
       "role": "Deputat",
-      "party": "Pri�c� R�zvan Sorin",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -5997,14 +5997,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443692
       }
     },
     {
-      "id": "259.",
-      "name": "259.",
+      "id": "popa_george-adrian",
+      "name": "Popa George-Adrian",
       "role": "Deputat",
-      "party": "Prun� Cristina-M�d�lina",
+      "party": "4 / BAC�U",
       "contact": {
         "email": "",
         "phone": ""
@@ -6021,14 +6021,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149452
+        "updatedAt": 1776113443693
       }
     },
     {
-      "id": "260.",
-      "name": "260.",
+      "id": "popa_maricel",
+      "name": "Popa Maricel",
       "role": "Deputat",
-      "party": "Pu�ca�u Lucian-Florin",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6045,14 +6045,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443693
       }
     },
     {
-      "id": "261.",
-      "name": "261.",
+      "id": "popa_�tefan-ovidiu",
+      "name": "Popa �tefan-Ovidiu",
       "role": "Deputat",
-      "party": "Pu�ca�u Petre",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6069,14 +6069,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443693
       }
     },
     {
-      "id": "262.",
-      "name": "262.",
+      "id": "popescu_antonio-gabi",
+      "name": "Popescu Antonio-Gabi",
       "role": "Deputat",
-      "party": "Radu Fabian-Cristian",
+      "party": "40 / V�LCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6093,14 +6093,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "263.",
-      "name": "263.",
+      "id": "popovici_florin-cornel",
+      "name": "Popovici Florin-Cornel",
       "role": "Deputat",
-      "party": "Rafila Alexandru",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -6117,14 +6117,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "264.",
-      "name": "264.",
+      "id": "porumboiu_gabriela",
+      "name": "Porumboiu Gabriela",
       "role": "Deputat",
-      "party": "R�ducanu Sebastian",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6141,14 +6141,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "265.",
-      "name": "265.",
+      "id": "priceputu_vasilic�",
+      "name": "Priceputu Vasilic�",
       "role": "Deputat",
-      "party": "R�ducea Gheorghe-Valentin",
+      "party": "9 / BR�ILA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6165,14 +6165,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "266.",
-      "name": "266.",
+      "id": "priescu_ionelia-floren�a",
+      "name": "Priescu Ionelia-Floren�a",
       "role": "Deputat",
-      "party": "Rigman Ciprian-Doru",
+      "party": "20 / GORJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6189,14 +6189,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "267.",
-      "name": "267.",
+      "id": "pri�c�_r�zvan_sorin",
+      "name": "Pri�c� R�zvan Sorin",
       "role": "Deputat",
-      "party": "Rinder Ana-Smaranda",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6213,14 +6213,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "268.",
-      "name": "268.",
+      "id": "prun�_cristina-m�d�lina",
+      "name": "Prun� Cristina-M�d�lina",
       "role": "Deputat",
-      "party": "Rodeanu Bogdan-Ionel",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6237,14 +6237,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149453
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "269.",
-      "name": "269.",
+      "id": "pu�ca�u_lucian-florin",
+      "name": "Pu�ca�u Lucian-Florin",
       "role": "Deputat",
-      "party": "Rogobete Alexandru-Florin",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6261,14 +6261,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443694
       }
     },
     {
-      "id": "270.",
-      "name": "270.",
+      "id": "pu�ca�u_petre",
+      "name": "Pu�ca�u Petre",
       "role": "Deputat",
-      "party": "Roman Florin-Claudiu",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6285,14 +6285,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "271.",
-      "name": "271.",
+      "id": "radu_fabian-cristian",
+      "name": "Radu Fabian-Cristian",
       "role": "Deputat",
-      "party": "Ro�ca Mircea",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -6309,14 +6309,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "272.",
-      "name": "272.",
+      "id": "rafila_alexandru",
+      "name": "Rafila Alexandru",
       "role": "Deputat",
-      "party": "Rusu Sebastian-Mihai",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6333,14 +6333,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "273.",
-      "name": "273.",
+      "id": "r�ducanu_sebastian",
+      "name": "R�ducanu Sebastian",
       "role": "Deputat",
-      "party": "Samoil� Ion",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -6357,14 +6357,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "274.",
-      "name": "274.",
+      "id": "r�ducea_gheorghe-valentin",
+      "name": "R�ducea Gheorghe-Valentin",
       "role": "Deputat",
-      "party": "Sandu Viorica",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6381,14 +6381,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "275.",
-      "name": "275.",
+      "id": "rigman_ciprian-doru",
+      "name": "Rigman Ciprian-Doru",
       "role": "Deputat",
-      "party": "Scarlat George",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6405,14 +6405,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "276.",
-      "name": "276.",
+      "id": "rinder_ana-smaranda",
+      "name": "Rinder Ana-Smaranda",
       "role": "Deputat",
-      "party": "Seres D�nes",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6429,14 +6429,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "277.",
-      "name": "277.",
+      "id": "rodeanu_bogdan-ionel",
+      "name": "Rodeanu Bogdan-Ionel",
       "role": "Deputat",
-      "party": "Sighiart�u Robert-Ionatan",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6453,14 +6453,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "278.",
-      "name": "278.",
+      "id": "rogobete_alexandru-florin",
+      "name": "Rogobete Alexandru-Florin",
       "role": "Deputat",
-      "party": "Simion George-Nicolae",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6477,14 +6477,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149454
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "279.",
-      "name": "279.",
+      "id": "roman_florin-claudiu",
+      "name": "Roman Florin-Claudiu",
       "role": "Deputat",
-      "party": "Simu Aurora-Tasica",
+      "party": "1 / ALBA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6501,14 +6501,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443695
       }
     },
     {
-      "id": "280.",
-      "name": "280.",
+      "id": "ro�ca_mircea",
+      "name": "Ro�ca Mircea",
       "role": "Deputat",
-      "party": "Solomon Adrian",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6525,14 +6525,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "281.",
-      "name": "281.",
+      "id": "rusu_sebastian-mihai",
+      "name": "Rusu Sebastian-Mihai",
       "role": "Deputat",
-      "party": "Stancu Ionel",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -6549,14 +6549,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "282.",
-      "name": "282.",
+      "id": "samoil�_ion",
+      "name": "Samoil� Ion",
       "role": "Deputat",
-      "party": "St�nescu Vetu�a",
+      "party": "12 / C�L�RA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6573,14 +6573,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "283.",
-      "name": "283.",
+      "id": "sandu_viorica",
+      "name": "Sandu Viorica",
       "role": "Deputat",
-      "party": "Stoenic� Irina-Florentina",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6597,14 +6597,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "284.",
-      "name": "284.",
+      "id": "scarlat_george",
+      "name": "Scarlat George",
       "role": "Deputat",
-      "party": "Stoica Alin-Bogdan",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -6621,14 +6621,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "285.",
-      "name": "285.",
+      "id": "seres_d�nes",
+      "name": "Seres D�nes",
       "role": "Deputat",
-      "party": "Stoica Bogdan-Alin",
+      "party": "33 / S�LAJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6645,14 +6645,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149455
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "286.",
-      "name": "286.",
+      "id": "sighiart�u_robert-ionatan",
+      "name": "Sighiart�u Robert-Ionatan",
       "role": "Deputat",
-      "party": "Stoica Diana",
+      "party": "6 / BISTRI�A-N�S�UD",
       "contact": {
         "email": "",
         "phone": ""
@@ -6669,14 +6669,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "287.",
-      "name": "287.",
+      "id": "simion_george-nicolae",
+      "name": "Simion George-Nicolae",
       "role": "Deputat",
-      "party": "Stoica �tefan-Bucur",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6693,14 +6693,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443696
       }
     },
     {
-      "id": "288.",
-      "name": "288.",
+      "id": "simu_aurora-tasica",
+      "name": "Simu Aurora-Tasica",
       "role": "Deputat",
-      "party": "Stroe Ionu�-Marian",
+      "party": "13 / CLUJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6717,14 +6717,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "289.",
-      "name": "289.",
+      "id": "solomon_adrian",
+      "name": "Solomon Adrian",
       "role": "Deputat",
-      "party": "Suciu Vasile-Daniel",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6741,14 +6741,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "290.",
-      "name": "290.",
+      "id": "stancu_ionel",
+      "name": "Stancu Ionel",
       "role": "Deputat",
-      "party": "Szab� �d�n",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -6765,14 +6765,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "291.",
-      "name": "291.",
+      "id": "st�nescu_vetu�a",
+      "name": "St�nescu Vetu�a",
       "role": "Deputat",
-      "party": "Sz�ke Ecaterina-Mariana",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -6789,14 +6789,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "292.",
-      "name": "292.",
+      "id": "stoenic�_irina-florentina",
+      "name": "Stoenic� Irina-Florentina",
       "role": "Deputat",
-      "party": "�endroiu Vlad-Ioan",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6813,14 +6813,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "293.",
-      "name": "293.",
+      "id": "stoica_alin-bogdan",
+      "name": "Stoica Alin-Bogdan",
       "role": "Deputat",
-      "party": "�erban Ciprian-Constantin",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6837,14 +6837,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "294.",
-      "name": "294.",
+      "id": "stoica_bogdan-alin",
+      "name": "Stoica Bogdan-Alin",
       "role": "Deputat",
-      "party": "�erban George C�t�lin",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -6861,14 +6861,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "295.",
-      "name": "295.",
+      "id": "stoica_diana",
+      "name": "Stoica Diana",
       "role": "Deputat",
-      "party": "�erban Gianina",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6885,14 +6885,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "296.",
-      "name": "296.",
+      "id": "stoica_�tefan-bucur",
+      "name": "Stoica �tefan-Bucur",
       "role": "Deputat",
-      "party": "�tirbu Gigel-Sorinel",
+      "party": "17 / DOLJ",
       "contact": {
         "email": "",
         "phone": ""
@@ -6909,14 +6909,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149456
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "297.",
-      "name": "297.",
+      "id": "stroe_ionu�-marian",
+      "name": "Stroe Ionu�-Marian",
       "role": "Deputat",
-      "party": "Tanas� Dan",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -6933,14 +6933,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443697
       }
     },
     {
-      "id": "298.",
-      "name": "298.",
+      "id": "suciu_vasile-daniel",
+      "name": "Suciu Vasile-Daniel",
       "role": "Deputat",
-      "party": "Tanas� �tefan",
+      "party": "6 / BISTRI�A-N�S�UD",
       "contact": {
         "email": "",
         "phone": ""
@@ -6957,14 +6957,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "299.",
-      "name": "299.",
+      "id": "szab�_�d�n",
+      "name": "Szab� �d�n",
       "role": "Deputat",
-      "party": "Teslariu Andrei-Ionu�",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -6981,14 +6981,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "300.",
-      "name": "300.",
+      "id": "sz�ke_ecaterina-mariana",
+      "name": "Sz�ke Ecaterina-Mariana",
       "role": "Deputat",
-      "party": "Tilea Dumitru",
+      "party": "18 / GALA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -7005,14 +7005,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "301.",
-      "name": "301.",
+      "id": "�endroiu_vlad-ioan",
+      "name": "�endroiu Vlad-Ioan",
       "role": "Deputat",
-      "party": "T�lv�r Angel",
+      "party": "37 / TIMI�",
       "contact": {
         "email": "",
         "phone": ""
@@ -7029,14 +7029,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "302.",
-      "name": "302.",
+      "id": "�erban_ciprian-constantin",
+      "name": "�erban Ciprian-Constantin",
       "role": "Deputat",
-      "party": "Toader Bogdan-Andrei",
+      "party": "29 / NEAM�",
       "contact": {
         "email": "",
         "phone": ""
@@ -7053,14 +7053,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "303.",
-      "name": "303.",
+      "id": "�erban_george_c�t�lin",
+      "name": "�erban George C�t�lin",
       "role": "Deputat",
-      "party": "Toader Elena-Laura",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7077,14 +7077,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "304.",
-      "name": "304.",
+      "id": "�erban_gianina",
+      "name": "�erban Gianina",
       "role": "Deputat",
-      "party": "Toma Ilie",
+      "party": "25 / ILFOV",
       "contact": {
         "email": "",
         "phone": ""
@@ -7101,14 +7101,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "305.",
-      "name": "305.",
+      "id": "�tirbu_gigel-sorinel",
+      "name": "�tirbu Gigel-Sorinel",
       "role": "Deputat",
-      "party": "Tomoescu Ion-Alin",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -7125,14 +7125,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "306.",
-      "name": "306.",
+      "id": "tanas�_dan",
+      "name": "Tanas� Dan",
       "role": "Deputat",
-      "party": "Trif Bogdan Gheorghe",
+      "party": "8 / BRA�OV",
       "contact": {
         "email": "",
         "phone": ""
@@ -7149,14 +7149,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "307.",
-      "name": "307.",
+      "id": "tanas�_�tefan",
+      "name": "Tanas� �tefan",
       "role": "Deputat",
-      "party": "Turcan Raluca",
+      "party": "24 / IA�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -7173,14 +7173,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "308.",
-      "name": "308.",
+      "id": "teslariu_andrei-ionu�",
+      "name": "Teslariu Andrei-Ionu�",
       "role": "Deputat",
-      "party": "Tu�a Adriana Diana",
+      "party": "39 / VASLUI",
       "contact": {
         "email": "",
         "phone": ""
@@ -7197,14 +7197,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149457
+        "updatedAt": 1776113443698
       }
     },
     {
-      "id": "309.",
-      "name": "309.",
+      "id": "tilea_dumitru",
+      "name": "Tilea Dumitru",
       "role": "Deputat",
-      "party": "�int� �tefan",
+      "party": "36 / TELEORMAN",
       "contact": {
         "email": "",
         "phone": ""
@@ -7221,14 +7221,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "310.",
-      "name": "310.",
+      "id": "t�lv�r_angel",
+      "name": "T�lv�r Angel",
       "role": "Deputat",
-      "party": "�iplea Dumitru",
+      "party": "41 / VRANCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7245,14 +7245,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "311.",
-      "name": "311.",
+      "id": "toader_bogdan-andrei",
+      "name": "Toader Bogdan-Andrei",
       "role": "Deputat",
-      "party": "�iu Mihai-Adrian",
+      "party": "31 / PRAHOVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7269,14 +7269,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "312.",
-      "name": "312.",
+      "id": "toader_elena-laura",
+      "name": "Toader Elena-Laura",
       "role": "Deputat",
-      "party": "�oiu Oana-Silvia",
+      "party": "38 / TULCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7293,14 +7293,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "313.",
-      "name": "313.",
+      "id": "toma_ilie",
+      "name": "Toma Ilie",
       "role": "Deputat",
-      "party": "Ungureanu Emanuel-Dumitru",
+      "party": "22 / HUNEDOARA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7317,14 +7317,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "314.",
-      "name": "314.",
+      "id": "tomoescu_ion-alin",
+      "name": "Tomoescu Ion-Alin",
       "role": "Deputat",
-      "party": "Vadim-Tudor Lidia",
+      "party": "27 / MEHEDIN�I",
       "contact": {
         "email": "",
         "phone": ""
@@ -7341,14 +7341,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "315.",
-      "name": "315.",
+      "id": "trif_bogdan_gheorghe",
+      "name": "Trif Bogdan Gheorghe",
       "role": "Deputat",
-      "party": "Vass Levente",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -7365,14 +7365,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "316.",
-      "name": "316.",
+      "id": "turcan_raluca",
+      "name": "Turcan Raluca",
       "role": "Deputat",
-      "party": "V�duva Dumitru",
+      "party": "34 / SIBIU",
       "contact": {
         "email": "",
         "phone": ""
@@ -7389,14 +7389,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "317.",
-      "name": "317.",
+      "id": "tu�a_adriana_diana",
+      "name": "Tu�a Adriana Diana",
       "role": "Deputat",
-      "party": "V�rg� Mariana",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -7413,14 +7413,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "318.",
-      "name": "318.",
+      "id": "�int�_�tefan",
+      "name": "�int� �tefan",
       "role": "Deputat",
-      "party": "Vedina� Verginia",
+      "party": "23 / IALOMI�A",
       "contact": {
         "email": "",
         "phone": ""
@@ -7437,14 +7437,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "319.",
-      "name": "319.",
+      "id": "�iplea_dumitru",
+      "name": "�iplea Dumitru",
       "role": "Deputat",
-      "party": "Vela Ion-Marcel",
+      "party": "5 / BIHOR",
       "contact": {
         "email": "",
         "phone": ""
@@ -7461,14 +7461,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443699
       }
     },
     {
-      "id": "320.",
-      "name": "320.",
+      "id": "�iu_mihai-adrian",
+      "name": "�iu Mihai-Adrian",
       "role": "Deputat",
-      "party": "Velcescu Florin-Bogdan",
+      "party": "30 / OLT",
       "contact": {
         "email": "",
         "phone": ""
@@ -7485,14 +7485,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149458
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "321.",
-      "name": "321.",
+      "id": "�oiu_oana-silvia",
+      "name": "�oiu Oana-Silvia",
       "role": "Deputat",
-      "party": "Vexler Silviu",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -7509,14 +7509,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "322.",
-      "name": "322.",
+      "id": "ungureanu_emanuel-dumitru",
+      "name": "Ungureanu Emanuel-Dumitru",
       "role": "Deputat",
-      "party": "Vidra Vlad-Andrei",
+      "party": "35 / SUCEAVA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7533,14 +7533,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "323.",
-      "name": "323.",
+      "id": "vadim-tudor_lidia",
+      "name": "Vadim-Tudor Lidia",
       "role": "Deputat",
-      "party": "Vulpescu Ioan",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -7557,14 +7557,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "324.",
-      "name": "324.",
+      "id": "vass_levente",
+      "name": "Vass Levente",
       "role": "Deputat",
-      "party": "Vulpoiu Dorel",
+      "party": "28 / MURE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -7581,14 +7581,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "325.",
-      "name": "325.",
+      "id": "v�duva_dumitru",
+      "name": "V�duva Dumitru",
       "role": "Deputat",
-      "party": "Vu�can Voicu",
+      "party": "25 / ILFOV",
       "contact": {
         "email": "",
         "phone": ""
@@ -7605,14 +7605,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "326.",
-      "name": "326.",
+      "id": "v�rg�_mariana",
+      "name": "V�rg� Mariana",
       "role": "Deputat",
-      "party": "Weber Mihai",
+      "party": "42 / BUCURE�TI",
       "contact": {
         "email": "",
         "phone": ""
@@ -7629,14 +7629,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "327.",
-      "name": "327.",
+      "id": "vedina�_verginia",
+      "name": "Vedina� Verginia",
       "role": "Deputat",
-      "party": "Wiener Adrian",
+      "party": "41 / VRANCEA",
       "contact": {
         "email": "",
         "phone": ""
@@ -7653,14 +7653,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443700
       }
     },
     {
-      "id": "328.",
-      "name": "328.",
+      "id": "vela_ion-marcel",
+      "name": "Vela Ion-Marcel",
       "role": "Deputat",
-      "party": "Zahoranszki Brigitta-Eva",
+      "party": "11 / CARA�-SEVERIN",
       "contact": {
         "email": "",
         "phone": ""
@@ -7677,14 +7677,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443701
       }
     },
     {
-      "id": "329.",
-      "name": "329.",
+      "id": "velcescu_florin-bogdan",
+      "name": "Velcescu Florin-Bogdan",
       "role": "Deputat",
-      "party": "Zakarias Zolt�n",
+      "party": "3 / ARGE�",
       "contact": {
         "email": "",
         "phone": ""
@@ -7701,14 +7701,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443701
       }
     },
     {
-      "id": "330.",
-      "name": "330.",
+      "id": "vexler_silviu",
+      "name": "Vexler Silviu",
       "role": "Deputat",
-      "party": "Zisopol Drago� Gabriel",
+      "party": "",
       "contact": {
         "email": "",
         "phone": ""
@@ -7725,7 +7725,319 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776113149459
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "vidra_vlad-andrei",
+      "name": "Vidra Vlad-Andrei",
+      "role": "Deputat",
+      "party": "5 / BIHOR",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "vulpescu_ioan",
+      "name": "Vulpescu Ioan",
+      "role": "Deputat",
+      "party": "25 / ILFOV",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "vulpoiu_dorel",
+      "name": "Vulpoiu Dorel",
+      "role": "Deputat",
+      "party": "18 / GALA�I",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "vu�can_voicu",
+      "name": "Vu�can Voicu",
+      "role": "Deputat",
+      "party": "1 / ALBA",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "weber_mihai",
+      "name": "Weber Mihai",
+      "role": "Deputat",
+      "party": "20 / GORJ",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "wiener_adrian",
+      "name": "Wiener Adrian",
+      "role": "Deputat",
+      "party": "2 / ARAD",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "zahoranszki_brigitta-eva",
+      "name": "Zahoranszki Brigitta-Eva",
+      "role": "Deputat",
+      "party": "26 / MARAMURE�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "zakarias_zolt�n",
+      "name": "Zakarias Zolt�n",
+      "role": "Deputat",
+      "party": "21 / HARGHITA",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443701
+      }
+    },
+    {
+      "id": "zisopol_drago�_gabriel",
+      "name": "Zisopol Drago� Gabriel",
+      "role": "Deputat",
+      "party": "",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443702
+      }
+    },
+    {
+      "id": "afloarei_sorin-alexandru",
+      "name": "Afloarei Sorin-Alexandru",
+      "role": "Deputat",
+      "party": "24 / IA�I",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443702
+      }
+    },
+    {
+      "id": "ibram_iusein",
+      "name": "Ibram Iusein",
+      "role": "Deputat",
+      "party": "",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443702
+      }
+    },
+    {
+      "id": "mircea_florin",
+      "name": "Mircea Florin",
+      "role": "Deputat",
+      "party": "9 / BR�ILA",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443702
+      }
+    },
+    {
+      "id": "ciolacu_ion-marcel",
+      "name": "Ciolacu Ion-Marcel",
+      "role": "Deputat",
+      "party": "10 / BUZ�U",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113443702
       }
     }
   ]
