@@ -1,30 +1,504 @@
 {
-  "id": "grindeanu_sorin",
-  "name": "Grindeanu Sorin-Mihai",
-  "role": "Deputat",
-  "party": "PSD",
-
-  "contact": {
-    "email": "grindeanu@email.com",
-    "phone": "0712345678"
-  },
-
-  "location": {
-    "county": "Timiș",
-    "address": "Parlamentul României"
-  },
-
-  "activity": {
-    "presence": 85,
-    "initiatives": 12,
-    "votes": 70,
-    "media": 60
-  },
-  "score": 0
-  "imageUrl": "https://...",
-
-  "meta": {
-    "createdAt": 1234567890,
-    "updatedAt": 1234567890
-  }
+  "politicians": [
+    {
+      "id": "adomnicai_mirela_elena",
+      "name": "Adomnicăi Mirela Elena",
+      "role": "Deputat",
+      "party": "PSD",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "SUCEAVA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122692649
+      }
+    },
+    {
+      "id": "albu_dumitrita",
+      "name": "Albu Dumitriţa",
+      "role": "Deputat",
+      "party": "Independent",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "DIASPORA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122693246
+      }
+    },
+    {
+      "id": "alecsandru_marius-nicolae",
+      "name": "Alecsandru Marius-Nicolae",
+      "role": "Deputat",
+      "party": "USR",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "BUZĂU",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122693586
+      }
+    },
+    {
+      "id": "alecu_robert",
+      "name": "Alecu Robert",
+      "role": "Deputat",
+      "party": "Independent",
+      "contact": {
+        "email": "robert.alecu@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "BACĂU",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122693883
+      }
+    },
+    {
+      "id": "amet_varol",
+      "name": "Amet Varol",
+      "role": "Deputat",
+      "party": "MINORITATI",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "NATIONAL",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122694156
+      }
+    },
+    {
+      "id": "andrei_alexandru-ioan",
+      "name": "Andrei Alexandru-Ioan",
+      "role": "Deputat",
+      "party": "PNL",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "GIURGIU",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122694676
+      }
+    },
+    {
+      "id": "andrei_cosmin",
+      "name": "Andrei Cosmin",
+      "role": "Deputat",
+      "party": "PSD",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "TULCEA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122695135
+      }
+    },
+    {
+      "id": "andronache_gabriel",
+      "name": "Andronache Gabriel",
+      "role": "Deputat",
+      "party": "PNL",
+      "contact": {
+        "email": "gabriel.andronache@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "BRAŞOV",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122695480
+      }
+    },
+    {
+      "id": "andrusca_lucian-nicolae",
+      "name": "Andruşcă Lucian-Nicolae",
+      "role": "Deputat",
+      "party": "PSD",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "DÂMBOVIŢA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122695912
+      }
+    },
+    {
+      "id": "artimon_dan-catalin",
+      "name": "Artimon Dan-Cătălin",
+      "role": "Deputat",
+      "party": "AUR",
+      "contact": {
+        "email": "dan.artimon@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "ARAD",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122696165
+      }
+    },
+    {
+      "id": "atanasiu_corina",
+      "name": "Atanasiu Corina",
+      "role": "Deputat",
+      "party": "USR",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "VRANCEA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122696574
+      }
+    },
+    {
+      "id": "avramescu_stefanita-alin",
+      "name": "Avrămescu Ştefăniţă-Alin",
+      "role": "Deputat",
+      "party": "AUR",
+      "contact": {
+        "email": "stefanita.avramescu@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "PRAHOVA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122696992
+      }
+    },
+    {
+      "id": "baciu_romica-andrei",
+      "name": "Baciu Romică-Andrei",
+      "role": "Deputat",
+      "party": "PNL",
+      "contact": {
+        "email": "andrei.baciu@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "BUCUREŞTI",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122697295
+      }
+    },
+    {
+      "id": "badea_nelu-valentin",
+      "name": "Badea Nelu-Valentin",
+      "role": "Deputat",
+      "party": "AUR",
+      "contact": {
+        "email": "nelu.badea@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "TELEORMAN",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122697719
+      }
+    },
+    {
+      "id": "badiu_georgel",
+      "name": "Badiu Georgel",
+      "role": "Deputat",
+      "party": "AUR",
+      "contact": {
+        "email": "georgebadiu@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "VRANCEA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122698031
+      }
+    },
+    {
+      "id": "balan_ioan",
+      "name": "Balan Ioan",
+      "role": "Deputat",
+      "party": "PNL",
+      "contact": {
+        "email": "ioan.balan@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "SUCEAVA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122698339
+      }
+    },
+    {
+      "id": "bara_nicolae-adrian",
+      "name": "Bara Nicolae-Adrian",
+      "role": "Deputat",
+      "party": "PSD",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "ALBA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122698612
+      }
+    },
+    {
+      "id": "barbu_florin-ionut",
+      "name": "Barbu Florin-Ionuţ",
+      "role": "Deputat",
+      "party": "PSD",
+      "contact": {
+        "email": "florin.barbu@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "OLT",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122699029
+      }
+    },
+    {
+      "id": "barstan_tiberiu-claudiu",
+      "name": "Barstan Tiberiu-Claudiu",
+      "role": "Deputat",
+      "party": "AUR",
+      "contact": {
+        "email": "tiberiu.barstan@cdep.ro",
+        "phone": ""
+      },
+      "location": {
+        "county": "HUNEDOARA",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122699309
+      }
+    },
+    {
+      "id": "bas_ana-marcela",
+      "name": "Baş Ana-Marcela",
+      "role": "Deputat",
+      "party": "SOS",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "TIMIŞ",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "score": 0,
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776122699759
+      }
+    }
+  ]
 }
