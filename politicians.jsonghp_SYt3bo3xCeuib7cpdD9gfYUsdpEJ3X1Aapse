@@ -21,12 +21,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805364
+        "updatedAt": 1776115068078
       }
     },
     {
-      "id": "adomnic�i_mirela_elena",
-      "name": "Adomnic�i Mirela Elena",
+      "id": "adomnicăi_mirela_elena",
+      "name": "Adomnicăi Mirela Elena",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -45,14 +45,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805365
+        "updatedAt": 1776115068079
       }
     },
     {
-      "id": "albu_dumitri�a",
-      "name": "Albu Dumitri�a",
+      "id": "albu_dumitriţa",
+      "name": "Albu Dumitriţa",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
@@ -69,7 +69,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805366
+        "updatedAt": 1776115068079
       }
     },
     {
@@ -82,7 +82,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -93,20 +93,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805366
+        "updatedAt": 1776115068079
       }
     },
     {
       "id": "alecu_robert",
       "name": "Alecu Robert",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -117,7 +117,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805366
+        "updatedAt": 1776115068080
       }
     },
     {
@@ -141,7 +141,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805366
+        "updatedAt": 1776115068080
       }
     },
     {
@@ -165,7 +165,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805366
+        "updatedAt": 1776115068080
       }
     },
     {
@@ -189,7 +189,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805367
+        "updatedAt": 1776115068080
       }
     },
     {
@@ -202,7 +202,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -213,12 +213,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805367
+        "updatedAt": 1776115068080
       }
     },
     {
-      "id": "andru�c�_lucian-nicolae",
-      "name": "Andru�c� Lucian-Nicolae",
+      "id": "andruşcă_lucian-nicolae",
+      "name": "Andruşcă Lucian-Nicolae",
       "role": "Deputat",
       "party": "PSD afiliat",
       "contact": {
@@ -226,7 +226,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -237,12 +237,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805367
+        "updatedAt": 1776115068080
       }
     },
     {
-      "id": "artimon_dan-c�t�lin",
-      "name": "Artimon Dan-C�t�lin",
+      "id": "artimon_dan-cătălin",
+      "name": "Artimon Dan-Cătălin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -261,7 +261,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805367
+        "updatedAt": 1776115068081
       }
     },
     {
@@ -285,12 +285,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805367
+        "updatedAt": 1776115068081
       }
     },
     {
-      "id": "avr�mescu_�tef�ni��-alin",
-      "name": "Avr�mescu �tef�ni��-Alin",
+      "id": "avrămescu_ştefăniţă-alin",
+      "name": "Avrămescu Ştefăniţă-Alin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -309,12 +309,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068081
       }
     },
     {
-      "id": "baciu_romic�-andrei",
-      "name": "Baciu Romic�-Andrei",
+      "id": "baciu_romică-andrei",
+      "name": "Baciu Romică-Andrei",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -322,7 +322,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -333,7 +333,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068081
       }
     },
     {
@@ -357,7 +357,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068081
       }
     },
     {
@@ -381,7 +381,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068081
       }
     },
     {
@@ -405,7 +405,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068082
       }
     },
     {
@@ -429,12 +429,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805368
+        "updatedAt": 1776115068082
       }
     },
     {
-      "id": "barbu_florin-ionu�",
-      "name": "Barbu Florin-Ionu�",
+      "id": "barbu_florin-ionuţ",
+      "name": "Barbu Florin-Ionuţ",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -453,7 +453,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068082
       }
     },
     {
@@ -477,12 +477,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068082
       }
     },
     {
-      "id": "ba�_ana-marcela",
-      "name": "Ba� Ana-Marcela",
+      "id": "baş_ana-marcela",
+      "name": "Baş Ana-Marcela",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -490,7 +490,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -501,12 +501,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068082
       }
     },
     {
-      "id": "b�i�anu_�tefan-alexandru",
-      "name": "B�i�anu �tefan-Alexandru",
+      "id": "băişanu_ştefan-alexandru",
+      "name": "Băişanu Ştefan-Alexandru",
       "role": "Deputat",
       "party": "PSD afiliat",
       "contact": {
@@ -525,20 +525,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068082
       }
     },
     {
       "id": "becali_george",
       "name": "Becali George",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -549,7 +549,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068082
       }
     },
     {
@@ -573,12 +573,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805369
+        "updatedAt": 1776115068083
       }
     },
     {
-      "id": "bende_s�ndor",
-      "name": "Bende S�ndor",
+      "id": "bende_sándor",
+      "name": "Bende Sándor",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -597,7 +597,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805370
+        "updatedAt": 1776115068083
       }
     },
     {
@@ -610,7 +610,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -621,12 +621,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805370
+        "updatedAt": 1776115068083
       }
     },
     {
-      "id": "biro_daniel-r�zvan",
-      "name": "Biro Daniel-R�zvan",
+      "id": "biro_daniel-răzvan",
+      "name": "Biro Daniel-Răzvan",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -634,7 +634,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -645,12 +645,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805370
+        "updatedAt": 1776115068083
       }
     },
     {
-      "id": "bir�_roz�lia-ibolya",
-      "name": "Bir� Roz�lia-Ibolya",
+      "id": "biró_rozália-ibolya",
+      "name": "Biró Rozália-Ibolya",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -669,12 +669,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805370
+        "updatedAt": 1776115068083
       }
     },
     {
-      "id": "blaga_daniel-codru�",
-      "name": "Blaga Daniel-Codru�",
+      "id": "blaga_daniel-codruţ",
+      "name": "Blaga Daniel-Codruţ",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -682,7 +682,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -693,7 +693,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805370
+        "updatedAt": 1776115068083
       }
     },
     {
@@ -706,7 +706,7 @@
         "phone": ""
       },
       "location": {
-        "county": "33 / S�LAJ",
+        "county": "33 / SĂLAJ",
         "address": ""
       },
       "activity": {
@@ -717,7 +717,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
@@ -730,7 +730,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -741,12 +741,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
-      "id": "bogd�nel_lucian-gabriel",
-      "name": "Bogd�nel Lucian-Gabriel",
+      "id": "bogdănel_lucian-gabriel",
+      "name": "Bogdănel Lucian-Gabriel",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -754,7 +754,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -765,7 +765,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
@@ -778,7 +778,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -789,12 +789,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
-      "id": "bor�_george-m�d�lin",
-      "name": "Bor� George-M�d�lin",
+      "id": "borş_george-mădălin",
+      "name": "Borş George-Mădălin",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -813,12 +813,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
-      "id": "bo�utar_tiberiu-nicolae",
-      "name": "Bo�utar Tiberiu-Nicolae",
+      "id": "boşutar_tiberiu-nicolae",
+      "name": "Boşutar Tiberiu-Nicolae",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -826,7 +826,7 @@
         "phone": ""
       },
       "location": {
-        "county": "6 / BISTRI�A-N�S�UD",
+        "county": "6 / BISTRIŢA-NĂSĂUD",
         "address": ""
       },
       "activity": {
@@ -837,12 +837,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
-      "id": "botez_mihai-c�t�lin",
-      "name": "Botez Mihai-C�t�lin",
+      "id": "botez_mihai-cătălin",
+      "name": "Botez Mihai-Cătălin",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -861,12 +861,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068084
       }
     },
     {
-      "id": "bouda_�tefan",
-      "name": "Bouda �tefan",
+      "id": "bouda_ştefan",
+      "name": "Bouda Ştefan",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -885,7 +885,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805371
+        "updatedAt": 1776115068085
       }
     },
     {
@@ -909,7 +909,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
@@ -922,7 +922,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -933,7 +933,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
@@ -946,7 +946,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -957,12 +957,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
-      "id": "budac�_vasile",
-      "name": "Budac� Vasile",
+      "id": "budacă_vasile",
+      "name": "Budacă Vasile",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -970,7 +970,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -981,12 +981,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
-      "id": "bud�i_marius-constantin",
-      "name": "Bud�i Marius-Constantin",
+      "id": "budăi_marius-constantin",
+      "name": "Budăi Marius-Constantin",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -994,7 +994,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -1005,7 +1005,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
@@ -1018,7 +1018,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -1029,7 +1029,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
@@ -1042,7 +1042,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -1053,12 +1053,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805372
+        "updatedAt": 1776115068085
       }
     },
     {
-      "id": "bulearc�_marius-felix",
-      "name": "Bulearc� Marius-Felix",
+      "id": "bulearcă_marius-felix",
+      "name": "Bulearcă Marius-Felix",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -1077,7 +1077,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
@@ -1090,7 +1090,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -1101,12 +1101,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
-      "id": "butur�_cristina-irina",
-      "name": "Butur� Cristina-Irina",
+      "id": "butură_cristina-irina",
+      "name": "Butură Cristina-Irina",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1114,7 +1114,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -1125,7 +1125,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
@@ -1138,7 +1138,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -1149,12 +1149,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
-      "id": "cadar_r�zvan-olimpiu",
-      "name": "Cadar R�zvan-Olimpiu",
+      "id": "cadar_răzvan-olimpiu",
+      "name": "Cadar Răzvan-Olimpiu",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -1173,12 +1173,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
-      "id": "caraga��_florin",
-      "name": "Caraga�� Florin",
+      "id": "caragaţă_florin",
+      "name": "Caragaţă Florin",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -1186,7 +1186,7 @@
         "phone": ""
       },
       "location": {
-        "county": "23 / IALOMI�A",
+        "county": "23 / IALOMIŢA",
         "address": ""
       },
       "activity": {
@@ -1197,12 +1197,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
-      "id": "c�ciu_adrian",
-      "name": "C�ciu Adrian",
+      "id": "câciu_adrian",
+      "name": "Câciu Adrian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1221,7 +1221,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
@@ -1234,7 +1234,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -1245,7 +1245,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805373
+        "updatedAt": 1776115068086
       }
     },
     {
@@ -1258,7 +1258,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -1269,12 +1269,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "chiril�_virgil_alin",
-      "name": "Chiril� Virgil Alin",
+      "id": "chirilă_virgil_alin",
+      "name": "Chirilă Virgil Alin",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1282,7 +1282,7 @@
         "phone": ""
       },
       "location": {
-        "county": "27 / MEHEDIN�I",
+        "county": "27 / MEHEDINŢI",
         "address": ""
       },
       "activity": {
@@ -1293,12 +1293,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "chiri��_r�zvan-mirel",
-      "name": "Chiri�� R�zvan-Mirel",
+      "id": "chiriţă_răzvan-mirel",
+      "name": "Chiriţă Răzvan-Mirel",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -1306,7 +1306,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -1317,7 +1317,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
@@ -1330,7 +1330,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -1341,12 +1341,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "ciobotaru_drago�-f�nic�",
-      "name": "Ciobotaru Drago�-F�nic�",
+      "id": "ciobotaru_dragoş-fănică",
+      "name": "Ciobotaru Dragoş-Fănică",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -1365,12 +1365,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "ciocan_doini�a",
-      "name": "Ciocan Doini�a",
+      "id": "ciocan_doiniţa",
+      "name": "Ciocan Doiniţa",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1378,7 +1378,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -1389,12 +1389,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "ciornei_daniel-c�t�lin",
-      "name": "Ciornei Daniel-C�t�lin",
+      "id": "ciornei_daniel-cătălin",
+      "name": "Ciornei Daniel-Cătălin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1402,7 +1402,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -1413,12 +1413,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
-      "id": "ciortea_r�zvan-iulian",
-      "name": "Ciortea R�zvan-Iulian",
+      "id": "ciortea_răzvan-iulian",
+      "name": "Ciortea Răzvan-Iulian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1437,20 +1437,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805374
+        "updatedAt": 1776115068087
       }
     },
     {
       "id": "ciubuc_ciprian",
       "name": "Ciubuc Ciprian",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -1461,12 +1461,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "ciuc�_liviu-bogdan",
-      "name": "Ciuc� Liviu-Bogdan",
+      "id": "ciucă_liviu-bogdan",
+      "name": "Ciucă Liviu-Bogdan",
       "role": "Deputat",
       "party": "PSD afiliat",
       "contact": {
@@ -1474,7 +1474,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -1485,7 +1485,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
@@ -1498,7 +1498,7 @@
         "phone": ""
       },
       "location": {
-        "county": "33 / S�LAJ",
+        "county": "33 / SĂLAJ",
         "address": ""
       },
       "activity": {
@@ -1509,12 +1509,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "c�mpan_cristian-emanuel",
-      "name": "C�mpan Cristian-Emanuel",
+      "id": "cîmpan_cristian-emanuel",
+      "name": "Cîmpan Cristian-Emanuel",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1533,12 +1533,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "c�mpean_ovidiu-vasile",
-      "name": "C�mpean Ovidiu-Vasile",
+      "id": "cîmpean_ovidiu-vasile",
+      "name": "Cîmpean Ovidiu-Vasile",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -1557,12 +1557,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "c�mpianu_andreea-petronela",
-      "name": "C�mpianu Andreea-Petronela",
+      "id": "cîmpianu_andreea-petronela",
+      "name": "Cîmpianu Andreea-Petronela",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -1581,12 +1581,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "c�rligea_florin-eugen",
-      "name": "C�rligea Florin-Eugen",
+      "id": "cîrligea_florin-eugen",
+      "name": "Cîrligea Florin-Eugen",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1594,7 +1594,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -1605,12 +1605,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "c�rligeanu_ariadna-elena",
-      "name": "C�rligeanu Ariadna-Elena",
+      "id": "cîrligeanu_ariadna-elena",
+      "name": "Cîrligeanu Ariadna-Elena",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1618,7 +1618,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -1629,20 +1629,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
-      "id": "coarn�_dumitru",
-      "name": "Coarn� Dumitru",
+      "id": "coarnă_dumitru",
+      "name": "Coarnă Dumitru",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -1653,7 +1653,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805375
+        "updatedAt": 1776115068088
       }
     },
     {
@@ -1666,7 +1666,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -1677,12 +1677,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
-      "id": "cole�a_ilie-alin",
-      "name": "Cole�a Ilie-Alin",
+      "id": "coleşa_ilie-alin",
+      "name": "Coleşa Ilie-Alin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1701,7 +1701,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
@@ -1714,7 +1714,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -1725,12 +1725,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
-      "id": "coman_drago�-florin",
-      "name": "Coman Drago�-Florin",
+      "id": "coman_dragoş-florin",
+      "name": "Coman Dragoş-Florin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -1738,7 +1738,7 @@
         "phone": ""
       },
       "location": {
-        "county": "12 / C�L�RA�I",
+        "county": "12 / CĂLĂRAŞI",
         "address": ""
       },
       "activity": {
@@ -1749,7 +1749,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
@@ -1762,7 +1762,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -1773,7 +1773,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
@@ -1797,12 +1797,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
-      "id": "corche�_codru�a-maria",
-      "name": "Corche� Codru�a-Maria",
+      "id": "corcheş_codruţa-maria",
+      "name": "Corcheş Codruţa-Maria",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -1810,7 +1810,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -1821,7 +1821,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805376
+        "updatedAt": 1776115068089
       }
     },
     {
@@ -1845,7 +1845,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
@@ -1858,7 +1858,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -1869,12 +1869,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
-      "id": "cot�rle�_paul-claudiu",
-      "name": "Cot�rle� Paul-Claudiu",
+      "id": "cotîrleţ_paul-claudiu",
+      "name": "Cotîrleţ Paul-Claudiu",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -1882,7 +1882,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -1893,7 +1893,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
@@ -1917,7 +1917,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
@@ -1930,7 +1930,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -1941,12 +1941,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
-      "id": "cr�stici_ognean",
-      "name": "Cr�stici Ognean",
+      "id": "crîstici_ognean",
+      "name": "Crîstici Ognean",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -1965,12 +1965,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
-      "id": "cru�oveanu_marian",
-      "name": "Cru�oveanu Marian",
+      "id": "cruşoveanu_marian",
+      "name": "Cruşoveanu Marian",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -1978,7 +1978,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -1989,12 +1989,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
-      "id": "cs�p_�va-andrea",
-      "name": "Cs�p �va-Andrea",
+      "id": "csép_éva-andrea",
+      "name": "Csép Éva-Andrea",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -2002,7 +2002,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -2013,7 +2013,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068090
       }
     },
     {
@@ -2026,7 +2026,7 @@
         "phone": ""
       },
       "location": {
-        "county": "6 / BISTRI�A-N�S�UD",
+        "county": "6 / BISTRIŢA-NĂSĂUD",
         "address": ""
       },
       "activity": {
@@ -2037,7 +2037,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805377
+        "updatedAt": 1776115068091
       }
     },
     {
@@ -2061,12 +2061,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068091
       }
     },
     {
-      "id": "culeaf�_mihai",
-      "name": "Culeaf� Mihai",
+      "id": "culeafă_mihai",
+      "name": "Culeafă Mihai",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -2074,7 +2074,7 @@
         "phone": ""
       },
       "location": {
-        "county": "27 / MEHEDIN�I",
+        "county": "27 / MEHEDINŢI",
         "address": ""
       },
       "activity": {
@@ -2085,12 +2085,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068095
       }
     },
     {
-      "id": "dasc�lu_cristina-emanuela",
-      "name": "Dasc�lu Cristina-Emanuela",
+      "id": "dascălu_cristina-emanuela",
+      "name": "Dascălu Cristina-Emanuela",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -2098,7 +2098,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -2109,7 +2109,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068095
       }
     },
     {
@@ -2122,7 +2122,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -2133,12 +2133,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068095
       }
     },
     {
-      "id": "dobo�_elena",
-      "name": "Dobo� Elena",
+      "id": "doboş_elena",
+      "name": "Doboş Elena",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -2157,7 +2157,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068095
       }
     },
     {
@@ -2170,7 +2170,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -2181,7 +2181,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068095
       }
     },
     {
@@ -2194,7 +2194,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -2205,12 +2205,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068096
       }
     },
     {
-      "id": "dr�goescu_cezar-mihail",
-      "name": "Dr�goescu Cezar-Mihail",
+      "id": "drăgoescu_cezar-mihail",
+      "name": "Drăgoescu Cezar-Mihail",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -2229,7 +2229,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2253,12 +2253,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805378
+        "updatedAt": 1776115068096
       }
     },
     {
-      "id": "drul�_c�t�lin",
-      "name": "Drul� C�t�lin",
+      "id": "drulă_cătălin",
+      "name": "Drulă Cătălin",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -2266,7 +2266,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -2277,7 +2277,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2290,7 +2290,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -2301,7 +2301,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2325,7 +2325,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2338,7 +2338,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -2349,7 +2349,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2362,7 +2362,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -2373,14 +2373,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
       "id": "enachi_raisa",
       "name": "Enachi Raisa",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
@@ -2397,7 +2397,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
@@ -2421,20 +2421,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068096
       }
     },
     {
-      "id": "f�get_m�d�lin-lauren�iu",
-      "name": "F�get M�d�lin-Lauren�iu",
+      "id": "făget_mădălin-laurenţiu",
+      "name": "Făget Mădălin-Laurenţiu",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -2445,7 +2445,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068097
       }
     },
     {
@@ -2458,7 +2458,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -2469,7 +2469,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068097
       }
     },
     {
@@ -2493,7 +2493,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805379
+        "updatedAt": 1776115068097
       }
     },
     {
@@ -2517,7 +2517,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068097
       }
     },
     {
@@ -2541,7 +2541,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068097
       }
     },
     {
@@ -2565,12 +2565,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068097
       }
     },
     {
-      "id": "furtun�_mirela",
-      "name": "Furtun� Mirela",
+      "id": "furtună_mirela",
+      "name": "Furtună Mirela",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -2578,7 +2578,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -2589,12 +2589,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068097
       }
     },
     {
-      "id": "gal_c�lin-gra�ian",
-      "name": "Gal C�lin-Gra�ian",
+      "id": "gal_călin-graţian",
+      "name": "Gal Călin-Graţian",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -2613,12 +2613,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068097
       }
     },
     {
-      "id": "g�l_k�roly",
-      "name": "G�l K�roly",
+      "id": "gál_károly",
+      "name": "Gál Károly",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -2637,12 +2637,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068098
       }
     },
     {
-      "id": "gan�_ovidiu_victor",
-      "name": "Gan� Ovidiu Victor",
+      "id": "ganţ_ovidiu_victor",
+      "name": "Ganţ Ovidiu Victor",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -2661,12 +2661,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068098
       }
     },
     {
-      "id": "gavril�_anamaria",
-      "name": "Gavril� Anamaria",
+      "id": "gavrilă_anamaria",
+      "name": "Gavrilă Anamaria",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -2685,12 +2685,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805380
+        "updatedAt": 1776115068098
       }
     },
     {
-      "id": "gavril�_bianca-eugenia",
-      "name": "Gavril� Bianca-Eugenia",
+      "id": "gavrilă_bianca-eugenia",
+      "name": "Gavrilă Bianca-Eugenia",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -2709,12 +2709,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
-      "id": "gavrilescu_gra�iela_leocadia",
-      "name": "Gavrilescu Gra�iela Leocadia",
+      "id": "gavrilescu_graţiela_leocadia",
+      "name": "Gavrilescu Graţiela Leocadia",
       "role": "Deputat",
       "party": "PSD afiliat",
       "contact": {
@@ -2733,12 +2733,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
-      "id": "geam�nu_aurora-adela",
-      "name": "Geam�nu Aurora-Adela",
+      "id": "geamănu_aurora-adela",
+      "name": "Geamănu Aurora-Adela",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -2757,7 +2757,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
@@ -2770,7 +2770,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -2781,7 +2781,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
@@ -2805,7 +2805,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
@@ -2829,7 +2829,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068098
       }
     },
     {
@@ -2842,7 +2842,7 @@
         "phone": ""
       },
       "location": {
-        "county": "12 / C�L�RA�I",
+        "county": "12 / CĂLĂRAŞI",
         "address": ""
       },
       "activity": {
@@ -2853,7 +2853,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2866,7 +2866,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -2877,7 +2877,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2901,7 +2901,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2925,7 +2925,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805381
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2938,7 +2938,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -2949,7 +2949,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805382
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2962,7 +2962,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -2973,7 +2973,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805382
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -2986,7 +2986,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -2997,12 +2997,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805382
+        "updatedAt": 1776115068099
       }
     },
     {
-      "id": "gliga_dumitri�a",
-      "name": "Gliga Dumitri�a",
+      "id": "gliga_dumitriţa",
+      "name": "Gliga Dumitriţa",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -3010,7 +3010,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -3021,7 +3021,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805382
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -3034,7 +3034,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -3045,12 +3045,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805382
+        "updatedAt": 1776115068099
       }
     },
     {
-      "id": "gorghiu_alina-�tefania",
-      "name": "Gorghiu Alina-�tefania",
+      "id": "gorghiu_alina-ştefania",
+      "name": "Gorghiu Alina-Ştefania",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -3058,7 +3058,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -3069,7 +3069,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068099
       }
     },
     {
@@ -3093,7 +3093,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3106,7 +3106,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -3117,7 +3117,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3130,7 +3130,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -3141,14 +3141,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
       "id": "grosaru_ioana",
       "name": "Grosaru Ioana",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
@@ -3165,7 +3165,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3189,12 +3189,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
-      "id": "groza_c�lin-florin",
-      "name": "Groza C�lin-Florin",
+      "id": "groza_călin-florin",
+      "name": "Groza Călin-Florin",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -3202,7 +3202,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -3213,7 +3213,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3226,7 +3226,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -3237,12 +3237,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805387
+        "updatedAt": 1776115068100
       }
     },
     {
-      "id": "gu��_andrei-cosmin",
-      "name": "Gu�� Andrei-Cosmin",
+      "id": "guşă_andrei-cosmin",
+      "name": "Guşă Andrei-Cosmin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -3261,7 +3261,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3274,7 +3274,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -3285,12 +3285,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068100
       }
     },
     {
-      "id": "hajdu_g�bor",
-      "name": "Hajdu G�bor",
+      "id": "hajdu_gábor",
+      "name": "Hajdu Gábor",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3309,7 +3309,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068100
       }
     },
     {
@@ -3333,7 +3333,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3346,7 +3346,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -3357,7 +3357,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3370,7 +3370,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -3381,12 +3381,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
-      "id": "hu�uc�_bogdan-iulian",
-      "name": "Hu�uc� Bogdan-Iulian",
+      "id": "huţucă_bogdan-iulian",
+      "name": "Huţucă Bogdan-Iulian",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -3394,7 +3394,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -3405,12 +3405,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
-      "id": "iag�r_monica",
-      "name": "Iag�r Monica",
+      "id": "iagăr_monica",
+      "name": "Iagăr Monica",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -3429,7 +3429,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3453,7 +3453,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805388
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3477,7 +3477,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3501,7 +3501,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068101
       }
     },
     {
@@ -3514,7 +3514,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -3525,20 +3525,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
       "id": "ionescu_monica",
       "name": "Ionescu Monica",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -3549,20 +3549,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
       "id": "ionescu_radu-mihail",
       "name": "Ionescu Radu-Mihail",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -3573,7 +3573,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3586,7 +3586,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -3597,7 +3597,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3621,7 +3621,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3645,12 +3645,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
-      "id": "irimia_ancu�a-florina",
-      "name": "Irimia Ancu�a-Florina",
+      "id": "irimia_ancuţa-florina",
+      "name": "Irimia Ancuţa-Florina",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -3658,7 +3658,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -3669,7 +3669,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3682,7 +3682,7 @@
         "phone": ""
       },
       "location": {
-        "county": "11 / CARA�-SEVERIN",
+        "county": "11 / CARAŞ-SEVERIN",
         "address": ""
       },
       "activity": {
@@ -3693,7 +3693,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805389
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3706,7 +3706,7 @@
         "phone": ""
       },
       "location": {
-        "county": "6 / BISTRI�A-N�S�UD",
+        "county": "6 / BISTRIŢA-NĂSĂUD",
         "address": ""
       },
       "activity": {
@@ -3717,7 +3717,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068102
       }
     },
     {
@@ -3730,7 +3730,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -3741,12 +3741,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068102
       }
     },
     {
-      "id": "k�ntor_bogl�rka",
-      "name": "K�ntor Bogl�rka",
+      "id": "kántor_boglárka",
+      "name": "Kántor Boglárka",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3765,7 +3765,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
@@ -3789,12 +3789,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "kolcs�r_anquetil-k�roly",
-      "name": "Kolcs�r Anquetil-K�roly",
+      "id": "kolcsár_anquetil-károly",
+      "name": "Kolcsár Anquetil-Károly",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3802,7 +3802,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -3813,7 +3813,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
@@ -3826,7 +3826,7 @@
         "phone": ""
       },
       "location": {
-        "county": "27 / MEHEDIN�I",
+        "county": "27 / MEHEDINŢI",
         "address": ""
       },
       "activity": {
@@ -3837,12 +3837,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "k�nczei_csaba",
-      "name": "K�nczei Csaba",
+      "id": "könczei_csaba",
+      "name": "Könczei Csaba",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3861,12 +3861,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "kroncsi�_sebastian-andrei",
-      "name": "Kroncsi� Sebastian-Andrei",
+      "id": "kroncsiş_sebastian-andrei",
+      "name": "Kroncsiş Sebastian-Andrei",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -3885,12 +3885,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "kulcs�r-terza_j�zsef-gy�rgy",
-      "name": "Kulcs�r-Terza J�zsef-Gy�rgy",
+      "id": "kulcsár-terza_józsef-györgy",
+      "name": "Kulcsár-Terza József-György",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3909,12 +3909,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "lad�nyi_l�szl�-zsolt",
-      "name": "Lad�nyi L�szl�-Zsolt",
+      "id": "ladányi_lászló-zsolt",
+      "name": "Ladányi László-Zsolt",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -3933,12 +3933,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805390
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "laz�r_teodor",
-      "name": "Laz�r Teodor",
+      "id": "lazăr_teodor",
+      "name": "Lazăr Teodor",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -3946,7 +3946,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -3957,12 +3957,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "l�pu�an_remus-gabriel",
-      "name": "L�pu�an Remus-Gabriel",
+      "id": "lăpuşan_remus-gabriel",
+      "name": "Lăpuşan Remus-Gabriel",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -3981,12 +3981,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068103
       }
     },
     {
-      "id": "l�z�roi_ioan",
-      "name": "L�z�roi Ioan",
+      "id": "lăzăroi_ioan",
+      "name": "Lăzăroi Ioan",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -4005,12 +4005,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
-      "id": "lip�_elisabeta",
-      "name": "Lip� Elisabeta",
+      "id": "lipă_elisabeta",
+      "name": "Lipă Elisabeta",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -4018,7 +4018,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -4029,7 +4029,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4053,12 +4053,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
-      "id": "l�rincz_�tefan-iulian",
-      "name": "L�rincz �tefan-Iulian",
+      "id": "lőrincz_ştefan-iulian",
+      "name": "Lőrincz Ştefan-Iulian",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -4077,7 +4077,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4101,7 +4101,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4114,7 +4114,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -4125,7 +4125,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4138,7 +4138,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -4149,12 +4149,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
-      "id": "magyar_lor�nd-b�lint",
-      "name": "Magyar Lor�nd-B�lint",
+      "id": "magyar_loránd-bálint",
+      "name": "Magyar Loránd-Bálint",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -4173,7 +4173,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805391
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4186,7 +4186,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -4197,7 +4197,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4221,7 +4221,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068104
       }
     },
     {
@@ -4245,12 +4245,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068104
       }
     },
     {
-      "id": "mark�_attila-g�bor",
-      "name": "Mark� Attila-G�bor",
+      "id": "markó_attila-gábor",
+      "name": "Markó Attila-Gábor",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -4258,7 +4258,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -4269,7 +4269,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4293,7 +4293,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4306,7 +4306,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -4317,7 +4317,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4341,7 +4341,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4365,12 +4365,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
-      "id": "matichescu_mirela-floren�a",
-      "name": "Matichescu Mirela-Floren�a",
+      "id": "matichescu_mirela-florenţa",
+      "name": "Matichescu Mirela-Florenţa",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -4378,7 +4378,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -4389,12 +4389,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
-      "id": "matie�_c�lin-gheorghe",
-      "name": "Matie� C�lin-Gheorghe",
+      "id": "matieş_călin-gheorghe",
+      "name": "Matieş Călin-Gheorghe",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -4413,12 +4413,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
-      "id": "m�rg�rit_mitic�-marius",
-      "name": "M�rg�rit Mitic�-Marius",
+      "id": "mărgărit_mitică-marius",
+      "name": "Mărgărit Mitică-Marius",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -4426,7 +4426,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -4437,7 +4437,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805392
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4461,12 +4461,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068105
       }
     },
     {
-      "id": "micl�u_samuel-virgil",
-      "name": "Micl�u Samuel-Virgil",
+      "id": "miclău_samuel-virgil",
+      "name": "Miclău Samuel-Virgil",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -4474,7 +4474,7 @@
         "phone": ""
       },
       "location": {
-        "county": "11 / CARA�-SEVERIN",
+        "county": "11 / CARAŞ-SEVERIN",
         "address": ""
       },
       "activity": {
@@ -4485,7 +4485,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4498,7 +4498,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -4509,7 +4509,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068105
       }
     },
     {
@@ -4522,7 +4522,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -4533,7 +4533,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
@@ -4546,7 +4546,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -4557,7 +4557,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
@@ -4570,7 +4570,7 @@
         "phone": ""
       },
       "location": {
-        "county": "11 / CARA�-SEVERIN",
+        "county": "11 / CARAŞ-SEVERIN",
         "address": ""
       },
       "activity": {
@@ -4581,12 +4581,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
-      "id": "mih�escu_mugur",
-      "name": "Mih�escu Mugur",
+      "id": "mihăescu_mugur",
+      "name": "Mihăescu Mugur",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -4605,12 +4605,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
-      "id": "mihu�i_bogdan-florian",
-      "name": "Mihu�i Bogdan-Florian",
+      "id": "mihuţi_bogdan-florian",
+      "name": "Mihuţi Bogdan-Florian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -4629,12 +4629,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
-      "id": "mikl�s_zolt�n",
-      "name": "Mikl�s Zolt�n",
+      "id": "miklós_zoltán",
+      "name": "Miklós Zoltán",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -4653,7 +4653,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
@@ -4677,12 +4677,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068106
       }
     },
     {
-      "id": "miru��_radu-dinel",
-      "name": "Miru�� Radu-Dinel",
+      "id": "miruţă_radu-dinel",
+      "name": "Miruţă Radu-Dinel",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -4701,7 +4701,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805393
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4714,7 +4714,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -4725,7 +4725,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4738,7 +4738,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -4749,12 +4749,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
-      "id": "m�ndrescu_nicolae",
-      "name": "M�ndrescu Nicolae",
+      "id": "mîndrescu_nicolae",
+      "name": "Mîndrescu Nicolae",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -4762,7 +4762,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -4773,12 +4773,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
-      "id": "m�ndroc_c�t�lin-viorel",
-      "name": "M�ndroc C�t�lin-Viorel",
+      "id": "mîndroc_cătălin-viorel",
+      "name": "Mîndroc Cătălin-Viorel",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -4786,7 +4786,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -4797,7 +4797,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4810,7 +4810,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -4821,7 +4821,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4834,7 +4834,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -4845,7 +4845,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4869,7 +4869,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4882,7 +4882,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -4893,7 +4893,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068107
       }
     },
     {
@@ -4906,7 +4906,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -4917,12 +4917,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068108
       }
     },
     {
-      "id": "mo�_patricia-simina-arina",
-      "name": "Mo� Patricia-Simina-Arina",
+      "id": "moş_patricia-simina-arina",
+      "name": "Moş Patricia-Simina-Arina",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -4941,12 +4941,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068108
       }
     },
     {
-      "id": "mo�teanu_liviu-ionu�",
-      "name": "Mo�teanu Liviu-Ionu�",
+      "id": "moşteanu_liviu-ionuţ",
+      "name": "Moşteanu Liviu-Ionuţ",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -4954,7 +4954,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -4965,7 +4965,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805394
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -4978,7 +4978,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -4989,7 +4989,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5002,7 +5002,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -5013,7 +5013,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5026,7 +5026,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -5037,7 +5037,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5061,7 +5061,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5074,7 +5074,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -5085,12 +5085,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
-      "id": "mu�at_doru-lucian",
-      "name": "Mu�at Doru-Lucian",
+      "id": "muşat_doru-lucian",
+      "name": "Muşat Doru-Lucian",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -5098,7 +5098,7 @@
         "phone": ""
       },
       "location": {
-        "county": "33 / S�LAJ",
+        "county": "33 / SĂLAJ",
         "address": ""
       },
       "activity": {
@@ -5109,7 +5109,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5133,7 +5133,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5157,7 +5157,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068108
       }
     },
     {
@@ -5181,7 +5181,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068109
       }
     },
     {
@@ -5194,7 +5194,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -5205,12 +5205,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "n�cu��_sorin",
-      "name": "N�cu�� Sorin",
+      "id": "năcuţă_sorin",
+      "name": "Năcuţă Sorin",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -5218,7 +5218,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -5229,12 +5229,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805395
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "n�sui_claudiu-iulius-gavril",
-      "name": "N�sui Claudiu-Iulius-Gavril",
+      "id": "năsui_claudiu-iulius-gavril",
+      "name": "Năsui Claudiu-Iulius-Gavril",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -5242,7 +5242,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -5253,12 +5253,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "neac�u_andreea-firu�a",
-      "name": "Neac�u Andreea-Firu�a",
+      "id": "neacşu_andreea-firuţa",
+      "name": "Neacşu Andreea-Firuţa",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -5266,7 +5266,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -5277,12 +5277,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "neac�u_marian",
-      "name": "Neac�u Marian",
+      "id": "neacşu_marian",
+      "name": "Neacşu Marian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -5290,7 +5290,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -5301,7 +5301,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
@@ -5314,7 +5314,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -5325,12 +5325,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "neam�u_george-mihail",
-      "name": "Neam�u George-Mihail",
+      "id": "neamţu_george-mihail",
+      "name": "Neamţu George-Mihail",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -5349,12 +5349,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "nea��_eugen",
-      "name": "Nea�� Eugen",
+      "id": "neaţă_eugen",
+      "name": "Neaţă Eugen",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -5362,7 +5362,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -5373,12 +5373,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
-      "id": "neculaescu_lauren�iu_adrian",
-      "name": "Neculaescu Lauren�iu Adrian",
+      "id": "neculaescu_laurenţiu_adrian",
+      "name": "Neculaescu Laurenţiu Adrian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -5386,7 +5386,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -5397,7 +5397,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
@@ -5410,7 +5410,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -5421,7 +5421,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068109
       }
     },
     {
@@ -5445,7 +5445,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5469,7 +5469,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5482,7 +5482,7 @@
         "phone": ""
       },
       "location": {
-        "county": "23 / IALOMI�A",
+        "county": "23 / IALOMIŢA",
         "address": ""
       },
       "activity": {
@@ -5493,12 +5493,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805396
+        "updatedAt": 1776115068110
       }
     },
     {
-      "id": "oltena�u_sorin-george",
-      "name": "Oltena�u Sorin-George",
+      "id": "oltenaşu_sorin-george",
+      "name": "Oltenaşu Sorin-George",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -5506,7 +5506,7 @@
         "phone": ""
       },
       "location": {
-        "county": "23 / IALOMI�A",
+        "county": "23 / IALOMIŢA",
         "address": ""
       },
       "activity": {
@@ -5517,7 +5517,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5530,7 +5530,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -5541,7 +5541,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5565,7 +5565,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5578,7 +5578,7 @@
         "phone": ""
       },
       "location": {
-        "county": "12 / C�L�RA�I",
+        "county": "12 / CĂLĂRAŞI",
         "address": ""
       },
       "activity": {
@@ -5589,7 +5589,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5602,7 +5602,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -5613,7 +5613,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5626,7 +5626,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -5637,7 +5637,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5650,7 +5650,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -5661,7 +5661,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
@@ -5685,12 +5685,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068110
       }
     },
     {
-      "id": "p�un_nicolae",
-      "name": "P�un Nicolae",
+      "id": "păun_nicolae",
+      "name": "Păun Nicolae",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -5709,12 +5709,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068111
       }
     },
     {
-      "id": "p�unescu_silviu-titus",
-      "name": "P�unescu Silviu-Titus",
+      "id": "păunescu_silviu-titus",
+      "name": "Păunescu Silviu-Titus",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -5722,7 +5722,7 @@
         "phone": ""
       },
       "location": {
-        "county": "14 / CONSTAN�A",
+        "county": "14 / CONSTANŢA",
         "address": ""
       },
       "activity": {
@@ -5733,12 +5733,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068111
       }
     },
     {
-      "id": "petre�chi_nicolae-miroslav",
-      "name": "Petre�chi Nicolae-Miroslav",
+      "id": "petreţchi_nicolae-miroslav",
+      "name": "Petreţchi Nicolae-Miroslav",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -5757,12 +5757,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805397
+        "updatedAt": 1776115068111
       }
     },
     {
-      "id": "pe�a-�tef�nescu_eliza-m�d�lina",
-      "name": "Pe�a-�tef�nescu Eliza-M�d�lina",
+      "id": "peţa-ştefănescu_eliza-mădălina",
+      "name": "Peţa-Ştefănescu Eliza-Mădălina",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -5781,7 +5781,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5794,7 +5794,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -5805,7 +5805,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5829,12 +5829,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
-      "id": "p�cli�an_gheorghe-petru",
-      "name": "P�cli�an Gheorghe-Petru",
+      "id": "pîclişan_gheorghe-petru",
+      "name": "Pîclişan Gheorghe-Petru",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -5842,7 +5842,7 @@
         "phone": ""
       },
       "location": {
-        "county": "7 / BOTO�ANI",
+        "county": "7 / BOTOŞANI",
         "address": ""
       },
       "activity": {
@@ -5853,20 +5853,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
       "id": "plopeanu_rodica",
       "name": "Plopeanu Rodica",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -5877,7 +5877,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5890,7 +5890,7 @@
         "phone": ""
       },
       "location": {
-        "county": "11 / CARA�-SEVERIN",
+        "county": "11 / CARAŞ-SEVERIN",
         "address": ""
       },
       "activity": {
@@ -5901,7 +5901,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5914,7 +5914,7 @@
         "phone": ""
       },
       "location": {
-        "county": "16 / D�MBOVI�A",
+        "county": "16 / DÂMBOVIŢA",
         "address": ""
       },
       "activity": {
@@ -5925,7 +5925,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5938,7 +5938,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -5949,7 +5949,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068111
       }
     },
     {
@@ -5962,7 +5962,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -5973,7 +5973,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068112
       }
     },
     {
@@ -5986,7 +5986,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -5997,7 +5997,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068112
       }
     },
     {
@@ -6010,7 +6010,7 @@
         "phone": ""
       },
       "location": {
-        "county": "4 / BAC�U",
+        "county": "4 / BACĂU",
         "address": ""
       },
       "activity": {
@@ -6021,7 +6021,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805398
+        "updatedAt": 1776115068112
       }
     },
     {
@@ -6034,7 +6034,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -6045,12 +6045,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805399
+        "updatedAt": 1776115068112
       }
     },
     {
-      "id": "popa_�tefan-ovidiu",
-      "name": "Popa �tefan-Ovidiu",
+      "id": "popa_ştefan-ovidiu",
+      "name": "Popa Ştefan-Ovidiu",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -6058,7 +6058,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -6069,7 +6069,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805399
+        "updatedAt": 1776115068112
       }
     },
     {
@@ -6082,7 +6082,7 @@
         "phone": ""
       },
       "location": {
-        "county": "40 / V�LCEA",
+        "county": "40 / VÂLCEA",
         "address": ""
       },
       "activity": {
@@ -6093,7 +6093,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805399
+        "updatedAt": 1776115068113
       }
     },
     {
@@ -6106,7 +6106,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -6117,7 +6117,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805399
+        "updatedAt": 1776115068113
       }
     },
     {
@@ -6141,12 +6141,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068113
       }
     },
     {
-      "id": "priceputu_vasilic�",
-      "name": "Priceputu Vasilic�",
+      "id": "priceputu_vasilică",
+      "name": "Priceputu Vasilică",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -6154,7 +6154,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -6165,12 +6165,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068113
       }
     },
     {
-      "id": "priescu_ionelia-floren�a",
-      "name": "Priescu Ionelia-Floren�a",
+      "id": "priescu_ionelia-florenţa",
+      "name": "Priescu Ionelia-Florenţa",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -6189,12 +6189,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068113
       }
     },
     {
-      "id": "pri�c�_r�zvan_sorin",
-      "name": "Pri�c� R�zvan Sorin",
+      "id": "prişcă_răzvan_sorin",
+      "name": "Prişcă Răzvan Sorin",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6202,7 +6202,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6213,12 +6213,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068113
       }
     },
     {
-      "id": "prun�_cristina-m�d�lina",
-      "name": "Prun� Cristina-M�d�lina",
+      "id": "prună_cristina-mădălina",
+      "name": "Prună Cristina-Mădălina",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -6226,7 +6226,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6237,12 +6237,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068113
       }
     },
     {
-      "id": "pu�ca�u_lucian-florin",
-      "name": "Pu�ca�u Lucian-Florin",
+      "id": "puşcaşu_lucian-florin",
+      "name": "Puşcaşu Lucian-Florin",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -6261,12 +6261,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068114
       }
     },
     {
-      "id": "pu�ca�u_petre",
-      "name": "Pu�ca�u Petre",
+      "id": "puşcaşu_petre",
+      "name": "Puşcaşu Petre",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -6285,7 +6285,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6309,7 +6309,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6322,7 +6322,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -6333,12 +6333,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805400
+        "updatedAt": 1776115068114
       }
     },
     {
-      "id": "r�ducanu_sebastian",
-      "name": "R�ducanu Sebastian",
+      "id": "răducanu_sebastian",
+      "name": "Răducanu Sebastian",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -6346,7 +6346,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -6357,12 +6357,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
-      "id": "r�ducea_gheorghe-valentin",
-      "name": "R�ducea Gheorghe-Valentin",
+      "id": "răducea_gheorghe-valentin",
+      "name": "Răducea Gheorghe-Valentin",
       "role": "Deputat",
       "party": "POT",
       "contact": {
@@ -6381,7 +6381,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6405,7 +6405,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6429,7 +6429,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6442,7 +6442,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -6453,7 +6453,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6477,7 +6477,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068114
       }
     },
     {
@@ -6501,12 +6501,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068115
       }
     },
     {
-      "id": "ro�ca_mircea",
-      "name": "Ro�ca Mircea",
+      "id": "roşca_mircea",
+      "name": "Roşca Mircea",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6525,7 +6525,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068115
       }
     },
     {
@@ -6538,7 +6538,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -6549,12 +6549,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805401
+        "updatedAt": 1776115068115
       }
     },
     {
-      "id": "samoil�_ion",
-      "name": "Samoil� Ion",
+      "id": "samoilă_ion",
+      "name": "Samoilă Ion",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -6562,7 +6562,7 @@
         "phone": ""
       },
       "location": {
-        "county": "12 / C�L�RA�I",
+        "county": "12 / CĂLĂRAŞI",
         "address": ""
       },
       "activity": {
@@ -6573,7 +6573,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
@@ -6586,7 +6586,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -6597,7 +6597,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
@@ -6610,7 +6610,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -6621,12 +6621,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
-      "id": "seres_d�nes",
-      "name": "Seres D�nes",
+      "id": "seres_dénes",
+      "name": "Seres Dénes",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -6634,7 +6634,7 @@
         "phone": ""
       },
       "location": {
-        "county": "33 / S�LAJ",
+        "county": "33 / SĂLAJ",
         "address": ""
       },
       "activity": {
@@ -6645,12 +6645,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
-      "id": "sighiart�u_robert-ionatan",
-      "name": "Sighiart�u Robert-Ionatan",
+      "id": "sighiartău_robert-ionatan",
+      "name": "Sighiartău Robert-Ionatan",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6658,7 +6658,7 @@
         "phone": ""
       },
       "location": {
-        "county": "6 / BISTRI�A-N�S�UD",
+        "county": "6 / BISTRIŢA-NĂSĂUD",
         "address": ""
       },
       "activity": {
@@ -6669,7 +6669,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
@@ -6682,7 +6682,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6693,14 +6693,14 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068115
       }
     },
     {
       "id": "simu_aurora-tasica",
       "name": "Simu Aurora-Tasica",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
@@ -6717,7 +6717,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6741,7 +6741,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805402
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6765,12 +6765,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
-      "id": "st�nescu_vetu�a",
-      "name": "St�nescu Vetu�a",
+      "id": "stănescu_vetuţa",
+      "name": "Stănescu Vetuţa",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6789,12 +6789,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
-      "id": "stoenic�_irina-florentina",
-      "name": "Stoenic� Irina-Florentina",
+      "id": "stoenică_irina-florentina",
+      "name": "Stoenică Irina-Florentina",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -6813,7 +6813,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6826,7 +6826,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6837,7 +6837,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6861,7 +6861,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6874,7 +6874,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6885,12 +6885,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
-      "id": "stoica_�tefan-bucur",
-      "name": "Stoica �tefan-Bucur",
+      "id": "stoica_ştefan-bucur",
+      "name": "Stoica Ştefan-Bucur",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6909,12 +6909,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
-      "id": "stroe_ionu�-marian",
-      "name": "Stroe Ionu�-Marian",
+      "id": "stroe_ionuţ-marian",
+      "name": "Stroe Ionuţ-Marian",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -6922,7 +6922,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -6933,7 +6933,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
@@ -6946,7 +6946,7 @@
         "phone": ""
       },
       "location": {
-        "county": "6 / BISTRI�A-N�S�UD",
+        "county": "6 / BISTRIŢA-NĂSĂUD",
         "address": ""
       },
       "activity": {
@@ -6957,12 +6957,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068116
       }
     },
     {
-      "id": "szab�_�d�n",
-      "name": "Szab� �d�n",
+      "id": "szabó_ödön",
+      "name": "Szabó Ödön",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -6981,12 +6981,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "sz�ke_ecaterina-mariana",
-      "name": "Sz�ke Ecaterina-Mariana",
+      "id": "szőke_ecaterina-mariana",
+      "name": "Szőke Ecaterina-Mariana",
       "role": "Deputat",
       "party": "PSD afiliat",
       "contact": {
@@ -6994,7 +6994,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -7005,12 +7005,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "�endroiu_vlad-ioan",
-      "name": "�endroiu Vlad-Ioan",
+      "id": "şendroiu_vlad-ioan",
+      "name": "Şendroiu Vlad-Ioan",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -7018,7 +7018,7 @@
         "phone": ""
       },
       "location": {
-        "county": "37 / TIMI�",
+        "county": "37 / TIMIŞ",
         "address": ""
       },
       "activity": {
@@ -7029,12 +7029,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805403
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "�erban_ciprian-constantin",
-      "name": "�erban Ciprian-Constantin",
+      "id": "şerban_ciprian-constantin",
+      "name": "Şerban Ciprian-Constantin",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -7042,7 +7042,7 @@
         "phone": ""
       },
       "location": {
-        "county": "29 / NEAM�",
+        "county": "29 / NEAMŢ",
         "address": ""
       },
       "activity": {
@@ -7053,12 +7053,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "�erban_george_c�t�lin",
-      "name": "�erban George C�t�lin",
+      "id": "şerban_george_cătălin",
+      "name": "Şerban George Cătălin",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -7077,12 +7077,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "�erban_gianina",
-      "name": "�erban Gianina",
+      "id": "şerban_gianina",
+      "name": "Şerban Gianina",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -7101,12 +7101,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "�tirbu_gigel-sorinel",
-      "name": "�tirbu Gigel-Sorinel",
+      "id": "ştirbu_gigel-sorinel",
+      "name": "Ştirbu Gigel-Sorinel",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -7125,12 +7125,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "tanas�_dan",
-      "name": "Tanas� Dan",
+      "id": "tanasă_dan",
+      "name": "Tanasă Dan",
       "role": "Deputat",
       "party": "AUR",
       "contact": {
@@ -7138,7 +7138,7 @@
         "phone": ""
       },
       "location": {
-        "county": "8 / BRA�OV",
+        "county": "8 / BRAŞOV",
         "address": ""
       },
       "activity": {
@@ -7149,12 +7149,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "tanas�_�tefan",
-      "name": "Tanas� �tefan",
+      "id": "tanasă_ştefan",
+      "name": "Tanasă Ştefan",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -7162,7 +7162,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -7173,12 +7173,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "teslariu_andrei-ionu�",
-      "name": "Teslariu Andrei-Ionu�",
+      "id": "teslariu_andrei-ionuţ",
+      "name": "Teslariu Andrei-Ionuţ",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -7197,7 +7197,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
@@ -7221,12 +7221,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068117
       }
     },
     {
-      "id": "t�lv�r_angel",
-      "name": "T�lv�r Angel",
+      "id": "tîlvăr_angel",
+      "name": "Tîlvăr Angel",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -7245,7 +7245,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7269,7 +7269,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7293,7 +7293,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805404
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7317,7 +7317,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7330,7 +7330,7 @@
         "phone": ""
       },
       "location": {
-        "county": "27 / MEHEDIN�I",
+        "county": "27 / MEHEDINŢI",
         "address": ""
       },
       "activity": {
@@ -7341,7 +7341,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7365,7 +7365,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7389,12 +7389,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
-      "id": "tu�a_adriana_diana",
-      "name": "Tu�a Adriana Diana",
+      "id": "tuşa_adriana_diana",
+      "name": "Tuşa Adriana Diana",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -7402,7 +7402,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -7413,12 +7413,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
-      "id": "�int�_�tefan",
-      "name": "�int� �tefan",
+      "id": "ţintă_ştefan",
+      "name": "Ţintă Ştefan",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -7426,7 +7426,7 @@
         "phone": ""
       },
       "location": {
-        "county": "23 / IALOMI�A",
+        "county": "23 / IALOMIŢA",
         "address": ""
       },
       "activity": {
@@ -7437,12 +7437,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
-      "id": "�iplea_dumitru",
-      "name": "�iplea Dumitru",
+      "id": "ţiplea_dumitru",
+      "name": "Ţiplea Dumitru",
       "role": "Deputat",
       "party": "PNL",
       "contact": {
@@ -7461,12 +7461,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
-      "id": "�iu_mihai-adrian",
-      "name": "�iu Mihai-Adrian",
+      "id": "ţiu_mihai-adrian",
+      "name": "Ţiu Mihai-Adrian",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -7485,12 +7485,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
-      "id": "�oiu_oana-silvia",
-      "name": "�oiu Oana-Silvia",
+      "id": "ţoiu_oana-silvia",
+      "name": "Ţoiu Oana-Silvia",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -7498,7 +7498,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -7509,7 +7509,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068118
       }
     },
     {
@@ -7533,7 +7533,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7546,7 +7546,7 @@
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -7557,7 +7557,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7570,7 +7570,7 @@
         "phone": ""
       },
       "location": {
-        "county": "28 / MURE�",
+        "county": "28 / MUREŞ",
         "address": ""
       },
       "activity": {
@@ -7581,12 +7581,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805405
+        "updatedAt": 1776115068119
       }
     },
     {
-      "id": "v�duva_dumitru",
-      "name": "V�duva Dumitru",
+      "id": "văduva_dumitru",
+      "name": "Văduva Dumitru",
       "role": "Deputat",
       "party": "USR",
       "contact": {
@@ -7605,20 +7605,20 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
-      "id": "v�rg�_mariana",
-      "name": "V�rg� Mariana",
+      "id": "vârgă_mariana",
+      "name": "Vârgă Mariana",
       "role": "Deputat",
-      "party": "Neafilia�i",
+      "party": "Neafiliaţi",
       "contact": {
         "email": "",
         "phone": ""
       },
       "location": {
-        "county": "42 / BUCURE�TI",
+        "county": "42 / BUCUREŞTI",
         "address": ""
       },
       "activity": {
@@ -7629,12 +7629,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
-      "id": "vedina�_verginia",
-      "name": "Vedina� Verginia",
+      "id": "vedinaş_verginia",
+      "name": "Vedinaş Verginia",
       "role": "Deputat",
       "party": "SOS RO",
       "contact": {
@@ -7653,7 +7653,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7666,7 +7666,7 @@
         "phone": ""
       },
       "location": {
-        "county": "11 / CARA�-SEVERIN",
+        "county": "11 / CARAŞ-SEVERIN",
         "address": ""
       },
       "activity": {
@@ -7677,7 +7677,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7690,7 +7690,7 @@
         "phone": ""
       },
       "location": {
-        "county": "3 / ARGE�",
+        "county": "3 / ARGEŞ",
         "address": ""
       },
       "activity": {
@@ -7701,7 +7701,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7725,7 +7725,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7749,7 +7749,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7773,7 +7773,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
@@ -7786,7 +7786,7 @@
         "phone": ""
       },
       "location": {
-        "county": "18 / GALA�I",
+        "county": "18 / GALAŢI",
         "address": ""
       },
       "activity": {
@@ -7797,12 +7797,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068119
       }
     },
     {
-      "id": "vu�can_voicu",
-      "name": "Vu�can Voicu",
+      "id": "vuşcan_voicu",
+      "name": "Vuşcan Voicu",
       "role": "Deputat",
       "party": "PSD",
       "contact": {
@@ -7821,7 +7821,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -7845,7 +7845,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -7869,7 +7869,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805406
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -7882,7 +7882,7 @@
         "phone": ""
       },
       "location": {
-        "county": "26 / MARAMURE�",
+        "county": "26 / MARAMUREŞ",
         "address": ""
       },
       "activity": {
@@ -7893,12 +7893,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
-      "id": "zakarias_zolt�n",
-      "name": "Zakarias Zolt�n",
+      "id": "zakarias_zoltán",
+      "name": "Zakarias Zoltán",
       "role": "Deputat",
       "party": "UDMR",
       "contact": {
@@ -7917,12 +7917,12 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
-      "id": "zisopol_drago�_gabriel",
-      "name": "Zisopol Drago� Gabriel",
+      "id": "zisopol_dragoş_gabriel",
+      "name": "Zisopol Dragoş Gabriel",
       "role": "Deputat",
       "party": "Minoritati",
       "contact": {
@@ -7941,7 +7941,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -7954,7 +7954,7 @@
         "phone": ""
       },
       "location": {
-        "county": "24 / IA�I",
+        "county": "24 / IAŞI",
         "address": ""
       },
       "activity": {
@@ -7965,7 +7965,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -7989,7 +7989,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -8002,7 +8002,7 @@
         "phone": ""
       },
       "location": {
-        "county": "9 / BR�ILA",
+        "county": "9 / BRĂILA",
         "address": ""
       },
       "activity": {
@@ -8013,7 +8013,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     },
     {
@@ -8026,7 +8026,7 @@
         "phone": ""
       },
       "location": {
-        "county": "10 / BUZ�U",
+        "county": "10 / BUZĂU",
         "address": ""
       },
       "activity": {
@@ -8037,7 +8037,7 @@
       },
       "imageUrl": "",
       "meta": {
-        "updatedAt": 1776114805407
+        "updatedAt": 1776115068120
       }
     }
   ]
