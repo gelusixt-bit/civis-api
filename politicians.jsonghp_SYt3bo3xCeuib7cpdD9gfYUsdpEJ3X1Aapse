@@ -1,0 +1,7732 @@
+{
+  "politicians": [
+    {
+      "id": "sunte�i_aici:",
+      "name": "Sunte�i aici:",
+      "role": "Deputat",
+      "party": "Prima pagina > Legislatura 2024-prezent / Camera Deputatilor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149417
+      }
+    },
+    {
+      "id": "10.",
+      "name": "10.",
+      "role": "Deputat",
+      "party": "Artimon Dan-C�t�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149420
+      }
+    },
+    {
+      "id": "11.",
+      "name": "11.",
+      "role": "Deputat",
+      "party": "Atanasiu Corina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149420
+      }
+    },
+    {
+      "id": "12.",
+      "name": "12.",
+      "role": "Deputat",
+      "party": "Avr�mescu �tef�ni��-Alin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "13.",
+      "name": "13.",
+      "role": "Deputat",
+      "party": "Baciu Romic�-Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "14.",
+      "name": "14.",
+      "role": "Deputat",
+      "party": "Badea Nelu-Valentin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "15.",
+      "name": "15.",
+      "role": "Deputat",
+      "party": "Badiu Georgel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "16.",
+      "name": "16.",
+      "role": "Deputat",
+      "party": "Balan Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "17.",
+      "name": "17.",
+      "role": "Deputat",
+      "party": "Bara Nicolae-Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "18.",
+      "name": "18.",
+      "role": "Deputat",
+      "party": "Barbu Florin-Ionu�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149421
+      }
+    },
+    {
+      "id": "19.",
+      "name": "19.",
+      "role": "Deputat",
+      "party": "Barstan Tiberiu-Claudiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149422
+      }
+    },
+    {
+      "id": "20.",
+      "name": "20.",
+      "role": "Deputat",
+      "party": "Ba� Ana-Marcela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149422
+      }
+    },
+    {
+      "id": "21.",
+      "name": "21.",
+      "role": "Deputat",
+      "party": "B�i�anu �tefan-Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149422
+      }
+    },
+    {
+      "id": "22.",
+      "name": "22.",
+      "role": "Deputat",
+      "party": "Becali George",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149422
+      }
+    },
+    {
+      "id": "23.",
+      "name": "23.",
+      "role": "Deputat",
+      "party": "Bejinariu Eugen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149422
+      }
+    },
+    {
+      "id": "24.",
+      "name": "24.",
+      "role": "Deputat",
+      "party": "Bende S�ndor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "25.",
+      "name": "25.",
+      "role": "Deputat",
+      "party": "Berescu Monica-Elena",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "26.",
+      "name": "26.",
+      "role": "Deputat",
+      "party": "Biro Daniel-R�zvan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "27.",
+      "name": "27.",
+      "role": "Deputat",
+      "party": "Bir� Roz�lia-Ibolya",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "28.",
+      "name": "28.",
+      "role": "Deputat",
+      "party": "Blaga Daniel-Codru�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "29.",
+      "name": "29.",
+      "role": "Deputat",
+      "party": "Bode Lucian Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "30.",
+      "name": "30.",
+      "role": "Deputat",
+      "party": "Bogdan Ionel-Ovidiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149423
+      }
+    },
+    {
+      "id": "31.",
+      "name": "31.",
+      "role": "Deputat",
+      "party": "Bogd�nel Lucian-Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "32.",
+      "name": "32.",
+      "role": "Deputat",
+      "party": "Bordian Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "33.",
+      "name": "33.",
+      "role": "Deputat",
+      "party": "Bor� George-M�d�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "34.",
+      "name": "34.",
+      "role": "Deputat",
+      "party": "Bo�utar Tiberiu-Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "35.",
+      "name": "35.",
+      "role": "Deputat",
+      "party": "Botez Mihai-C�t�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "36.",
+      "name": "36.",
+      "role": "Deputat",
+      "party": "Bouda �tefan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "37.",
+      "name": "37.",
+      "role": "Deputat",
+      "party": "Bruynseels Ramona-Ioana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "38.",
+      "name": "38.",
+      "role": "Deputat",
+      "party": "Bucur Ariana-Oana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149424
+      }
+    },
+    {
+      "id": "39.",
+      "name": "39.",
+      "role": "Deputat",
+      "party": "Bucura-Oprescu Simona",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "40.",
+      "name": "40.",
+      "role": "Deputat",
+      "party": "Budac� Vasile",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "41.",
+      "name": "41.",
+      "role": "Deputat",
+      "party": "Bud�i Marius-Constantin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "42.",
+      "name": "42.",
+      "role": "Deputat",
+      "party": "Buican Cristian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "43.",
+      "name": "43.",
+      "role": "Deputat",
+      "party": "Bulai Iulian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "44.",
+      "name": "44.",
+      "role": "Deputat",
+      "party": "Bulearc� Marius-Felix",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "45.",
+      "name": "45.",
+      "role": "Deputat",
+      "party": "Burduja Sebastian-Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "46.",
+      "name": "46.",
+      "role": "Deputat",
+      "party": "Butur� Cristina-Irina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149425
+      }
+    },
+    {
+      "id": "47.",
+      "name": "47.",
+      "role": "Deputat",
+      "party": "Buzoianu Diana-Anda",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "48.",
+      "name": "48.",
+      "role": "Deputat",
+      "party": "Cadar R�zvan-Olimpiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "49.",
+      "name": "49.",
+      "role": "Deputat",
+      "party": "Caraga�� Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "50.",
+      "name": "50.",
+      "role": "Deputat",
+      "party": "C�ciu Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "51.",
+      "name": "51.",
+      "role": "Deputat",
+      "party": "Cernit Maria",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "52.",
+      "name": "52.",
+      "role": "Deputat",
+      "party": "Chilat Crina-Fiorela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "53.",
+      "name": "53.",
+      "role": "Deputat",
+      "party": "Chiril� Virgil Alin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "54.",
+      "name": "54.",
+      "role": "Deputat",
+      "party": "Chiri�� R�zvan-Mirel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "55.",
+      "name": "55.",
+      "role": "Deputat",
+      "party": "Ciobanu Adrian-Virgil",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149426
+      }
+    },
+    {
+      "id": "56.",
+      "name": "56.",
+      "role": "Deputat",
+      "party": "Ciobotaru Drago�-F�nic�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "57.",
+      "name": "57.",
+      "role": "Deputat",
+      "party": "Ciocan Doini�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "58.",
+      "name": "58.",
+      "role": "Deputat",
+      "party": "Ciornei Daniel-C�t�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "59.",
+      "name": "59.",
+      "role": "Deputat",
+      "party": "Ciortea R�zvan-Iulian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "60.",
+      "name": "60.",
+      "role": "Deputat",
+      "party": "Ciubuc Ciprian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "61.",
+      "name": "61.",
+      "role": "Deputat",
+      "party": "Ciuc� Liviu-Bogdan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "62.",
+      "name": "62.",
+      "role": "Deputat",
+      "party": "Ciunt Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "63.",
+      "name": "63.",
+      "role": "Deputat",
+      "party": "C�mpan Cristian-Emanuel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149427
+      }
+    },
+    {
+      "id": "64.",
+      "name": "64.",
+      "role": "Deputat",
+      "party": "C�mpean Ovidiu-Vasile",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "65.",
+      "name": "65.",
+      "role": "Deputat",
+      "party": "C�mpianu Andreea-Petronela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "66.",
+      "name": "66.",
+      "role": "Deputat",
+      "party": "C�rligea Florin-Eugen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "67.",
+      "name": "67.",
+      "role": "Deputat",
+      "party": "C�rligeanu Ariadna-Elena",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "68.",
+      "name": "68.",
+      "role": "Deputat",
+      "party": "Coarn� Dumitru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "69.",
+      "name": "69.",
+      "role": "Deputat",
+      "party": "Cojocaru Petru-Bogdan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "70.",
+      "name": "70.",
+      "role": "Deputat",
+      "party": "Cole�a Ilie-Alin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "71.",
+      "name": "71.",
+      "role": "Deputat",
+      "party": "Coliban Allen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "72.",
+      "name": "72.",
+      "role": "Deputat",
+      "party": "Coman Drago�-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149428
+      }
+    },
+    {
+      "id": "73.",
+      "name": "73.",
+      "role": "Deputat",
+      "party": "Constantinescu Andra-Claudia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "74.",
+      "name": "74.",
+      "role": "Deputat",
+      "party": "Constantinescu Sergiu-Mircea",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "75.",
+      "name": "75.",
+      "role": "Deputat",
+      "party": "Corche� Codru�a-Maria",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "76.",
+      "name": "76.",
+      "role": "Deputat",
+      "party": "Corendea Cosmin-Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "77.",
+      "name": "77.",
+      "role": "Deputat",
+      "party": "Cotinescu Ilie-Aurelian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "78.",
+      "name": "78.",
+      "role": "Deputat",
+      "party": "Cot�rle� Paul-Claudiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "79.",
+      "name": "79.",
+      "role": "Deputat",
+      "party": "Cozma Adrian-Felician",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "80.",
+      "name": "80.",
+      "role": "Deputat",
+      "party": "Cristian Brian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149429
+      }
+    },
+    {
+      "id": "81.",
+      "name": "81.",
+      "role": "Deputat",
+      "party": "Cr�stici Ognean",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "82.",
+      "name": "82.",
+      "role": "Deputat",
+      "party": "Cru�oveanu Marian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "83.",
+      "name": "83.",
+      "role": "Deputat",
+      "party": "Cs�p �va-Andrea",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "84.",
+      "name": "84.",
+      "role": "Deputat",
+      "party": "Csillag Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "85.",
+      "name": "85.",
+      "role": "Deputat",
+      "party": "Csoma Botond",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "86.",
+      "name": "86.",
+      "role": "Deputat",
+      "party": "Culeaf� Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "87.",
+      "name": "87.",
+      "role": "Deputat",
+      "party": "Dasc�lu Cristina-Emanuela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "88.",
+      "name": "88.",
+      "role": "Deputat",
+      "party": "Dimitriu Alexandru-Paul",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "89.",
+      "name": "89.",
+      "role": "Deputat",
+      "party": "Dobo� Elena",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149430
+      }
+    },
+    {
+      "id": "90.",
+      "name": "90.",
+      "role": "Deputat",
+      "party": "Dobre Ciprian-Minodor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "91.",
+      "name": "91.",
+      "role": "Deputat",
+      "party": "Dolineaschi Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "92.",
+      "name": "92.",
+      "role": "Deputat",
+      "party": "Dr�goescu Cezar-Mihail",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "93.",
+      "name": "93.",
+      "role": "Deputat",
+      "party": "Drinceanu Vlad-Florentin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "94.",
+      "name": "94.",
+      "role": "Deputat",
+      "party": "Drul� C�t�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "95.",
+      "name": "95.",
+      "role": "Deputat",
+      "party": "Dunava Costel Neculai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "96.",
+      "name": "96.",
+      "role": "Deputat",
+      "party": "Echert Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "97.",
+      "name": "97.",
+      "role": "Deputat",
+      "party": "Enache Diana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "98.",
+      "name": "98.",
+      "role": "Deputat",
+      "party": "Enache Mihai-Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149431
+      }
+    },
+    {
+      "id": "99.",
+      "name": "99.",
+      "role": "Deputat",
+      "party": "Enachi Raisa",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "100.",
+      "name": "100.",
+      "role": "Deputat",
+      "party": "Ene Gabriela-Corina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "101.",
+      "name": "101.",
+      "role": "Deputat",
+      "party": "F�get M�d�lin-Lauren�iu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "102.",
+      "name": "102.",
+      "role": "Deputat",
+      "party": "Fechet Mircea",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "103.",
+      "name": "103.",
+      "role": "Deputat",
+      "party": "Feodor Silviu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "104.",
+      "name": "104.",
+      "role": "Deputat",
+      "party": "Fifor Mihai-Viorel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "105.",
+      "name": "105.",
+      "role": "Deputat",
+      "party": "Firczak Iulius Marian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "106.",
+      "name": "106.",
+      "role": "Deputat",
+      "party": "Florea Gabriel-Florinel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149432
+      }
+    },
+    {
+      "id": "107.",
+      "name": "107.",
+      "role": "Deputat",
+      "party": "Furtun� Mirela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "108.",
+      "name": "108.",
+      "role": "Deputat",
+      "party": "Gal C�lin-Gra�ian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "109.",
+      "name": "109.",
+      "role": "Deputat",
+      "party": "G�l K�roly",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "110.",
+      "name": "110.",
+      "role": "Deputat",
+      "party": "Gan� Ovidiu Victor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "111.",
+      "name": "111.",
+      "role": "Deputat",
+      "party": "Gavril� Anamaria",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "112.",
+      "name": "112.",
+      "role": "Deputat",
+      "party": "Gavril� Bianca-Eugenia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "113.",
+      "name": "113.",
+      "role": "Deputat",
+      "party": "Gavrilescu Gra�iela Leocadia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "114.",
+      "name": "114.",
+      "role": "Deputat",
+      "party": "Geam�nu Aurora-Adela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "115.",
+      "name": "115.",
+      "role": "Deputat",
+      "party": "Georgescu Gheorghe-Daniel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "116.",
+      "name": "116.",
+      "role": "Deputat",
+      "party": "Gheorghe Andrei Daniel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149433
+      }
+    },
+    {
+      "id": "117.",
+      "name": "117.",
+      "role": "Deputat",
+      "party": "Gheorghe Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "118.",
+      "name": "118.",
+      "role": "Deputat",
+      "party": "Gheorghe Mihai-Claudiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "119.",
+      "name": "119.",
+      "role": "Deputat",
+      "party": "Gheorghiu Andrei-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "120.",
+      "name": "120.",
+      "role": "Deputat",
+      "party": "Ghera Giureci-Slobodan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "121.",
+      "name": "121.",
+      "role": "Deputat",
+      "party": "Gherasim Laura",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "122.",
+      "name": "122.",
+      "role": "Deputat",
+      "party": "Ghigiu Alexandru-Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "123.",
+      "name": "123.",
+      "role": "Deputat",
+      "party": "Gima George",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149434
+      }
+    },
+    {
+      "id": "124.",
+      "name": "124.",
+      "role": "Deputat",
+      "party": "Giurgiu Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "125.",
+      "name": "125.",
+      "role": "Deputat",
+      "party": "Gliga Dumitri�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "126.",
+      "name": "126.",
+      "role": "Deputat",
+      "party": "Goidescu Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "127.",
+      "name": "127.",
+      "role": "Deputat",
+      "party": "Gorghiu Alina-�tefania",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "128.",
+      "name": "128.",
+      "role": "Deputat",
+      "party": "Govor Mircea-Vasile",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "129.",
+      "name": "129.",
+      "role": "Deputat",
+      "party": "Grindeanu Sorin-Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "130.",
+      "name": "130.",
+      "role": "Deputat",
+      "party": "Grofu Daniel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "131.",
+      "name": "131.",
+      "role": "Deputat",
+      "party": "Grosaru Ioana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "132.",
+      "name": "132.",
+      "role": "Deputat",
+      "party": "Grosu Veronica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149435
+      }
+    },
+    {
+      "id": "133.",
+      "name": "133.",
+      "role": "Deputat",
+      "party": "Groza C�lin-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "134.",
+      "name": "134.",
+      "role": "Deputat",
+      "party": "Gurlui Silviu-Octavian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "135.",
+      "name": "135.",
+      "role": "Deputat",
+      "party": "Gu�� Andrei-Cosmin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "136.",
+      "name": "136.",
+      "role": "Deputat",
+      "party": "Hagiu Augustin-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "137.",
+      "name": "137.",
+      "role": "Deputat",
+      "party": "Hajdu G�bor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "138.",
+      "name": "138.",
+      "role": "Deputat",
+      "party": "Hangan Pollyanna-Hanellore",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "139.",
+      "name": "139.",
+      "role": "Deputat",
+      "party": "Holban Georgeta-Carmen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "140.",
+      "name": "140.",
+      "role": "Deputat",
+      "party": "Hristu Cosmin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149440
+      }
+    },
+    {
+      "id": "141.",
+      "name": "141.",
+      "role": "Deputat",
+      "party": "Hu�uc� Bogdan-Iulian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "142.",
+      "name": "142.",
+      "role": "Deputat",
+      "party": "Iag�r Monica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "143.",
+      "name": "143.",
+      "role": "Deputat",
+      "party": "Iancu Marius-Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "144.",
+      "name": "144.",
+      "role": "Deputat",
+      "party": "Intotero Natalia-Elena",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "145.",
+      "name": "145.",
+      "role": "Deputat",
+      "party": "Ion Nicolae-Mirel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "146.",
+      "name": "146.",
+      "role": "Deputat",
+      "party": "Ion Stelian-Cristian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "147.",
+      "name": "147.",
+      "role": "Deputat",
+      "party": "Ionescu Monica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "148.",
+      "name": "148.",
+      "role": "Deputat",
+      "party": "Ionescu Radu-Mihail",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "149.",
+      "name": "149.",
+      "role": "Deputat",
+      "party": "Ionescu Tudor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "150.",
+      "name": "150.",
+      "role": "Deputat",
+      "party": "Iordache Ion",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149441
+      }
+    },
+    {
+      "id": "151.",
+      "name": "151.",
+      "role": "Deputat",
+      "party": "Iosub Cosmin-Teodor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "152.",
+      "name": "152.",
+      "role": "Deputat",
+      "party": "Irimia Ancu�a-Florina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "153.",
+      "name": "153.",
+      "role": "Deputat",
+      "party": "Isac Marius-Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "154.",
+      "name": "154.",
+      "role": "Deputat",
+      "party": "Ivan Bogdan-Gruia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "155.",
+      "name": "155.",
+      "role": "Deputat",
+      "party": "Jianu Iosif-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "156.",
+      "name": "156.",
+      "role": "Deputat",
+      "party": "K�ntor Bogl�rka",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "157.",
+      "name": "157.",
+      "role": "Deputat",
+      "party": "Kelemen Hunor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "158.",
+      "name": "158.",
+      "role": "Deputat",
+      "party": "Kolcs�r Anquetil-K�roly",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "159.",
+      "name": "159.",
+      "role": "Deputat",
+      "party": "Koler Eduard-Virgil",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "160.",
+      "name": "160.",
+      "role": "Deputat",
+      "party": "K�nczei Csaba",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149442
+      }
+    },
+    {
+      "id": "161.",
+      "name": "161.",
+      "role": "Deputat",
+      "party": "Kroncsi� Sebastian-Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "162.",
+      "name": "162.",
+      "role": "Deputat",
+      "party": "Kulcs�r-Terza J�zsef-Gy�rgy",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "163.",
+      "name": "163.",
+      "role": "Deputat",
+      "party": "Lad�nyi L�szl�-Zsolt",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "164.",
+      "name": "164.",
+      "role": "Deputat",
+      "party": "Laz�r Teodor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "165.",
+      "name": "165.",
+      "role": "Deputat",
+      "party": "L�pu�an Remus-Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "166.",
+      "name": "166.",
+      "role": "Deputat",
+      "party": "L�z�roi Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "167.",
+      "name": "167.",
+      "role": "Deputat",
+      "party": "Lip� Elisabeta",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "168.",
+      "name": "168.",
+      "role": "Deputat",
+      "party": "Longher Ghervazen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "169.",
+      "name": "169.",
+      "role": "Deputat",
+      "party": "L�rincz �tefan-Iulian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "170.",
+      "name": "170.",
+      "role": "Deputat",
+      "party": "Lovin Ramona",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "171.",
+      "name": "171.",
+      "role": "Deputat",
+      "party": "Lungu Romeo-Daniel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149443
+      }
+    },
+    {
+      "id": "172.",
+      "name": "172.",
+      "role": "Deputat",
+      "party": "Macovei Ilie Simona-Elena",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "173.",
+      "name": "173.",
+      "role": "Deputat",
+      "party": "Magyar Lor�nd-B�lint",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "174.",
+      "name": "174.",
+      "role": "Deputat",
+      "party": "Manole Petre-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "175.",
+      "name": "175.",
+      "role": "Deputat",
+      "party": "Manta Claudiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "176.",
+      "name": "176.",
+      "role": "Deputat",
+      "party": "Marinescu Radu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "177.",
+      "name": "177.",
+      "role": "Deputat",
+      "party": "Mark� Attila-G�bor",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "178.",
+      "name": "178.",
+      "role": "Deputat",
+      "party": "Marussi George-Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "179.",
+      "name": "179.",
+      "role": "Deputat",
+      "party": "Matache Oana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "180.",
+      "name": "180.",
+      "role": "Deputat",
+      "party": "Matei Aneta",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "181.",
+      "name": "181.",
+      "role": "Deputat",
+      "party": "Matei Sergiu-Lucian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149444
+      }
+    },
+    {
+      "id": "182.",
+      "name": "182.",
+      "role": "Deputat",
+      "party": "Matichescu Mirela-Floren�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "183.",
+      "name": "183.",
+      "role": "Deputat",
+      "party": "Matie� C�lin-Gheorghe",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "184.",
+      "name": "184.",
+      "role": "Deputat",
+      "party": "M�rg�rit Mitic�-Marius",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "185.",
+      "name": "185.",
+      "role": "Deputat",
+      "party": "Merka Adrian-Miroslav",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "186.",
+      "name": "186.",
+      "role": "Deputat",
+      "party": "Micl�u Samuel-Virgil",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "187.",
+      "name": "187.",
+      "role": "Deputat",
+      "party": "Mihaiu Radu-Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "188.",
+      "name": "188.",
+      "role": "Deputat",
+      "party": "Mihalcea Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "189.",
+      "name": "189.",
+      "role": "Deputat",
+      "party": "Mihalcea Remus-Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "190.",
+      "name": "190.",
+      "role": "Deputat",
+      "party": "Mihalcea Silvia-Claudia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "191.",
+      "name": "191.",
+      "role": "Deputat",
+      "party": "Mih�escu Mugur",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "192.",
+      "name": "192.",
+      "role": "Deputat",
+      "party": "Mihu�i Bogdan-Florian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149445
+      }
+    },
+    {
+      "id": "193.",
+      "name": "193.",
+      "role": "Deputat",
+      "party": "Mikl�s Zolt�n",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "194.",
+      "name": "194.",
+      "role": "Deputat",
+      "party": "Mina Marian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "195.",
+      "name": "195.",
+      "role": "Deputat",
+      "party": "Miru�� Radu-Dinel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "196.",
+      "name": "196.",
+      "role": "Deputat",
+      "party": "Mititelu Eduard-Tatian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "197.",
+      "name": "197.",
+      "role": "Deputat",
+      "party": "Mitrea Dumitrina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "198.",
+      "name": "198.",
+      "role": "Deputat",
+      "party": "M�ndrescu Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "199.",
+      "name": "199.",
+      "role": "Deputat",
+      "party": "M�ndroc C�t�lin-Viorel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "200.",
+      "name": "200.",
+      "role": "Deputat",
+      "party": "Mocanu Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "201.",
+      "name": "201.",
+      "role": "Deputat",
+      "party": "Moiseev Alexandrin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "202.",
+      "name": "202.",
+      "role": "Deputat",
+      "party": "Moisin Radu-Marin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149446
+      }
+    },
+    {
+      "id": "203.",
+      "name": "203.",
+      "role": "Deputat",
+      "party": "Molnar Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "204.",
+      "name": "204.",
+      "role": "Deputat",
+      "party": "Morar Lucian-Ioan-Titus",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "205.",
+      "name": "205.",
+      "role": "Deputat",
+      "party": "Mo� Patricia-Simina-Arina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "206.",
+      "name": "206.",
+      "role": "Deputat",
+      "party": "Mo�teanu Liviu-Ionu�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "207.",
+      "name": "207.",
+      "role": "Deputat",
+      "party": "Muncaciu Sorin-Titus",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "208.",
+      "name": "208.",
+      "role": "Deputat",
+      "party": "Munteanu Valeriu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "209.",
+      "name": "209.",
+      "role": "Deputat",
+      "party": "Murad Mohammad",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "210.",
+      "name": "210.",
+      "role": "Deputat",
+      "party": "Murariu Oana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "211.",
+      "name": "211.",
+      "role": "Deputat",
+      "party": "Muraru Iulian-Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "212.",
+      "name": "212.",
+      "role": "Deputat",
+      "party": "Mu�at Doru-Lucian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "213.",
+      "name": "213.",
+      "role": "Deputat",
+      "party": "Nacov Gheorghe",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149447
+      }
+    },
+    {
+      "id": "214.",
+      "name": "214.",
+      "role": "Deputat",
+      "party": "Nagy Szabolcs",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "215.",
+      "name": "215.",
+      "role": "Deputat",
+      "party": "Nagy Vasile",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "216.",
+      "name": "216.",
+      "role": "Deputat",
+      "party": "Nassar Rodica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "217.",
+      "name": "217.",
+      "role": "Deputat",
+      "party": "N�cu�� Sorin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "218.",
+      "name": "218.",
+      "role": "Deputat",
+      "party": "N�sui Claudiu-Iulius-Gavril",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "219.",
+      "name": "219.",
+      "role": "Deputat",
+      "party": "Neac�u Andreea-Firu�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "220.",
+      "name": "220.",
+      "role": "Deputat",
+      "party": "Neac�u Marian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "221.",
+      "name": "221.",
+      "role": "Deputat",
+      "party": "Neagu Petre-Emanoil",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "222.",
+      "name": "222.",
+      "role": "Deputat",
+      "party": "Neam�u George-Mihail",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "223.",
+      "name": "223.",
+      "role": "Deputat",
+      "party": "Nea�� Eugen",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "224.",
+      "name": "224.",
+      "role": "Deputat",
+      "party": "Neculaescu Lauren�iu Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "225.",
+      "name": "225.",
+      "role": "Deputat",
+      "party": "Negoescu Mihai-Bogdan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149448
+      }
+    },
+    {
+      "id": "226.",
+      "name": "226.",
+      "role": "Deputat",
+      "party": "Negrea Petru-Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "227.",
+      "name": "227.",
+      "role": "Deputat",
+      "party": "Nicolae Dan-Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "228.",
+      "name": "228.",
+      "role": "Deputat",
+      "party": "Oancea Silviu-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "229.",
+      "name": "229.",
+      "role": "Deputat",
+      "party": "Oltena�u Sorin-George",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "230.",
+      "name": "230.",
+      "role": "Deputat",
+      "party": "Oprea Octavian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "231.",
+      "name": "231.",
+      "role": "Deputat",
+      "party": "Pambuccian Varujan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "232.",
+      "name": "232.",
+      "role": "Deputat",
+      "party": "Pandea Ciprian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "233.",
+      "name": "233.",
+      "role": "Deputat",
+      "party": "Paraschiv Ciprian-Constantin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "234.",
+      "name": "234.",
+      "role": "Deputat",
+      "party": "Paraschivescu Ovidiu-Romulus",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "235.",
+      "name": "235.",
+      "role": "Deputat",
+      "party": "Pascalini Nini-Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "236.",
+      "name": "236.",
+      "role": "Deputat",
+      "party": "Pascariu Mihai-Cosmin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149449
+      }
+    },
+    {
+      "id": "237.",
+      "name": "237.",
+      "role": "Deputat",
+      "party": "P�un Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "238.",
+      "name": "238.",
+      "role": "Deputat",
+      "party": "P�unescu Silviu-Titus",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "239.",
+      "name": "239.",
+      "role": "Deputat",
+      "party": "Petre�chi Nicolae-Miroslav",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "240.",
+      "name": "240.",
+      "role": "Deputat",
+      "party": "Pe�a-�tef�nescu Eliza-M�d�lina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "241.",
+      "name": "241.",
+      "role": "Deputat",
+      "party": "Pirtea Marilen - Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "242.",
+      "name": "242.",
+      "role": "Deputat",
+      "party": "Pistru-Popa Simona-Geanina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "243.",
+      "name": "243.",
+      "role": "Deputat",
+      "party": "P�cli�an Gheorghe-Petru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "244.",
+      "name": "244.",
+      "role": "Deputat",
+      "party": "Plopeanu Rodica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "245.",
+      "name": "245.",
+      "role": "Deputat",
+      "party": "Plujar Andrei George",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "246.",
+      "name": "246.",
+      "role": "Deputat",
+      "party": "Ponta Victor-Viorel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149450
+      }
+    },
+    {
+      "id": "247.",
+      "name": "247.",
+      "role": "Deputat",
+      "party": "Popa Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149451
+      }
+    },
+    {
+      "id": "248.",
+      "name": "248.",
+      "role": "Deputat",
+      "party": "Popa Cristian-Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149451
+      }
+    },
+    {
+      "id": "249.",
+      "name": "249.",
+      "role": "Deputat",
+      "party": "Popa Dorin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149451
+      }
+    },
+    {
+      "id": "250.",
+      "name": "250.",
+      "role": "Deputat",
+      "party": "Popa George-Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149451
+      }
+    },
+    {
+      "id": "251.",
+      "name": "251.",
+      "role": "Deputat",
+      "party": "Popa Maricel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149451
+      }
+    },
+    {
+      "id": "252.",
+      "name": "252.",
+      "role": "Deputat",
+      "party": "Popa �tefan-Ovidiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "253.",
+      "name": "253.",
+      "role": "Deputat",
+      "party": "Popescu Antonio-Gabi",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "254.",
+      "name": "254.",
+      "role": "Deputat",
+      "party": "Popovici Florin-Cornel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "255.",
+      "name": "255.",
+      "role": "Deputat",
+      "party": "Porumboiu Gabriela",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "256.",
+      "name": "256.",
+      "role": "Deputat",
+      "party": "Priceputu Vasilic�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "257.",
+      "name": "257.",
+      "role": "Deputat",
+      "party": "Priescu Ionelia-Floren�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "258.",
+      "name": "258.",
+      "role": "Deputat",
+      "party": "Pri�c� R�zvan Sorin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "259.",
+      "name": "259.",
+      "role": "Deputat",
+      "party": "Prun� Cristina-M�d�lina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149452
+      }
+    },
+    {
+      "id": "260.",
+      "name": "260.",
+      "role": "Deputat",
+      "party": "Pu�ca�u Lucian-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "261.",
+      "name": "261.",
+      "role": "Deputat",
+      "party": "Pu�ca�u Petre",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "262.",
+      "name": "262.",
+      "role": "Deputat",
+      "party": "Radu Fabian-Cristian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "263.",
+      "name": "263.",
+      "role": "Deputat",
+      "party": "Rafila Alexandru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "264.",
+      "name": "264.",
+      "role": "Deputat",
+      "party": "R�ducanu Sebastian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "265.",
+      "name": "265.",
+      "role": "Deputat",
+      "party": "R�ducea Gheorghe-Valentin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "266.",
+      "name": "266.",
+      "role": "Deputat",
+      "party": "Rigman Ciprian-Doru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "267.",
+      "name": "267.",
+      "role": "Deputat",
+      "party": "Rinder Ana-Smaranda",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "268.",
+      "name": "268.",
+      "role": "Deputat",
+      "party": "Rodeanu Bogdan-Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149453
+      }
+    },
+    {
+      "id": "269.",
+      "name": "269.",
+      "role": "Deputat",
+      "party": "Rogobete Alexandru-Florin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "270.",
+      "name": "270.",
+      "role": "Deputat",
+      "party": "Roman Florin-Claudiu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "271.",
+      "name": "271.",
+      "role": "Deputat",
+      "party": "Ro�ca Mircea",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "272.",
+      "name": "272.",
+      "role": "Deputat",
+      "party": "Rusu Sebastian-Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "273.",
+      "name": "273.",
+      "role": "Deputat",
+      "party": "Samoil� Ion",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "274.",
+      "name": "274.",
+      "role": "Deputat",
+      "party": "Sandu Viorica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "275.",
+      "name": "275.",
+      "role": "Deputat",
+      "party": "Scarlat George",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "276.",
+      "name": "276.",
+      "role": "Deputat",
+      "party": "Seres D�nes",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "277.",
+      "name": "277.",
+      "role": "Deputat",
+      "party": "Sighiart�u Robert-Ionatan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "278.",
+      "name": "278.",
+      "role": "Deputat",
+      "party": "Simion George-Nicolae",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149454
+      }
+    },
+    {
+      "id": "279.",
+      "name": "279.",
+      "role": "Deputat",
+      "party": "Simu Aurora-Tasica",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "280.",
+      "name": "280.",
+      "role": "Deputat",
+      "party": "Solomon Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "281.",
+      "name": "281.",
+      "role": "Deputat",
+      "party": "Stancu Ionel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "282.",
+      "name": "282.",
+      "role": "Deputat",
+      "party": "St�nescu Vetu�a",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "283.",
+      "name": "283.",
+      "role": "Deputat",
+      "party": "Stoenic� Irina-Florentina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "284.",
+      "name": "284.",
+      "role": "Deputat",
+      "party": "Stoica Alin-Bogdan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "285.",
+      "name": "285.",
+      "role": "Deputat",
+      "party": "Stoica Bogdan-Alin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149455
+      }
+    },
+    {
+      "id": "286.",
+      "name": "286.",
+      "role": "Deputat",
+      "party": "Stoica Diana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "287.",
+      "name": "287.",
+      "role": "Deputat",
+      "party": "Stoica �tefan-Bucur",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "288.",
+      "name": "288.",
+      "role": "Deputat",
+      "party": "Stroe Ionu�-Marian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "289.",
+      "name": "289.",
+      "role": "Deputat",
+      "party": "Suciu Vasile-Daniel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "290.",
+      "name": "290.",
+      "role": "Deputat",
+      "party": "Szab� �d�n",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "291.",
+      "name": "291.",
+      "role": "Deputat",
+      "party": "Sz�ke Ecaterina-Mariana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "292.",
+      "name": "292.",
+      "role": "Deputat",
+      "party": "�endroiu Vlad-Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "293.",
+      "name": "293.",
+      "role": "Deputat",
+      "party": "�erban Ciprian-Constantin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "294.",
+      "name": "294.",
+      "role": "Deputat",
+      "party": "�erban George C�t�lin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "295.",
+      "name": "295.",
+      "role": "Deputat",
+      "party": "�erban Gianina",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "296.",
+      "name": "296.",
+      "role": "Deputat",
+      "party": "�tirbu Gigel-Sorinel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149456
+      }
+    },
+    {
+      "id": "297.",
+      "name": "297.",
+      "role": "Deputat",
+      "party": "Tanas� Dan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "298.",
+      "name": "298.",
+      "role": "Deputat",
+      "party": "Tanas� �tefan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "299.",
+      "name": "299.",
+      "role": "Deputat",
+      "party": "Teslariu Andrei-Ionu�",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "300.",
+      "name": "300.",
+      "role": "Deputat",
+      "party": "Tilea Dumitru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "301.",
+      "name": "301.",
+      "role": "Deputat",
+      "party": "T�lv�r Angel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "302.",
+      "name": "302.",
+      "role": "Deputat",
+      "party": "Toader Bogdan-Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "303.",
+      "name": "303.",
+      "role": "Deputat",
+      "party": "Toader Elena-Laura",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "304.",
+      "name": "304.",
+      "role": "Deputat",
+      "party": "Toma Ilie",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "305.",
+      "name": "305.",
+      "role": "Deputat",
+      "party": "Tomoescu Ion-Alin",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "306.",
+      "name": "306.",
+      "role": "Deputat",
+      "party": "Trif Bogdan Gheorghe",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "307.",
+      "name": "307.",
+      "role": "Deputat",
+      "party": "Turcan Raluca",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "308.",
+      "name": "308.",
+      "role": "Deputat",
+      "party": "Tu�a Adriana Diana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149457
+      }
+    },
+    {
+      "id": "309.",
+      "name": "309.",
+      "role": "Deputat",
+      "party": "�int� �tefan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "310.",
+      "name": "310.",
+      "role": "Deputat",
+      "party": "�iplea Dumitru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "311.",
+      "name": "311.",
+      "role": "Deputat",
+      "party": "�iu Mihai-Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "312.",
+      "name": "312.",
+      "role": "Deputat",
+      "party": "�oiu Oana-Silvia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "313.",
+      "name": "313.",
+      "role": "Deputat",
+      "party": "Ungureanu Emanuel-Dumitru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "314.",
+      "name": "314.",
+      "role": "Deputat",
+      "party": "Vadim-Tudor Lidia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "315.",
+      "name": "315.",
+      "role": "Deputat",
+      "party": "Vass Levente",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "316.",
+      "name": "316.",
+      "role": "Deputat",
+      "party": "V�duva Dumitru",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "317.",
+      "name": "317.",
+      "role": "Deputat",
+      "party": "V�rg� Mariana",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "318.",
+      "name": "318.",
+      "role": "Deputat",
+      "party": "Vedina� Verginia",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "319.",
+      "name": "319.",
+      "role": "Deputat",
+      "party": "Vela Ion-Marcel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "320.",
+      "name": "320.",
+      "role": "Deputat",
+      "party": "Velcescu Florin-Bogdan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149458
+      }
+    },
+    {
+      "id": "321.",
+      "name": "321.",
+      "role": "Deputat",
+      "party": "Vexler Silviu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "322.",
+      "name": "322.",
+      "role": "Deputat",
+      "party": "Vidra Vlad-Andrei",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "323.",
+      "name": "323.",
+      "role": "Deputat",
+      "party": "Vulpescu Ioan",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "324.",
+      "name": "324.",
+      "role": "Deputat",
+      "party": "Vulpoiu Dorel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "325.",
+      "name": "325.",
+      "role": "Deputat",
+      "party": "Vu�can Voicu",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "326.",
+      "name": "326.",
+      "role": "Deputat",
+      "party": "Weber Mihai",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "327.",
+      "name": "327.",
+      "role": "Deputat",
+      "party": "Wiener Adrian",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "328.",
+      "name": "328.",
+      "role": "Deputat",
+      "party": "Zahoranszki Brigitta-Eva",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "329.",
+      "name": "329.",
+      "role": "Deputat",
+      "party": "Zakarias Zolt�n",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    },
+    {
+      "id": "330.",
+      "name": "330.",
+      "role": "Deputat",
+      "party": "Zisopol Drago� Gabriel",
+      "contact": {
+        "email": "",
+        "phone": ""
+      },
+      "location": {
+        "county": "",
+        "address": ""
+      },
+      "activity": {
+        "presence": 50,
+        "initiatives": 10,
+        "votes": 50,
+        "media": 50
+      },
+      "imageUrl": "",
+      "meta": {
+        "updatedAt": 1776113149459
+      }
+    }
+  ]
+}
