@@ -1,0 +1,38 @@
+name: Scrape Politicians
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # zilnic la 06:00
+  workflow_dispatch: # permite run manual
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd scraper
+          npm install
+
+      - name: Run scraper
+        run: |
+          cd scraper
+          node index.js
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+
+          git add .
+          git commit -m "auto update politicians" || echo "no changes"
+          git push
