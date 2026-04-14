@@ -163,7 +163,7 @@ async function scrape() {
     });
 
     // ⚠️ limit test
-    if (politicians.length >= 20) break;
+ //   if (politicians.length >= 20) break;
   }
 
   console.log("🔥 TOTAL:", politicians.length);
