@@ -20,12 +20,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd scraper
           npm install
 
       - name: Run scraper
         run: |
-          cd scraper
           node index.js
 
       - name: Commit & Push
