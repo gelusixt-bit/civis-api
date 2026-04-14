@@ -5,11 +5,32 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const iconv = require("iconv-lite");
 
-// 🔥 CONFIG
 const BASE_URL = "https://www.cdep.ro";
 
 // =====================
-// 🔧 NORMALIZE ID
+// 🔁 HELPER: RETRY REQUEST
+// =====================
+async function fetchWithRetry(url, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await axios.get(url, {
+        responseType: "arraybuffer",
+        headers: { "User-Agent": "Mozilla/5.0" },
+        timeout: 15000,
+      });
+
+      return res.data;
+    } catch (e) {
+      console.log(`⚠️ Retry ${i + 1} failed: ${url}`);
+      await new Promise((r) => setTimeout(r, 2000));
+    }
+  }
+
+  throw new Error(`❌ Failed after retries: ${url}`);
+}
+
+// =====================
+// 🔧 NORMALIZE
 // =====================
 function normalizeId(name) {
   return name
@@ -20,9 +41,6 @@ function normalizeId(name) {
     .replace(/\s+/g, "_");
 }
 
-// =====================
-// 🔧 NORMALIZE PARTY
-// =====================
 function normalizeParty(party) {
   if (party.includes("PSD")) return "PSD";
   if (party.includes("PNL")) return "PNL";
@@ -30,65 +48,54 @@ function normalizeParty(party) {
   if (party.includes("AUR")) return "AUR";
   if (party.includes("SOS")) return "SOS";
   if (party.includes("Neafilia")) return "Independent";
-  if (party.includes("Minoritati")) return "MINORITATI";
+  if (party.includes("Minorit")) return "Minoritati";
   return party;
 }
 
 // =====================
-// 🧠 SCRAPE PROFIL (EMAIL)
+// 📧 PROFILE SCRAPER
 // =====================
 async function scrapeProfile(url) {
   try {
-    const response = await axios.get(url, {
-      responseType: "arraybuffer",
-      headers: { "User-Agent": "Mozilla/5.0" },
-      timeout: 10000,
-    });
-
-    const html = iconv.decode(response.data, "latin2");
+    const buffer = await fetchWithRetry(url);
+    const html = iconv.decode(buffer, "latin2");
     const $ = cheerio.load(html);
 
     let email = "";
 
-    // 1. mailto
     const mailto = $("a[href^='mailto:']").attr("href");
     if (mailto) {
       email = mailto.replace("mailto:", "").trim();
     }
 
-    // 2. fallback regex
     if (!email) {
-      const bodyText = $("body").text();
-      const match = bodyText.match(/[A-Z0-9._%+-]+@cdep\.ro/i);
-      if (match) {
-        email = match[0];
-      }
+      const text = $("body").text();
+      const match = text.match(/[A-Z0-9._%+-]+@cdep\.ro/i);
+      if (match) email = match[0];
     }
 
     return { email };
   } catch (e) {
-    console.error("Profile error:", url);
+    console.log("❌ profile error:", url);
     return { email: "" };
   }
 }
 
 // =====================
-// 🧠 SCRAPE LISTĂ
+// 🧠 MAIN SCRAPER
 // =====================
 async function scrape() {
   const url = `${BASE_URL}/pls/parlam/structura2015.mp`;
 
-  const response = await axios.get(url, {
-    responseType: "arraybuffer",
-    headers: { "User-Agent": "Mozilla/5.0" },
-    timeout: 10000,
-  });
-
-  const html = iconv.decode(response.data, "latin2");
+  const buffer = await fetchWithRetry(url);
+  const html = iconv.decode(buffer, "latin2");
   const $ = cheerio.load(html);
 
   const politicians = [];
+
   const rows = $("table tr").toArray();
+
+  console.log("📊 Total rows:", rows.length);
 
   for (let i = 0; i < rows.length; i++) {
     const el = rows[i];
@@ -97,6 +104,7 @@ async function scrape() {
     if (cols.length < 4) continue;
 
     const linkEl = cols.eq(1).find("a");
+
     const name = linkEl.text().trim();
     const relativeLink = linkEl.attr("href");
 
@@ -106,29 +114,29 @@ async function scrape() {
       ? `${BASE_URL}${relativeLink}`
       : null;
 
-    // 🎯 PARTY (mutat sus — FIX BUG)
-    const rawParty = cols.eq(3).text().trim();
-    const party = normalizeParty(rawParty);
-
-    // 🏛 COUNTY
     const countyRaw =
       cols.eq(2).find("a").text().trim() ||
       cols.eq(2).text().trim();
 
     const county =
-      countyRaw.split("/")[1]?.trim() ||
-      (party === "MINORITATI" ? "NATIONAL" : countyRaw);
+      countyRaw.split("/")[1]?.trim() || countyRaw;
 
-    // 📧 EMAIL
+    const rawParty = cols.eq(3).text().trim();
+    const party = normalizeParty(rawParty);
+
     let email = "";
+
     if (profileUrl) {
       const profileData = await scrapeProfile(profileUrl);
       email = profileData.email;
+
+      // 🧠 RATE LIMIT (foarte important)
+      await new Promise((r) => setTimeout(r, 300));
     }
 
     const id = normalizeId(name);
 
-    console.log("✔", name, "|", party, "|", county, "|", email);
+    console.log("✔", name);
 
     politicians.push({
       id,
@@ -153,17 +161,13 @@ async function scrape() {
         media: 50,
       },
 
-      score: 0, // 🔥 pregătit pentru AI ranking
-
+      score: 0,
       imageUrl: "",
 
       meta: {
         updatedAt: Date.now(),
       },
     });
-
-    // ⚠️ limit test
- //   if (politicians.length >= 20) break;
   }
 
   console.log("🔥 TOTAL:", politicians.length);
@@ -172,65 +176,24 @@ async function scrape() {
 }
 
 // =====================
-// 💾 SAVE LOCAL
+// 💾 SAVE
 // =====================
 function saveToFile(data) {
   fs.writeFileSync(
     "politicians.json",
     JSON.stringify(data, null, 2)
   );
-  console.log("💾 Saved locally");
+  console.log("💾 Saved JSON");
 }
 
-async function uploadToGitHub(content) {
-  const {
-    GITHUB_TOKEN,
-    GITHUB_OWNER,
-    GITHUB_REPO,
-    GITHUB_FILE,
-  } = process.env;
-
-  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_FILE}`;
-
-  let sha = null;
-
-  try {
-    const res = await axios.get(url, {
-      headers: {
-        Authorization: `token ${GITHUB_TOKEN}`,
-      },
-    });
-    sha = res.data.sha;
-  } catch (e) {
-    console.log("📄 File does not exist, creating...");
-  }
-
-  await axios.put(
-    url,
-    {
-      message: "auto update politicians",
-      content: Buffer.from(content).toString("base64"),
-      sha,
-    },
-    {
-      headers: {
-        Authorization: `token ${GITHUB_TOKEN}`,
-      },
-    }
-  );
-
-  console.log("🚀 Uploaded to GitHub");
-}
 // =====================
-// 🚀 MAIN
+// 🚀 RUN
 // =====================
 async function run() {
   try {
     const data = await scrape();
     saveToFile(data);
     console.log("✅ DONE");
-    await uploadToGitHub(JSON.stringify(data, null, 2));
-    console.log("✅ Up to github DONE");
   } catch (e) {
     console.error("❌ ERROR:", e.message);
   }
