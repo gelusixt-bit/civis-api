@@ -1,4 +1,23 @@
-require("dotenv").config();
+const admin = require("firebase-admin");
+
+/// 🔥 INIT SAFE (GitHub + Firebase)
+if (!admin.apps.length) {
+  if (process.env.FIREBASE_KEY) {
+    admin.initializeApp({
+      credential: admin.credential.cert(
+        JSON.parse(process.env.FIREBASE_KEY)
+      ),
+    });
+    console.log("🔥 Firebase initialized via KEY");
+  } else {
+    admin.initializeApp();
+    console.log("🔥 Firebase initialized default");
+  }
+}
+
+const db = admin.firestore();
+
+const { onSchedule } = require("firebase-functions/v2/scheduler");
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -8,7 +27,7 @@ const iconv = require("iconv-lite");
 const BASE_URL = "https://www.cdep.ro";
 
 // =====================
-// 🔁 HELPER: RETRY REQUEST
+// 🔁 RETRY
 // =====================
 async function fetchWithRetry(url, retries = 3) {
   for (let i = 0; i < retries; i++) {
@@ -21,24 +40,28 @@ async function fetchWithRetry(url, retries = 3) {
 
       return res.data;
     } catch (e) {
-      console.log(`⚠️ Retry ${i + 1} failed: ${url}`);
+      console.log(`⚠️ Retry ${i + 1}: ${url}`);
       await new Promise((r) => setTimeout(r, 2000));
     }
   }
 
-  throw new Error(`❌ Failed after retries: ${url}`);
+  throw new Error(`❌ Failed: ${url}`);
 }
 
 // =====================
 // 🔧 NORMALIZE
 // =====================
-function normalizeId(name) {
-  return name
+function normalize(text) {
+  return text
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^a-z0-9\s-]/g, "")
-    .replace(/\s+/g, "_");
+    .replace(/[^a-z0-9 ]/g, "");
+}
+
+/// 🔥 ID UNIC (IMPORTANT)
+function createId(name) {
+  return normalize(name).replace(/\s+/g, "_");
 }
 
 function normalizeParty(party) {
@@ -53,36 +76,7 @@ function normalizeParty(party) {
 }
 
 // =====================
-// 📧 PROFILE SCRAPER
-// =====================
-async function scrapeProfile(url) {
-  try {
-    const buffer = await fetchWithRetry(url);
-    const html = iconv.decode(buffer, "latin2");
-    const $ = cheerio.load(html);
-
-    let email = "";
-
-    const mailto = $("a[href^='mailto:']").attr("href");
-    if (mailto) {
-      email = mailto.replace("mailto:", "").trim();
-    }
-
-    if (!email) {
-      const text = $("body").text();
-      const match = text.match(/[A-Z0-9._%+-]+@cdep\.ro/i);
-      if (match) email = match[0];
-    }
-
-    return { email };
-  } catch (e) {
-    console.log("❌ profile error:", url);
-    return { email: "" };
-  }
-}
-
-// =====================
-// 🧠 MAIN SCRAPER
+// 🧠 SCRAPER
 // =====================
 async function scrape() {
   const url = `${BASE_URL}/pls/parlam/structura2015.mp`;
@@ -92,27 +86,18 @@ async function scrape() {
   const $ = cheerio.load(html);
 
   const politicians = [];
-
   const rows = $("table tr").toArray();
 
-  console.log("📊 Total rows:", rows.length);
+  console.log("📊 Rows:", rows.length);
 
-  for (let i = 0; i < rows.length; i++) {
-    const el = rows[i];
+  for (const el of rows) {
     const cols = $(el).find("td");
-
     if (cols.length < 4) continue;
 
     const linkEl = cols.eq(1).find("a");
 
     const name = linkEl.text().trim();
-    const relativeLink = linkEl.attr("href");
-
     if (!name || name.length < 5) continue;
-
-    const profileUrl = relativeLink
-      ? `${BASE_URL}${relativeLink}`
-      : null;
 
     const countyRaw =
       cols.eq(2).find("a").text().trim() ||
@@ -121,82 +106,119 @@ async function scrape() {
     const county =
       countyRaw.split("/")[1]?.trim() || countyRaw;
 
-    const rawParty = cols.eq(3).text().trim();
-    const party = normalizeParty(rawParty);
+    const party = normalizeParty(cols.eq(3).text().trim());
 
-    let email = "";
-
-    if (profileUrl) {
-      const profileData = await scrapeProfile(profileUrl);
-      email = profileData.email;
-
-      // 🧠 RATE LIMIT (foarte important)
-      await new Promise((r) => setTimeout(r, 300));
-    }
-
-    const id = normalizeId(name);
-
-    console.log("✔", name);
+    const id = createId(name);
 
     politicians.push({
       id,
       name,
-      role: "Deputat",
       party,
-
-      contact: {
-        email,
-        phone: "",
-      },
-
-      location: {
-        county,
-        address: "",
-      },
-
-      activity: {
-        presence: 50,
-        initiatives: 10,
-        votes: 50,
-        media: 50,
-      },
-
-      score: 0,
-      imageUrl: "",
-
-      meta: {
-        updatedAt: Date.now(),
-      },
+      county,
+      email: "",
+      updatedAt: Date.now(),
     });
+
+    console.log("✔", name);
   }
 
   console.log("🔥 TOTAL:", politicians.length);
 
-  return { politicians };
+  return politicians;
 }
 
 // =====================
-// 💾 SAVE
+// 💾 UPSERT FIRESTORE (SAFE)
+// =====================
+async function saveToFirestore(politicians) {
+  console.log("🔥 Writing to Firestore (UPSERT MODE)...");
+
+  const batchSize = 400;
+  let batch = db.batch();
+  let count = 0;
+  let total = 0;
+
+  for (const p of politicians) {
+    const ref = db.collection("politicians").doc(p.id);
+
+    batch.set(
+      ref,
+      {
+        ...p,
+        updatedAt: Date.now(),
+      },
+      { merge: true }
+    );
+
+    count++;
+    total++;
+
+    if (count === batchSize) {
+      await batch.commit();
+      console.log("✅ Batch committed:", total);
+
+      batch = db.batch();
+      count = 0;
+    }
+  }
+
+  if (count > 0) {
+    await batch.commit();
+  }
+
+  console.log("✅ Firestore UPSERT DONE:", total);
+}
+
+// =====================
+// 💾 SAVE LOCAL (optional)
 // =====================
 function saveToFile(data) {
   fs.writeFileSync(
     "politicians.json",
     JSON.stringify(data, null, 2)
   );
-  console.log("💾 Saved JSON");
+  console.log("💾 JSON saved");
 }
 
 // =====================
-// 🚀 RUN
+// ☁️ CLOUD FUNCTION
 // =====================
-async function run() {
-  try {
-    const data = await scrape();
-    saveToFile(data);
-    console.log("✅ DONE");
-  } catch (e) {
-    console.error("❌ ERROR:", e.message);
+exports.syncPoliticians = onSchedule(
+  {
+    schedule: "every 24 hours", // 🔥 test: "every 5 minutes"
+    region: "europe-west1",
+    timeoutSeconds: 120,
+    memory: "512MiB",
+  },
+  async () => {
+    console.log("🔥 SYNC POLITICIANS START");
+
+    try {
+      const politicians = await scrape();
+
+      await saveToFirestore(politicians);
+
+      console.log("🔥 SYNC POLITICIANS DONE:", politicians.length);
+    } catch (e) {
+      console.error("❌ ERROR:", e.message);
+    }
   }
-}
+);
 
-run();
+// =====================
+// ▶️ RUN LOCAL (optional)
+// =====================
+if (require.main === module) {
+  (async () => {
+    try {
+      const politicians = await scrape();
+
+      await saveToFirestore(politicians);
+      saveToFile(politicians);
+
+      console.log("✅ LOCAL DONE");
+    } catch (e) {
+      console.error("❌ ERROR:", e.message);
+    }
+  })();
+}
